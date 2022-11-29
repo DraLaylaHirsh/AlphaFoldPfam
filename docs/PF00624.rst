@@ -101,3 +101,5 @@ Alphafold results - spectrum b
 Alphafold results - units from MRF 
 
 .. image:: /images/G8C135alphafoldUnits.png
+
+`Alphafold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/602e22e16732c4293d9dad1abf9e4e752a186522/docs/result_G8C135_TETPH.zip>`_
