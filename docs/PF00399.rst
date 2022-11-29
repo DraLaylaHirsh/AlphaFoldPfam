@@ -217,3 +217,9 @@ Alphafold results - units from MRF
 Alphafold results - region evaluated in MRF 
 
 .. image:: /images/A0A0N0NR21alphafoldregion.png
+
+`Superimposed unit fragments <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/cf74a8a51ffb012e1e02264ed0ea4faf61052ee9/docs/resultA0A0N0NR21.pdb>`_
+
+`AlphaFold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/cf74a8a51ffb012e1e02264ed0ea4faf61052ee9/docs/A0A0N0NR21PF00399_804d5.result.zip>`_
+
+
