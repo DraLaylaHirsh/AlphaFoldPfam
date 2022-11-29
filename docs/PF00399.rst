@@ -20,7 +20,7 @@ G2YIK9_BOTF4
   SAPVDFTGAANSYQISGSLAAAAIGLFAAIL
 
 
-.. code-block:: MRF results
+.. code-block:: MRFresults
 
   Region 1: 211-400, 23 aa length, 9 units
   TSAA----GAPITQISDGQVQGA
