@@ -84,6 +84,7 @@ G2YIK9_BOTF4
 Sequence:
 
 .. code-block:: Sequence
+
   >tr|K1XX71|K1XX71_MARBU Covalently-linked cell wall protein OS=Marssonina brunnea f. sp. multigermtubi (strain MB_m1) OX=1072389 GN=MBM_04240 PE=4 SV=1
   MQTVLALTALAAVAFAGVAPHVARTVPAGCSTNYDGKFQVTILNGSSVVTKRELAKRASS
   DTCGQPGLLTSTLKDGILTDSEGRIGNIVSNRQFQYDPAPGQTGAVYTDGFSICSNGSLA
@@ -123,13 +124,13 @@ TAPAS results:
   tr_K1XX71_K1XX71_MARBU=1072389_GN=MBM_04240_PE=4_SV=1,consensus disordered region,TAPASS,162,309
 
 
-#Alphafold results - spectrum b
+Alphafold results - spectrum b
 
-#.. image:: /images/.png
+.. image:: /images/K1XX71alphafold.png
 
-#Alphafold results - units from MRF 
+Alphafold results - units from MRF 
 
-#.. image:: /images/.png
+.. image:: /images/K1XX71alphafoldUnits.png
 
 
  
