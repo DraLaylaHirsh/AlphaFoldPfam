@@ -67,5 +67,13 @@ TAPAS results:
   tr_G2YIK9_G2YIK9_BOTF4_=999810_GN=BofuT4_P018520.1_PE=4_SV=1,consensus ordered region,TAPASS,305,451
   tr_G2YIK9_G2YIK9_BOTF4_=999810_GN=BofuT4_P018520.1_PE=4_SV=1,consensus disordered region,TAPASS,193,304
 
+Alphafold results - spectrum b
+
 .. image:: /images/G2YIK9_alphaFold.png
+
+Alphafold results - units from MRF 
+
+.. image:: /images/G2YIK9_alphaFold.png
+
+
 
