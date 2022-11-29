@@ -76,4 +76,60 @@ Alphafold results - units from MRF
 .. image:: /images/G2YIK9_alphaFoldUnits.png
 
 
+G2YIK9_BOTF4
+------------
 
+`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/K1XX71/>`_
+
+Sequence:
+
+.. code-block:: Sequence
+  >tr|K1XX71|K1XX71_MARBU Covalently-linked cell wall protein OS=Marssonina brunnea f. sp. multigermtubi (strain MB_m1) OX=1072389 GN=MBM_04240 PE=4 SV=1
+  MQTVLALTALAAVAFAGVAPHVARTVPAGCSTNYDGKFQVTILNGSSVVTKRELAKRASS
+  DTCGQPGLLTSTLKDGILTDSEGRIGNIVSNRQFQYDPAPGQTGAVYTDGFSICSNGSLA
+  SKAGSTVFYSCKSGDFANLYDQSIAPYCLPVFIDVMPCGTSSPGATVSQQKDGQPTATGS
+  VAPVTQITDGQAQVPTSVPPVTQINDGQVQAPTKAPPAPPAVTQITDGQLQVPTAGIPVT
+  QISDGQVQVPTAVTSQRLPAVSQIPDGQLQSNVSTNATKPPMPISSSGNGLMAGSFMTLV
+  MVVAAMLFL
+
+
+MRF results:
+
+.. code-block:: MRFresults
+
+  Region 1: 160-274, 30 aa length, 6 units
+  TSS-----PGAT----VSQQKDGQPT--AT
+  GSV-----A--P----VTQITDGQAQ--VP
+  TSV-----P--P----VTQINDGQVQ--AP
+  TKA-----P--PAPPAVTQITDGQLQ--VP
+  TAG-----I--P----VTQISDGQVQ--VP
+  TAVTSQRLP--A----VSQIPDGQLQSNVS
+
+
+TAPAS results:
+
+.. code-block:: TAPASresults
+
+  tr_K1XX71_K1XX71_MARBU=1072389_GN=MBM_04240_PE=4_SV=1,disordered region,IUPred,89,93
+  tr_K1XX71_K1XX71_MARBU=1072389_GN=MBM_04240_PE=4_SV=1,disordered region,IUPred,162,237
+  tr_K1XX71_K1XX71_MARBU=1072389_GN=MBM_04240_PE=4_SV=1,disordered region,IUPred,243,288
+  tr_K1XX71_K1XX71_MARBU=1072389_GN=MBM_04240_PE=4_SV=1,disordered region,BISMMpredictor,166,181
+  tr_K1XX71_K1XX71_MARBU=1072389_GN=MBM_04240_PE=4_SV=1,disordered region,BISMMpredictor,262,283
+  tr_K1XX71_K1XX71_MARBU=1072389_GN=MBM_04240_PE=4_SV=1,functional domain,PFAM,182,198,PF00399.20
+  tr_K1XX71_K1XX71_MARBU=1072389_GN=MBM_04240_PE=4_SV=1,functional domain,PFAM,200,215,PF00399.20
+  tr_K1XX71_K1XX71_MARBU=1072389_GN=MBM_04240_PE=4_SV=1,functional domain,PFAM,221,235,PF00399.20
+  tr_K1XX71_K1XX71_MARBU=1072389_GN=MBM_04240_PE=4_SV=1,functional domain,PFAM,238,253,PF00399.20
+  tr_K1XX71_K1XX71_MARBU=1072389_GN=MBM_04240_PE=4_SV=1,consensus ordered region,TAPASS,1,161
+  tr_K1XX71_K1XX71_MARBU=1072389_GN=MBM_04240_PE=4_SV=1,consensus disordered region,TAPASS,162,309
+
+
+#Alphafold results - spectrum b
+
+#.. image:: /images/.png
+
+#Alphafold results - units from MRF 
+
+#.. image:: /images/.png
+
+
+ 
