@@ -207,10 +207,10 @@ TAPAS results:
 
 Alphafold results - spectrum b
 
-.. image:: /images/.png
+.. image:: /images/A0A0N0NR21alphafold.png
 
 Alphafold results - units from MRF 
 
-.. image:: /images/.png
+.. image:: /images/A0A0N0NR21alphafoldUnits.png
 
  
