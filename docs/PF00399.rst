@@ -7,7 +7,7 @@ G2YIK9_BOTF4
 
 `Interpro <https://www.ebi.ac.uk/interpro/protein/UniProt/G2YIK9/>`_
 
-.. code-block:: Sequence:
+.. code-block:: Sequence
 
   >tr|G2YIK9|G2YIK9_BOTF4 Covalently-linked cell wall protein OS=Botryotinia fuckeliana (strain T4) OX=999810 GN=BofuT4_P018520.1 PE=4 SV=1
   MKTTLVVVAGLVSVASAQVTALITPTASAPDGCATSYSGAFQISTVNVSSVAKRQQKRAD
@@ -19,7 +19,8 @@ G2YIK9_BOTF4
   AAAPSAVVSQIPDGQIQAPTSAATLETSTSLAGAVISQISDGQVQAPTATPTNGTYSSIT
   SAPVDFTGAANSYQISGSLAAAAIGLFAAIL
 
-.. code-block:: MRF results:
+.. code-block:: MRF results
+
   Region 1: 211-400, 23 aa length, 9 units
   TSAA----GAPITQISDGQVQGA
   TSVAPSPTGAPISQITDGQIQGA
