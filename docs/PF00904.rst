@@ -138,11 +138,26 @@ TAPAS results:
 
 .. code-block:: TAPASresults
 
-
+  sp_P14708_OX=9600_GN=IVL_PE=2_SV=1,structured domain,CATH,82,308,3.80.10.10/FF/106867
+  sp_P14708_OX=9600_GN=IVL_PE=2_SV=1,structured domain,CATH,398,551,3.80.10.10/FF/106867
+  sp_P14708_OX=9600_GN=IVL_PE=2_SV=1,disordered region,IUPred,1,624
+  sp_P14708_OX=9600_GN=IVL_PE=2_SV=1,disordered region,IUPred,632,835
+  sp_P14708_OX=9600_GN=IVL_PE=2_SV=1,disordered region,BISMMpredictor,21,48
+  sp_P14708_OX=9600_GN=IVL_PE=2_SV=1,disordered region,BISMMpredictor,70,133
+  sp_P14708_OX=9600_GN=IVL_PE=2_SV=1,disordered region,BISMMpredictor,654,675
+  sp_P14708_OX=9600_GN=IVL_PE=2_SV=1,disordered region,BISMMpredictor,677,694
+  sp_P14708_OX=9600_GN=IVL_PE=2_SV=1,disordered region,BISMMpredictor,723,756
+  sp_P14708_OX=9600_GN=IVL_PE=2_SV=1,disordered region,BISMMpredictor,765,820
+  sp_P14708_OX=9600_GN=IVL_PE=2_SV=1,functional domain,PFAM,1,69,PF10583.10
+  sp_P14708_OX=9600_GN=IVL_PE=2_SV=1,consensus ordered region,TAPASS,83,308
+  sp_P14708_OX=9600_GN=IVL_PE=2_SV=1,consensus ordered region,TAPASS,399,551
+  sp_P14708_OX=9600_GN=IVL_PE=2_SV=1,consensus disordered region,TAPASS,1,82
+  sp_P14708_OX=9600_GN=IVL_PE=2_SV=1,consensus disordered region,TAPASS,309,398
+  sp_P14708_OX=9600_GN=IVL_PE=2_SV=1,consensus disordered region,TAPASS,552,861
 
 Alphafold results - spectrum b
 
-.. image:: /images/.png
+.. image:: /images/P14708alphafold.png
 
 Alphafold results - units from MRF 
 
