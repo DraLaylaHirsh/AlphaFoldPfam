@@ -1,7 +1,9 @@
 PF00402 - Calponin family repeat
+================================
 
 F6Y516_CIOIN
 ------------
+
 
 `Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/G2YIK9/>`_
 
