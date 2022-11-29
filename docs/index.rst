@@ -31,6 +31,8 @@ Protein Families
 .. toctree::
   PF00399
   PF00402
+  PF00414
+  PF00624
  
  
 
