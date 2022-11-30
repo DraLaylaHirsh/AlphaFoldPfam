@@ -1,2 +1,69 @@
 PF12789 - Phage tail repeat like
 ================================
+
+A2GID0
+------
+
+`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A2GID0/>`_
+
+Sequence:
+
+.. code-block:: Sequence
+
+
+
+MRF results:
+
+.. code-block:: MRFresults
+
+  Region 1: 211-400, 23 aa length, 9 units
+
+
+
+TAPAS results:
+
+.. code-block:: TAPASresults
+
+
+
+Alphafold results - spectrum b
+
+.. image:: /images/.png
+
+Alphafold results - units from MRF 
+
+.. image:: /images/.png
+
+
+R1CK55
+------
+
+`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/R1CK55/>`_
+
+Sequence:
+
+.. code-block:: Sequence
+
+
+
+MRF results:
+
+.. code-block:: MRFresults
+
+  Region 1: 211-400, 23 aa length, 9 units
+
+
+
+TAPAS results:
+
+.. code-block:: TAPASresults
+
+
+
+Alphafold results - spectrum b
+
+.. image:: /images/.png
+
+Alphafold results - units from MRF 
+
+.. image:: /images/.png
