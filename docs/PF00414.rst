@@ -154,3 +154,5 @@ Alphafold results - spectrum b
 
 .. image:: /images/P46821alphafold.png
 
+
+`Alphafold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/50b1d719f0004156114100675f9c43b8f022af36/docs/AF-P46821-F1-model_v3.pdb>`_
