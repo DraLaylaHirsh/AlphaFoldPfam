@@ -161,5 +161,5 @@ Alphafold results - spectrum b
 
 Alphafold results - units from MRF 
 
-.. image:: /images/.png
+.. image:: /images/P14708alphafoldUnits.png
 
