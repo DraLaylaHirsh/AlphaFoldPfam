@@ -1,14 +1,95 @@
 PF10529 - Histidine-rich Calcium-binding repeat region
 ======================================================
 
-G2YIK9_BOTF4
-------------
+A0A6J3HER4
+----------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/G2YIK9/>`_
+`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A6J3HER4/>`_
 
 Sequence:
 
 .. code-block:: Sequence
+
+  >tr|A0A6J3HER4|A0A6J3HER4_SAPAP sarcoplasmic reticulum histidine-rich calcium-binding protein-like OS=Sapajus apella OX=9515 GN=LOC116545921 PE=4 SV=1
+  HRGHEEDENDDDDDDNDISTEHGHQAHRPRGHRKEEDEAVSGKHHHHVPDHEHLGHRDEE
+  EDEDMFTEHWRQGPQHVHHGLAEEEEEEEEIIVQFSHHVASHQPEGHKNGEEDAPEEYKT
+  EVPHRHHHRVHREDEDISAELGHQASSHRQSHQDEETGHGQAESIEEMSHHPPGHTAVKD
+  GNHVREDDSEEEKEKEDPGSHEEDDDSSEQEEKGNHHGSQDHEDEEDEEEGHGLHLNQEE
+  EEEEDEEEEEEERREERAEVGAPQSPDHREEEEEKEEGLEEDELPFTIIPNPLEGREEAG
+  GASSEEESGEDTGPQDAQEYGNYQPGSLCGYCSFCNRCTECESCHCDEESMGEHCDQCQH
+  CQFCYLCPLVCETVCTPGSYVDYFSSSLYQALADMLETPEP
+ Region 1: 239-252, 1 aa length, 14 units, selectseq 0.89
+  E
+  E
+  E
+  E
+  E
+  E
+  D
+  E
+  E
+  E
+  E
+  E
+  E
+  E
+
+TAPAS results:
+
+.. code-block:: TAPASresults
+
+  tr_A0A6J3HER4OX=9515_GN=LOC116545921_PE=4_SV=1,disordered region,IUPred,1,320
+  tr_A0A6J3HER4OX=9515_GN=LOC116545921_PE=4_SV=1,disordered region,IUPred,395,401
+  tr_A0A6J3HER4OX=9515_GN=LOC116545921_PE=4_SV=1,disordered region,BISMMpredictor,1,39
+  tr_A0A6J3HER4OX=9515_GN=LOC116545921_PE=4_SV=1,disordered region,BISMMpredictor,40,65
+  tr_A0A6J3HER4OX=9515_GN=LOC116545921_PE=4_SV=1,disordered region,BISMMpredictor,66,81
+  tr_A0A6J3HER4OX=9515_GN=LOC116545921_PE=4_SV=1,disordered region,BISMMpredictor,100,138
+  tr_A0A6J3HER4OX=9515_GN=LOC116545921_PE=4_SV=1,disordered region,BISMMpredictor,140,164
+  tr_A0A6J3HER4OX=9515_GN=LOC116545921_PE=4_SV=1,disordered region,BISMMpredictor,178,259
+  tr_A0A6J3HER4OX=9515_GN=LOC116545921_PE=4_SV=1,disordered region,BISMMpredictor,261,285
+  tr_A0A6J3HER4OX=9515_GN=LOC116545921_PE=4_SV=1,disordered region,BISMMpredictor,300,319
+  tr_A0A6J3HER4OX=9515_GN=LOC116545921_PE=4_SV=1,disordered region,BISMMpredictor,332,364
+  tr_A0A6J3HER4OX=9515_GN=LOC116545921_PE=4_SV=1,functional domain,PFAM,27,41,PF10529.10
+  tr_A0A6J3HER4OX=9515_GN=LOC116545921_PE=4_SV=1,consensus ordered region,TAPASS,365,401
+  tr_A0A6J3HER4OX=9515_GN=LOC116545921_PE=4_SV=1,consensus disordered region,TAPASS,1,364
+
+
+
+Alphafold results - spectrum b
+
+.. image:: /images/A0A6J3HER4alphafold.png
+
+Alphafold results - units from MRF 
+
+.. image:: /images/A0A6J3HER4alphafoldUnits.png
+
+
+`Alphafold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/73e0f3ec9fe96ec073b4ed5df51a24ed214a02f8/docs/AF-A0A6J3HER4-F1-model_v4.pdb>`_
+
+
+G5E8J6
+------
+
+`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/G5E8J6/>`_
+
+Sequence:
+
+.. code-block:: Sequence
+
+  >tr|G5E8J6|G5E8J6_MOUSE Histidine-rich calcium-binding protein OS=Mus musculus OX=10090 GN=Hrc PE=1 SV=1
+  MGFQGPWLHTCLLWATVAILLVPPVVTQELRGAGLGLGNWNNNAGIPGSSEDLSTEFGHH
+  IHRGYQGEKDRGHREEGEDFSREYGHRVQDHRYPGREVGEENVSEEVFRGHVRQLHGHRE
+  HDNEDLGDSAENHLPRQRSHSHEDEDGIVSSEYHRHVPRHAHHGHGEEDDDDDGGEEEER
+  VDVMEDSDDNEHQVHGHQSHSKERDELHHAHSHRHQGHSDDDDDDGVSTEHGHQAHRYQD
+  HEEEDDGDSDEDSHTHRVQGREDENDDEDGDSGEYRHHTQDHQGHNEEQDDDDDDDDDDE
+  DKEDSTEHRHQTQGHRKEEDEDESDEDDHHVSRHGRQGYEEEEDDDDDDGDDDSTEHVHQ
+  AHRHRDHEHKDDEDDSEEDYHHVPSHGRQSHQNEEEEDEAVSTEHWHQSPRHAHHDLGRE
+  SEEEVAVKYSHHVASHRPQGHNADREEDSLEEHMNEVPGHHHHRASRGDDEDISTEFGHK
+  APSHRLQDQDERARQGHREPVQGEIAHQPLQPTGPSSRESRKEGDHSSQEGDEDPEQRQA
+  HSEEEKEEEEEEEEEEEEEKEGGHSLPMSQEDDEEEEKDEKESKVDRAAVSAPLSHHRKQ
+  GEEEEEEEEEEEEEILEENLLPFTIIPNPLAGREVAREGSSEEESREVTGQQDAQEYENY
+  QPGSLCGYCSFCNRCTECESCHCDEENMGEHCDQCQHCQFCYLCPLVCDTLCTPGSYVDY
+  FSSSLYQALADMLETPEP
 
 
 
@@ -16,20 +97,125 @@ MRF results:
 
 .. code-block:: MRFresults
 
-  Region 1: 211-400, 23 aa length, 9 units
+  Region 1: 51-498, 58 aa length,  10 units, TRUST 	0.93
+  EDLSTEF-GHHIHRGYQGEKDRGHR--EEGEDFSREYGHRVQDHRYPGREV--GEEN-
+  --VSEEVFRGHVRQL-HGHREHDNE---D-LGDSAE--NHLPRQRSHSH-----EDED
+  GIVSSEY-HRHVPR--HAHHGHGEE--DD-DDDGGEEEERV--------DV--MEDSD
+  D-------NEH--QV-HGHQSHSKE--RD-E------LHHAHSHRHQGH-S--DDDDD
+  DGVSTEHG----HQA-HRYQDH-EE--ED-DGDSDEDSH---THRVQGRED--ENDDE
+  DGDSGEY-RHH---T-QDHQGHNEE--QD-DDDDDDD-----------------DDED
+  KEDSTE----HRHQT-QGHR---KE--ED-EDESDEDDHHVSRHGRQGYEE--EEDDD
+  DDDGDDDSTEHVHQA-HRHRDHEHK--DD-EDDSEEDYHHVPSHGRQSHQN--EEEED
+  EAVSTEHWHQ--SPR-HAHHDLGRE--SE-EEVAVKYSHHVASHRPQGHNA--DREED
+  ---SLE---EHMNEV-PGHHHHRASRGDD-EDISTEFGHKAPSHRLQDQDERARQGHR
 
+	 
 
+  Region 2: 340-352,3 aa length,6 units, T-REKS 	0.53 	0.0  
+  EE-
+  EE-
+  DD-
+  DD-
+  DDG
+  DD-
+  
+  Region 3: 246-253,2 aa length, 4 units, regex_DX2 	0.74
+  DG
+  DS
+  DE
+  DS
+  
+  Region 4: 32-39,2 aa length, 4 units, regex_GX2 	0.53 	 
+  GA
+  GL
+  GL
+  GN
+  
+  Region 5: 289-301, 1 aa length, 13 units, selectseq 	0.9 	
+  Q
+  D
+  D
+  D
+  D
+  D
+  D
+  D
+  D
+  D
+  D
+  E
+  D
+  
+  Region 6: 601-615,1 aa length, 15 units, selectseq 	0.9 	 
+  G
+  E
+  E
+  E
+  E
+  E
+  E
+  E
+  E
+  E
+  E
+  E
+  E
+  E
+  I
+  
+  Region 7: 543-561,1 aa length, 19 units, selectseq 	0.93 	 
+  E
+  E
+  E
+  K
+  E
+  E
+  E
+  E
+  E
+  E
+  E
+  E
+  E
+  E
+  E
+  E
+  E
+  K
+  E
 
 TAPAS results:
 
 .. code-block:: TAPASresults
 
+  tr_G5E8J6OX=10090_GN=Hrc_PE=1_SV=1,peptide signal,SignalP,1,27
+  tr_G5E8J6OX=10090_GN=Hrc_PE=1_SV=1,transmembrane region,TMHMM,5,27
+  tr_G5E8J6OX=10090_GN=Hrc_PE=1_SV=1,disordered region,IUPred,28,656
+  tr_G5E8J6OX=10090_GN=Hrc_PE=1_SV=1,disordered region,BISMMpredictor,45,107
+  tr_G5E8J6OX=10090_GN=Hrc_PE=1_SV=1,disordered region,BISMMpredictor,113,148
+  tr_G5E8J6OX=10090_GN=Hrc_PE=1_SV=1,disordered region,BISMMpredictor,149,182
+  tr_G5E8J6OX=10090_GN=Hrc_PE=1_SV=1,disordered region,BISMMpredictor,184,400
+  tr_G5E8J6OX=10090_GN=Hrc_PE=1_SV=1,disordered region,BISMMpredictor,401,425
+  tr_G5E8J6OX=10090_GN=Hrc_PE=1_SV=1,disordered region,BISMMpredictor,434,505
+  tr_G5E8J6OX=10090_GN=Hrc_PE=1_SV=1,disordered region,BISMMpredictor,506,587
+  tr_G5E8J6OX=10090_GN=Hrc_PE=1_SV=1,disordered region,BISMMpredictor,593,615
+  tr_G5E8J6OX=10090_GN=Hrc_PE=1_SV=1,disordered region,BISMMpredictor,636,656
+  tr_G5E8J6OX=10090_GN=Hrc_PE=1_SV=1,disordered region,BISMMpredictor,669,701
+  tr_G5E8J6OX=10090_GN=Hrc_PE=1_SV=1,functional domain,PFAM,308,324,PF10529.10
+  tr_G5E8J6OX=10090_GN=Hrc_PE=1_SV=1,consensus ordered region,TAPASS,1,27
+  tr_G5E8J6OX=10090_GN=Hrc_PE=1_SV=1,consensus ordered region,TAPASS,702,738
+  tr_G5E8J6OX=10090_GN=Hrc_PE=1_SV=1,consensus disordered region,TAPASS,28,701
+
+   
 
 
 Alphafold results - spectrum b
 
-.. image:: /images/.png
+.. image:: /images/G5E8J6alphafold.png
 
 Alphafold results - units from MRF 
 
-.. image:: /images/.png
+.. image:: /images/G5E8J6alphafoldUnits.png
+
+
+`Alphafold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/73e0f3ec9fe96ec073b4ed5df51a24ed214a02f8/docs/AF-G5E8J6-F1-model_v4.pdb>`_
