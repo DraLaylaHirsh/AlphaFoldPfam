@@ -245,12 +245,13 @@ MRF results:
   PEEVVEEVV 	
   
   Region 5: 1-36,18 aa length, 2 units,TRUST 1.0
- 	MIPEELVEEVILEEVVEE
+  MIPEELVEEVILEEVVEE
   VIPEEVVEEVLPEELVEE
 
 TAPAS results:
 
 .. code-block:: TAPASresults
+
   tr_W4J231_OX=57270_GN=PFUGPA_01655_PE=4_SV=1,disordered region,IUPred,764,787
   tr_W4J231_OX=57270_GN=PFUGPA_01655_PE=4_SV=1,disordered region,IUPred,803,857
   tr_W4J231_OX=57270_GN=PFUGPA_01655_PE=4_SV=1,disordered region,BISMMpredictor,743,772
