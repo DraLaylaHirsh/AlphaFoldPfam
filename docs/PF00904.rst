@@ -24,23 +24,49 @@ MRF results:
 
 .. code-block:: MRFresults
 
-  Region 1: 211-400, 23 aa length, 9 units
-
-
+  Region 1: 177-207, 11 aa length, 3 units, T-REKS 	0.83
+  EQQEGQLKHLE
+  -EQKGQLKHLE
+  -HQEGQLELPE
+  
+  Region 2: 250-323, 10 aa length, 8 units, T-REKS 0.85 
+  EQ----LKHL
+  EQQEGHLEHL
+  EQQEGELKHL
+  EQCKGQLEHL
+  EQQEGQLELP
+  EQQVGQSKHL
+  EQEEKRLEHL
+  EQQEGQLK--
+  
+  Region 3: 149-248, 21 aa length, 5 units, TRUST 0.9
+  KKQLLEFPEQQEGQLKHLEQQ
+  EKP-LELPEQQEGQLKHLEEQ
+  KGQ-LKHLEHQEGQLE-LPEQ
+  VDQ-PKHLEQLEKQLEHPEQQ
+  EGQ-LKQQEEEQEQLKHLEQQ
 
 TAPAS results:
 
 .. code-block:: TAPASresults
 
+  tr_A0A6J3GT35=Sapajus_apella_OX=9515_GN=IVL_PE=3_SV=1,disordered region,IUPred,1,406
+  tr_A0A6J3GT35=Sapajus_apella_OX=9515_GN=IVL_PE=3_SV=1,disordered region,BISMMpredictor,21,39
+  tr_A0A6J3GT35=Sapajus_apella_OX=9515_GN=IVL_PE=3_SV=1,disordered region,BISMMpredictor,70,133
+  tr_A0A6J3GT35=Sapajus_apella_OX=9515_GN=IVL_PE=3_SV=1,disordered region,BISMMpredictor,222,252
+  tr_A0A6J3GT35=Sapajus_apella_OX=9515_GN=IVL_PE=3_SV=1,disordered region,BISMMpredictor,301,324
+  tr_A0A6J3GT35=Sapajus_apella_OX=9515_GN=IVL_PE=3_SV=1,disordered region,BISMMpredictor,343,379
+  tr_A0A6J3GT35=Sapajus_apella_OX=9515_GN=IVL_PE=3_SV=1,functional domain,PFAM,1,69,PF10583.10
+  tr_A0A6J3GT35=Sapajus_apella_OX=9515_GN=IVL_PE=3_SV=1,consensus disordered region,TAPASS,1,430
 
 
 Alphafold results - spectrum b
 
-.. image:: /images/.png
+.. image:: /images/A0A6J3GT35alphafold.png
 
 Alphafold results - units from MRF 
 
-.. image:: /images/.png
+.. image:: /images/A0A6J3GT35alphafoldUnits.png
 
 
 
