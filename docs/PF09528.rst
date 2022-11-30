@@ -59,3 +59,5 @@ Alphafold results - spectrum b
 Alphafold results - units from MRF 
 
 .. image:: /images/T1L1A4alphafoldUnits.png
+
+`Alphafold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/e7a600f68d1a435b3611d5be959862eb0be345ee/docs/AF-T1L1A4-F1-model_v4.pdb>`_
