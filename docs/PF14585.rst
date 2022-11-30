@@ -1,2 +1,35 @@
 PF14585 - CagY type 1 repeat
 ============================
+
+M3LCL2
+------
+
+`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/M3LCL2/>`_
+
+Sequence:
+
+.. code-block:: Sequence
+
+
+
+MRF results:
+
+.. code-block:: MRFresults
+
+  Region 1: 211-400, 23 aa length, 9 units
+
+
+
+TAPAS results:
+
+.. code-block:: TAPASresults
+
+
+
+Alphafold results - spectrum b
+
+.. image:: /images/.png
+
+Alphafold results - units from MRF 
+
+.. image:: /images/.png
