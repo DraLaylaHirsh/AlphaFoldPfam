@@ -154,6 +154,8 @@ Alphafold results - units from MRF
 
 .. image:: /images/A0A024VP82alphafoldUnits.png
 
+`Alphafold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/88ad53bd98b85069218ecb55afd2dfbbb9bacaee/docs/AF-A0A024VP82-F1-model_v3.pdb>`_
+
 
 W4J231
 ------
@@ -276,3 +278,6 @@ Alphafold results - spectrum b
 Alphafold results - units from MRF 
 
 .. image:: /images/W4J231alphafoldUnits.png
+
+
+`Alphafold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/88ad53bd98b85069218ecb55afd2dfbbb9bacaee/docs/AF-W4J231-F1-model_v3.pdb>`_
