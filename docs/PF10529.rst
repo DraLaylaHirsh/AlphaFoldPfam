@@ -23,6 +23,7 @@ Sequence:
 MRF results:
 
 .. code-block:: MRFresults
+
   Region 1: 239-252, 1 aa length, 14 units, selectseq 0.89
   E
   E
