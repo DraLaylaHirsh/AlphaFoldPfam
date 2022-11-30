@@ -1,14 +1,21 @@
 PF09528 - Ehrlichia tandem repeat (Ehrlichia_rpt)
 =================================================
 
-G2YIK9_BOTF4
-------------
+T1L1A4
+------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/G2YIK9/>`_
+`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/T1L1A4/>`_
 
 Sequence:
 
 .. code-block:: Sequence
+
+  >tr|T1L1A4|T1L1A4_TETUR Secreted protein OS=Tetranychus urticae OX=32264 GN=107369337 PE=4 SV=1
+  MRFTIVLALCFIGAASASSLNKRSFLDDIQNNTQNAFHAFEQFGQTFNEKVQEALKNLLS
+  AFGNKNSSAEASVVVEKRATNPLQLINDLDDPAQFAQTFLKVLLDLATGQGRRKRDIAED
+  LKKFSEEAKHNAEEALKKLFSFLEQFKSQSSESTEASVVVEKRATNPLQLINDLDDPAQF
+  AQTLLKVLADIATGQGRRKRDIAEDLKKFSDEAKHNAEEALKKLFSFLEQFKPQSSESTE
+  APVVVEKRATNPLVLFNDLSQQDLGKFAQDFLKVLADIATAQG
 
 
 
@@ -16,20 +23,39 @@ MRF results:
 
 .. code-block:: MRFresults
 
-  Region 1: 211-400, 23 aa length, 9 units
+  Region 1:  2-265, 98 aa length, 3 units, TRUST 1.0 	
+  RFTIVLALCFIGAASASSLNKRSFLDDIQNNTQNAFHAFEQFGQTFNEKVQEALKNLLS---AFGNKNS-SAEASVVVEKRATNPLQLINDL--DDPA
+  QFAQTFLKVLLDLATGQGRRKRDIAEDLKKFSEEAKHNAE-----------EALKKLFSFLEQFKSQSSESTEASVVVEKRATNPLQLINDL--DDPA
+  QFAQTLLKVLADIATGQGRRKRDIAEDLKKFSDEAKHNAE-----------EALKKLFSFLEQFKPQSSESTEAPVVVEKRATNPLVLFNDLSQQDLG
 
-
+	 
 
 TAPAS results:
 
 .. code-block:: TAPASresults
 
+  tr_T1L1A4_OX=32264_GN=107369337_PE=4_SV=1,structured domain,CATH,35,139,1.20.1270.60/FF/4648
+  tr_T1L1A4_OX=32264_GN=107369337_PE=4_SV=1,structured domain,CATH,192,277,1.10.940.10/FF/1210
+  tr_T1L1A4_OX=32264_GN=107369337_PE=4_SV=1,peptide signal,SignalP,1,17
+  tr_T1L1A4_OX=32264_GN=107369337_PE=4_SV=1,disordered region,IUPred,117,124
+  tr_T1L1A4_OX=32264_GN=107369337_PE=4_SV=1,disordered region,IUPred,156,159
+  tr_T1L1A4_OX=32264_GN=107369337_PE=4_SV=1,disordered region,IUPred,203,209
+  tr_T1L1A4_OX=32264_GN=107369337_PE=4_SV=1,disordered region,IUPred,239,243
+  tr_T1L1A4_OX=32264_GN=107369337_PE=4_SV=1,consensus ordered region,TAPASS,1,283
+  tr_T1L1A4_OX=32264_GN=107369337_PE=4_SV=1,amyloidogenic region,ArchCandy2,51,79
+  tr_T1L1A4_OX=32264_GN=107369337_PE=4_SV=1,amyloidogenic region,Tango,71,75
+  tr_T1L1A4_OX=32264_GN=107369337_PE=4_SV=1,amyloidogenic region,Tango,96,108
+  tr_T1L1A4_OX=32264_GN=107369337_PE=4_SV=1,amyloidogenic region,Tango,139,143
+  tr_T1L1A4_OX=32264_GN=107369337_PE=4_SV=1,amyloidogenic region,Tango,156,160
+  tr_T1L1A4_OX=32264_GN=107369337_PE=4_SV=1,amyloidogenic region,Tango,184,191
+  tr_T1L1A4_OX=32264_GN=107369337_PE=4_SV=1,amyloidogenic region,Tango,224,228
+  tr_T1L1A4_OX=32264_GN=107369337_PE=4_SV=1,amyloidogenic region,Tango,253,257
 
 
 Alphafold results - spectrum b
 
-.. image:: /images/.png
+.. image:: /images/T1L1A4alphafold.png
 
 Alphafold results - units from MRF 
 
-.. image:: /images/.png
+.. image:: /images/T1L1A4alphafoldUnits.png
