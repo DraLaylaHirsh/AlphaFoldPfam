@@ -52,7 +52,7 @@ TAPAS results:
   tr_I3N5J7_OX=43179_GN=KRBA1_PE=4_SV=2,disordered region,IUPred,43,88
   tr_I3N5J7_OX=43179_GN=KRBA1_PE=4_SV=2,disordered region,IUPred,101,360
   tr_I3N5J7_OX=43179_GN=KRBA1_PE=4_SV=2,disordered region,IUPred,366,403
-  tr_I3N5J7_OX=43179_GN=KRBA1_PE=4_SV=2,disordered region,IUPred,409,513
+  tr_I3N5J7_OX=43179_GN=KRBA1_PE=4_SV=2,disordered region,IUPred,409,513AF-I3N5J7-F1-model_v4
   tr_I3N5J7_OX=43179_GN=KRBA1_PE=4_SV=2,disordered region,IUPred,519,524
   tr_I3N5J7_OX=43179_GN=KRBA1_PE=4_SV=2,disordered region,IUPred,532,542
   tr_I3N5J7_OX=43179_GN=KRBA1_PE=4_SV=2,disordered region,IUPred,547,556
@@ -96,5 +96,5 @@ Alphafold results - units from MRF
 
 .. image:: /images/I3N5J7alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/PF15287_I3N5J7_file890_1.pdb>`_
+`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/AF-I3N5J7-F1-model_v4.pdb>`_
 
