@@ -77,7 +77,7 @@ Alphafold results - units from MRF
 
 Alphafold results - spectrum b of the repeat region
 
-.. image:: /images/B3RT04alphafold_.png
+.. image:: /images/B3RT04alphafold.png
 
 
 `AlphaFold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/4cfe4d4d33133e27fe636b74e69d468e36d5825f/docs/PF02218_B3RT04_60de8.result.zip>`_
