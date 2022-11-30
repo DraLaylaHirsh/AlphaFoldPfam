@@ -148,11 +148,11 @@ TAPAS results:
 
 Alphafold results - spectrum b
 
-.. image:: /images/.png
+.. image:: /images/A0A024VP82alphafold.png
 
 Alphafold results - units from MRF 
 
-.. image:: /images/.png
+.. image:: /images/A0A024VP82alphafoldUnits.png
 
 
 W4J231
@@ -271,8 +271,8 @@ TAPAS results:
 
 Alphafold results - spectrum b
 
-.. image:: /images/.png
+.. image:: /images/W4J231alphafold.png.png
 
 Alphafold results - units from MRF 
 
-.. image:: /images/.png
+.. image:: /images/W4J231alphafoldUnits.png.png
