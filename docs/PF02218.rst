@@ -1,10 +1,10 @@
 PF02218 - Repeat in HS1/Cortactin
 =================================
 
-G2YIK9_BOTF4
-------------
+B3RT04
+------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/G2YIK9/>`_
+`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/B3RT04/>`_
 
 Sequence:
 
@@ -16,20 +16,57 @@ MRF results:
 
 .. code-block:: MRFresults
 
-  Region 1: 211-400, 23 aa length, 9 units
-
-
+  Region 1: 80-301, 37 aa length, 6 units, TRUST 1.0
+  YSYGYGGQFGVQKDRMDKSAVSNSYQYVPEKHSSQTD
+  FKQGFGGKFGIQKDRQDKSAVGYDYSEKTALHSSQKD
+  YSKGFGGKFGVQNDRQDKSAVGFDYTEKTALHSSQKD
+  YSKGFGGKFGVEKDKQDKSAVGFDYAEKNALHSSQKD
+  YSKGFGGAFGVEKDKQDKSAESWSYVGKSELHQSQKD
+  YSKGFGGKFGVETEKQDKSAENWSYVGKNELHESQKD
 
 TAPAS results:
 
 .. code-block:: TAPASresults
 
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,structured domain,CATH,90,161,1.20.1710.10/FF/31
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,IUPred,5,70
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,IUPred,99,109
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,IUPred,121,124
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,IUPred,138,142
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,IUPred,158,161
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,IUPred,249,253
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,IUPred,284,290
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,BISMMpredictor,5,27
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,BISMMpredictor,29,51
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,BISMMpredictor,55,73
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,BISMMpredictor,107,126
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,BISMMpredictor,147,163
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,BISMMpredictor,184,200
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,BISMMpredictor,253,274
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,BISMMpredictor,290,311
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,functional domain,PFAM,83,117,PF02218.16
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,functional domain,PFAM,120,155,PF02218.16
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,functional domain,PFAM,157,192,PF02218.16
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,functional domain,PFAM,194,229,PF02218.16
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,functional domain,PFAM,231,266,PF02218.16
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,functional domain,PFAM,268,303,PF02218.16
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,functional domain,PFAM,305,319,PF02218.16
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,consensus ordered region,TAPASS,91,161
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,consensus ordered region,TAPASS,201,248
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,consensus disordered region,TAPASS,1,90
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,consensus disordered region,TAPASS,162,200
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,consensus disordered region,TAPASS,249,321
+
 
 
 Alphafold results - spectrum b
 
-.. image:: /images/.png
+.. image:: /images/B3RT04alphafold_.png
 
 Alphafold results - units from MRF 
 
-.. image:: /images/.png
+.. image:: /images/B3RT04alphafoldUnits.png
+
+Alphafold results - spectrum b of the repeat region
+
+.. image:: /images/B3RT04alphafold_.png
