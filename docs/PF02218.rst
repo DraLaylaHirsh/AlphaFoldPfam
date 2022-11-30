@@ -9,6 +9,7 @@ B3RT04
 Sequence:
 
 .. code-block:: Sequence
+
   >tr|B3RT04|B3RT04_TRIAD Src substrate cortactin OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_21918 PE=4 SV=1
   MWRAGVDTKFSTTESPEDDDWETDPDFVNDVTEEEQRFGSKTVEGSGSQRVLDMNKLRDD
   VKDSDKKSKEGKLFHVTPKYSYGYGGQFGVQKDRMDKSAVSNSYQYVPEKHSSQTDFKQG
@@ -77,3 +78,6 @@ Alphafold results - units from MRF
 Alphafold results - spectrum b of the repeat region
 
 .. image:: /images/B3RT04alphafold_.png
+
+
+`AlphaFold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/4cfe4d4d33133e27fe636b74e69d468e36d5825f/docs/PF02218_B3RT04_60de8.result.zip>`_
