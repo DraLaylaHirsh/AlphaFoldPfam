@@ -1,2 +1,100 @@
 PF12778 - PXPV repeat (3 copies)
 ================================
+
+A0A4Q5PGS7
+----------
+
+`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A4Q5PGS7/>`_
+
+Sequence:
+
+.. code-block:: Sequence
+
+  >tr|A0A4Q5PGS7|A0A4Q5PGS7_9BURK Signal peptide protein OS=Comamonadaceae bacterium OX=1871071 GN=EOO28_18705 PE=4 SV=1
+  MKTLTSLIARNTLRAATLAAIAVAAFAGASSAQARDNVQLSINVGNPGYVQPAPVYVQPR
+  PVYVQPRPVYVQPRPVYVQPAPVYVQRNGAWGDRDRDGVPNIYDRNDRRHPHHGHRDWSR
+  GPNGDADRDGVPNRFDRFPSNPNYR
+
+
+
+MRF results:
+
+.. code-block:: MRFresults
+
+  Region 1: 49-90, 7 aa length, 6 units, T-REKS 1.0
+  YVQPAPV
+  YVQPRPV
+  YVQPRPV
+  YVQPRPV
+  YVQPAPV
+  YVQRNGA
+
+TAPAS results:
+
+.. code-block:: TAPASresults
+
+  tr_A0A4Q5PGS7OX=1871071_GN=EOO28_18705_PE=4_SV=1,structured domain,CATH,1,79,3.40.50.880/FF/18841
+  tr_A0A4Q5PGS7OX=1871071_GN=EOO28_18705_PE=4_SV=1,structured domain,CATH,110,144,4.10.1080.10/FF/2874
+  tr_A0A4Q5PGS7OX=1871071_GN=EOO28_18705_PE=4_SV=1,peptide signal,SignalP,1,34
+  tr_A0A4Q5PGS7OX=1871071_GN=EOO28_18705_PE=4_SV=1,disordered region,IUPred,35,145
+  tr_A0A4Q5PGS7OX=1871071_GN=EOO28_18705_PE=4_SV=1,disordered region,BISMMpredictor,105,141
+  tr_A0A4Q5PGS7OX=1871071_GN=EOO28_18705_PE=4_SV=1,functional domain,PFAM,47,64,PF12778.8
+  tr_A0A4Q5PGS7OX=1871071_GN=EOO28_18705_PE=4_SV=1,functional domain,PFAM,66,85,PF12778.8
+  tr_A0A4Q5PGS7OX=1871071_GN=EOO28_18705_PE=4_SV=1,consensus ordered region,TAPASS,1,79
+  tr_A0A4Q5PGS7OX=1871071_GN=EOO28_18705_PE=4_SV=1,consensus ordered region,TAPASS,111,149
+  tr_A0A4Q5PGS7OX=1871071_GN=EOO28_18705_PE=4_SV=1,consensus disordered region,TAPASS,80,110
+
+
+Alphafold results - spectrum b
+
+.. image:: /images/A0A4Q5PGS7alphafold.png
+
+Alphafold results - units from MRF 
+
+.. image:: /images/A0A4Q5PGS7alphafoldUnits.png
+
+`AlphaFold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/b73994bcd35ae9c4f190f2e21cabcfe7b9f220e4/docs/AF-A0A4Q5PGS7-F1-model_v4.pdb />`_
+
+A0A7S7PTV7
+----------
+
+`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A7S7PTV7/>`_
+
+Sequence:
+
+.. code-block:: Sequence
+
+  >tr|A0A7S7PTV7|A0A7S7PTV7_9BRAD PXPV repeat-containing protein OS=Bradyrhizobium sp. CCBAU 51765 OX=1325102 GN=XH96_16775 PE=4 SV=1
+  MKYLFAAVMLASAAVGFSEAASAAGGCGPGWYRGPYGGCRPMRGPVVVRPAPVVVAPAPV
+  VVVPRARVCPYGFRWYAGRCRPF
+
+
+
+MRF results:
+
+.. code-block:: MRFresults
+
+  Region 1: 45-67, 9 aa length, 3 units, T-REKS 0.74
+  PVVVRPA--
+  PVVVAPA--
+  PVVVVPRAR
+
+
+TAPAS results:
+
+.. code-block:: TAPASresults
+
+  tr_A0A7S7PTV7_OX=1325102_GN=XH96_16775_PE=4_SV=1,peptide signal,SignalP,1,20
+  tr_A0A7S7PTV7_OX=1325102_GN=XH96_16775_PE=4_SV=1,functional domain,PFAM,44,62,PF12778.8
+  tr_A0A7S7PTV7_OX=1325102_GN=XH96_16775_PE=4_SV=1,consensus ordered region,TAPASS,1,85
+
+
+Alphafold results - spectrum b
+
+.. image:: /images/A0A7S7PTV7alphafold.png
+
+Alphafold results - units from MRF 
+
+.. image:: /images/A0A7S7PTV7alphafoldUnits.png
+
+`AlphaFold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/b73994bcd35ae9c4f190f2e21cabcfe7b9f220e4/docs/AF-A0A7S7PTV7-F1-model_v4.pdb/>`_
