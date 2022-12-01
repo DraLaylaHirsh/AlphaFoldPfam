@@ -149,8 +149,6 @@ TAPAS results:
   tr_D7EJV2_PE=3_SV=1,consensus disordered region,TAPASS,1,108
   tr_D7EJV2_PE=3_SV=1,consensus disordered region,TAPASS,633,794
 
-.. figure:: /images/D7EJV2tapass.jpg
-  :width: 700px
 
 .. image:: /images/D7EJV2tapass.jpg
   
