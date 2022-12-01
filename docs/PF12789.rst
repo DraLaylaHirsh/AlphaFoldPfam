@@ -1,6 +1,9 @@
 PF12789 - Phage tail repeat like
 ================================
 
+`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF12789/>`_
+
+
 A2GID0
 ------
 
