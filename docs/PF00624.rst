@@ -1,6 +1,9 @@
 PF00624 - Flocculin repeat
 ==========================
 
+`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00624/>`_
+
+
 G8C135
 ------
 
