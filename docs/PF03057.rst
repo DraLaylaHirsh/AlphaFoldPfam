@@ -1,5 +1,5 @@
-PF03057 - 
-=============================
+PF03057 - DUF236 repeat
+=======================
 
 `Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF03057/>`_
 
