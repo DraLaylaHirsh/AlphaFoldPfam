@@ -84,3 +84,109 @@ Alphafold results - spectrum b of the repeat region
 
 
 `AlphaFold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/4cfe4d4d33133e27fe636b74e69d468e36d5825f/docs/PF02218_B3RT04_60de8.result.zip>`_
+
+
+D7EJV2
+------
+
+`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/D7EJV2/>`_
+
+Sequence:
+
+.. code-block:: Sequence
+
+
+
+MRF results:
+
+.. code-block:: MRFresults
+
+  Region 1: 649-662,2 aa length,7 units,regex_PX2 0.92
+  
+TAPAS results:
+
+.. code-block:: TAPASresults
+
+
+
+Alphafold results - spectrum b
+
+.. image:: /images/D7EJV2alphafold.png
+
+Alphafold results - units from MRF 
+
+.. image:: /images/D7EJV2alphafoldUnits.png
+
+`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/AF-D7EJV2-F1-model_v4.pdb>`_
+
+
+
+A0A6G0T661
+----------
+
+`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A6G0T661/>`_
+
+Sequence:
+
+.. code-block:: Sequence
+
+
+
+MRF results:
+
+.. code-block:: MRFresults
+
+  Region 1: 649-662,2 aa length,7 units,regex_PX2 0.92
+  
+TAPAS results:
+
+.. code-block:: TAPASresults
+
+
+
+Alphafold results - spectrum b
+
+.. image:: /images/A0A6G0T661alphafold.png
+
+Alphafold results - units from MRF 
+
+.. image:: /images/A0A6G0T661alphafoldUnits.png
+
+`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/AF-A0A6G0T661-F1-model_v4.pdb>`_
+
+
+
+A0A6Q2YKY6
+----------
+
+`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A6Q2YKY6/>`_
+
+Sequence:
+
+.. code-block:: Sequence
+
+
+
+MRF results:
+
+.. code-block:: MRFresults
+
+  Region 1: 649-662,2 aa length,7 units,regex_PX2 0.92
+  
+TAPAS results:
+
+.. code-block:: TAPASresults
+
+
+
+Alphafold results - spectrum b
+
+.. image:: /images/A0A6Q2YKY6alphafold.png
+
+Alphafold results - units from MRF 
+
+.. image:: /images/A0A6Q2YKY6alphafoldUnits.png
+
+`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/AF-A0A6Q2YKY6-F1-model_v4.pdb>`_
+
+
