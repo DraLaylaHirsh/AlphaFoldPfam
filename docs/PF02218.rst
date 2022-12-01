@@ -150,6 +150,7 @@ TAPAS results:
   tr_D7EJV2_PE=3_SV=1,consensus disordered region,TAPASS,633,794
 
 .. image:: /images/D7EJV2tapass.png
+  :width: 700px
 
 Alphafold results - spectrum b
 
@@ -195,11 +196,8 @@ MRF results:
   ----YGVQSDRIDKSAVSWSHKEKVEKHGSQKDYSSGFGGK
   ----FGVQADRQDKSAVGWDYVEKLQKHESQKDYAVGFGGK
   ----FGVQSDRQDKSAVGWDNVETVEKHQSQVDHSKG----
- 
- Region 2: 460-513, 9 aa length,6 units,TRUST 1.0
   
-  
-TAPAS results:
+  Region 2: 460-513, 9 aa length,6 units,TRUST 1.0
   RKKLEEEAI
   QKKLEEESI
   KKKLEEESI
@@ -207,6 +205,9 @@ TAPAS results:
   KKKLEEELI
   KKKLDEETT
   
+  
+TAPAS results:
+
 .. code-block:: TAPASresults
 
   tr_A0A6G0T661_PE=4_SV=1,structured domain,CATH,543,614,2.30.30.40/FF/19446
