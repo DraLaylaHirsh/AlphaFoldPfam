@@ -35,7 +35,11 @@ Protein Families
   PF00624
   PF00880
   PF00904
+  PF02095
   PF02218
+  PF03057
+  PF03482
+  PF03516
   PF07391
   PF09528
   PF10529
@@ -43,7 +47,11 @@ Protein Families
   PF12789
   PF14585
   PF15287
- 
+  PF18727
+
+
+
+
  
 
 **********
