@@ -195,7 +195,7 @@ TAPAS results:
   tr_A0A6L8E336OX=1978231_GN=F4137_23060_PE=4_SV=1,eukaryotic SLiMs,ELM,100,103,TRG_ER_diArg_1
 
 
-.. image:: /images/A0A6L8E336TAPASS.jpg
+.. image:: /images/A0A6L8E336tapass.jpg
 
 Alphafold results - spectrum b
 
@@ -219,6 +219,9 @@ P16329
 Sequence:
 
 .. code-block:: Sequence
+  >sp|P16329|NO75_PEA Early nodulin-75 (Fragment) OS=Pisum sativum OX=3888 GN=ENOD2 PE=2 SV=1
+  PPHEKPPHENTPPEYQPPHEKPPHEHPPPEYQPPHEKPPHEKPSPKYQPPHEHSPPEYQP
+  PHEKPPHENPPPVYKPPYENSPPPHVYHRPLFQAPPPVKPSRPFGPFPAFKN
 
 
 
@@ -226,12 +229,30 @@ MRF results:
 
 .. code-block:: MRFresults
 
-  Region 1: 649-662,2 aa length,7 units,regex_PX2 0.92
+  Region 1: 1-69,6 aa length,13 units, T-REKS 0.9
   
+  PPHEK-
+  PPHENT
+  -PPEYQ
+  PPHEK-
+  PPHEH-
+  PPPEYQ
+  PPHEK-
+  PPHEK-
+  PSPKYQ
+  PPHEHS
+  -PPEYQ
+  PPHEK-
+  PPHEN-
+   
 TAPAS results:
 
 .. code-block:: TAPASresults
 
+  sp_P16329_NO75_PEA_Early_nodulin_75_Fragment_OS=Pisum_sativum_OX=3888_GN=ENOD2_PE=2_SV=1,disordered region,IUPred,1,112,
+  sp_P16329_NO75_PEA_Early_nodulin_75_Fragment_OS=Pisum_sativum_OX=3888_GN=ENOD2_PE=2_SV=1,disordered region,BISMMpredictor,1,80,
+  sp_P16329_NO75_PEA_Early_nodulin_75_Fragment_OS=Pisum_sativum_OX=3888_GN=ENOD2_PE=2_SV=1,disordered region,BISMMpredictor,92,111,
+  sp_P16329_NO75_PEA_Early_nodulin_75_Fragment_OS=Pisum_sativum_OX=3888_GN=ENOD2_PE=2_SV=1,consensus disordered region,TAPASS,1,112,
 
 
 Alphafold results - spectrum b
