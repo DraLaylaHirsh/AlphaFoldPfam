@@ -152,6 +152,9 @@ TAPAS results:
 .. figure:: /images/D7EJV2tapass.png
   :width: 1700px
 
+.. image:: /images/D7EJV2tapass.png
+  
+
 Alphafold results - spectrum b
 
 .. image:: /images/D7EJV2alphafold.png
