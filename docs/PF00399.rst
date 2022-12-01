@@ -211,7 +211,7 @@ TAPAS results:
   tr_A0A0N0NR21_OX=1664694_GN=AB675_8716_PE=3_SV=1,consensus disordered region,TAPASS,890,945
 
 .. image:: /images/A0A0N0NR21tapass.png
-  :scale: 95
+  :width: 1000px
 Alphafold results - spectrum b
 
 .. image:: /images/A0A0N0NR21alphafold.png
