@@ -1,6 +1,9 @@
 PF00414 - Neuraxin and MAP1B repeat
 ===================================
 
+`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00414/>`_
+
+
 P46821
 ------
 
