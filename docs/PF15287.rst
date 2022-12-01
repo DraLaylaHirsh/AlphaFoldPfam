@@ -1,6 +1,9 @@
 PF15287 - KRBA1 family repeat
 =============================
 
+`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF15287/>`_
+
+
 I3N5J7
 ------
 
