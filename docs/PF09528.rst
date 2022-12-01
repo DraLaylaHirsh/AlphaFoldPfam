@@ -1,6 +1,9 @@
 PF09528 - Ehrlichia tandem repeat (Ehrlichia_rpt)
 =================================================
 
+`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF09528/>`_
+
+
 T1L1A4
 ------
 
