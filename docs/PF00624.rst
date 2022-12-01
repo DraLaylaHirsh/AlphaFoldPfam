@@ -106,3 +106,72 @@ Alphafold results - units from MRF
 .. image:: /images/G8C135alphafoldUnits.png
 
 `Alphafold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/602e22e16732c4293d9dad1abf9e4e752a186522/docs/result_G8C135_TETPH.zip>`_
+
+
+
+A0A1Q3ALI5
+----------
+
+`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A1Q3ALI5/>`_
+
+Sequence:
+
+.. code-block:: Sequence
+
+  >tr|A0A1Q3ALI5|A0A1Q3ALI5_ZYGRO PA14 domain-containing protein (Fragment) OS=Zygosaccharomyces rouxii OX=4956 GN=ZYGR_0BQ00100 PE=4 SV=1
+  MVSHKSIFQWLLWFSVLGITKALAATACLPANGAQSGFKANFFQYNYGDMTTLRQPSFIA
+  GGYAKRQLLGTQNNVNNILIAYGMECQLSNGEVVTPTEPWNFDYSQCKNKRYFSQRHNGT
+  IFGFELTATNFTVELTGYLLAPQTGTYTFTFDHVDDSAILNFGEGIAFDCCNQDAAANGN
+  TQFSINAIKPDYGPTAHMNYSVDLVGNYYYPMRIVYTNRHVFGWLFTTLTLPDGTNIDND
+  FTGYVYSFVSEPEQPNCTVTSPLPFVTSTSTTPWTGSFTSTYSTQTNVNTDSDGDNAGTV
+  IIDVETPTTPPVLTTEYTGYSGSETSTYSTESTWVTGTDGKTTPETIYHVETPTIPPV
+
+
+
+MRF results:
+
+.. code-block:: MRFresults
+
+  Region 1: 326-334,3 aa length,3 units, regex_SX3 0.86
+  STY
+  STE
+  STW
+  
+  Region 2: 144-151,2 aa length,4 units, regex_TX2 0.88
+  TG
+  TY
+  TF
+  TF
+  
+TAPAS results:
+
+.. code-block:: TAPASresults
+
+  tr_A0A1Q3ALI5OX=4956_GN=ZYGR_0BQ00100_PE=4_SV=1,structured domain,CATH,106,191,2.60.120.40/FF/1304
+  tr_A0A1Q3ALI5OX=4956_GN=ZYGR_0BQ00100_PE=4_SV=1,peptide signal,SignalP,1,22
+  tr_A0A1Q3ALI5OX=4956_GN=ZYGR_0BQ00100_PE=4_SV=1,transmembrane region,TMHMM,12,34
+  tr_A0A1Q3ALI5OX=4956_GN=ZYGR_0BQ00100_PE=4_SV=1,disordered region,IUPred,259,262
+  tr_A0A1Q3ALI5OX=4956_GN=ZYGR_0BQ00100_PE=4_SV=1,disordered region,IUPred,276,358
+  tr_A0A1Q3ALI5OX=4956_GN=ZYGR_0BQ00100_PE=4_SV=1,disordered region,BISMMpredictor,249,264
+  tr_A0A1Q3ALI5OX=4956_GN=ZYGR_0BQ00100_PE=4_SV=1,disordered region,BISMMpredictor,266,299
+  tr_A0A1Q3ALI5OX=4956_GN=ZYGR_0BQ00100_PE=4_SV=1,disordered region,BISMMpredictor,318,334
+  tr_A0A1Q3ALI5OX=4956_GN=ZYGR_0BQ00100_PE=4_SV=1,functional domain,PFAM,131,221,PF10528.10
+  tr_A0A1Q3ALI5OX=4956_GN=ZYGR_0BQ00100_PE=4_SV=1,functional domain,PFAM,267,307,PF00624.19
+  tr_A0A1Q3ALI5OX=4956_GN=ZYGR_0BQ00100_PE=4_SV=1,functional domain,PFAM,314,353,PF00624.19
+  tr_A0A1Q3ALI5OX=4956_GN=ZYGR_0BQ00100_PE=4_SV=1,consensus ordered region,TAPASS,1,248
+  tr_A0A1Q3ALI5OX=4956_GN=ZYGR_0BQ00100_PE=4_SV=1,consensus disordered region,TAPASS,249,358
+  tr_A0A1Q3ALI5OX=4956_GN=ZYGR_0BQ00100_PE=4_SV=1,eukaryotic SLiMs,ELM,258,264,LIG_FHA_1
+  tr_A0A1Q3ALI5OX=4956_GN=ZYGR_0BQ00100_PE=4_SV=1,eukaryotic SLiMs,ELM,297,303,LIG_FHA_1
+
+
+
+Alphafold results - spectrum b
+
+.. image:: /images/A0A1Q3ALI5alphafold.png
+
+Alphafold results - units from MRF 
+
+.. image:: /images/A0A1Q3ALI5alphafoldUnits.png
+
+`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/AF-A0A1Q3ALI5-F1-model_v4.pdb>`_
+
