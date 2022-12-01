@@ -1,6 +1,7 @@
 
 PF00399 - Yeast PIR protein repeat
 ==================================
+`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00399/>`_
 
 G2YIK9_BOTF4
 ------------
