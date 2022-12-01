@@ -1,6 +1,9 @@
 PF02218 - Repeat in HS1/Cortactin
 =================================
 
+`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF02218/>`_
+
+
 B3RT04
 ------
 
