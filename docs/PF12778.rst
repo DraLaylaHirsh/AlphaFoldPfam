@@ -1,6 +1,9 @@
 PF12778 - PXPV repeat (3 copies)
 ================================
 
+`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF12778/>`_
+
+
 A0A4Q5PGS7
 ----------
 
