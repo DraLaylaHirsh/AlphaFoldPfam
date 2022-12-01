@@ -1,5 +1,7 @@
 PF00402 - Calponin family repeat
 ================================
+`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00402/>`_
+
 
 F6Y516_CIOIN
 ------------
