@@ -1,6 +1,9 @@
 PF14585 - CagY type 1 repeat
 ============================
 
+`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF14585/>`_
+
+
 M3LCL2
 ------
 
