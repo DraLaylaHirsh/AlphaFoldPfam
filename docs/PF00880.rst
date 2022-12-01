@@ -1,6 +1,9 @@
 PF00880 - Nebulin repeat
 ========================
 
+`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00880/>`_
+
+
 A0A0S7IV57
 ----------
 
