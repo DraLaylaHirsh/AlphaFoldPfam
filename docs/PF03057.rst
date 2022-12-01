@@ -35,7 +35,7 @@ TAPAS results:
   tr_A0A3P7F6R4_OX=6265_GN=TCNE_LOCUS3806_PE=4_SV=1,functional domain,PFAM,66,101,PF03057.15
   tr_A0A3P7F6R4_OX=6265_GN=TCNE_LOCUS3806_PE=4_SV=1,consensus disordered region,TAPASS,1,113
 
-.. image:: /images/A0A3P7F6R4tapass.png
+.. image:: /images/A0A3P7F6R4tapass.jpg
 
 Alphafold results - spectrum b
 
