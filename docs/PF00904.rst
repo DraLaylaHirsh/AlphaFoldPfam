@@ -1,6 +1,9 @@
 PF00904 - Involucrin repeat 
 ===========================
 
+`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00904/>`_
+
+
 A0A6J3GT35
 ----------
 
