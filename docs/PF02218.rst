@@ -260,19 +260,40 @@ Sequence:
 
 .. code-block:: Sequence
 
+  >tr|A0A6Q2YKY6|A0A6Q2YKY6_ESOLU Cortactin OS=Esox lucius OX=8010 PE=4 SV=1
+  MWKAAAGQSVTVPLDAGGDDWETDPDFENDVSEKEQRWGAKTVEGSGHQEHINIHKLREN
+  VSSEHSDLRQKELANMPKASDGYGGKFGVQQDRMDKSAVGWDHQEKLQLHESQKVNVFPA
+  DALTDEYGEDLGQTAVALYDYQAAGDDEISFDPDDIITNIEMIDEGWWRGVCRGAYGLFP
+  ANYVELRQ
+
 
 
 MRF results:
 
 .. code-block:: MRFresults
 
-  Region 1: 649-662,2 aa length,7 units,regex_PX2 0.92
+  Region 1: 27-137,43 aa length,3 units,TRUST 0.52
+  
+  FE-N----DVSEKEQRWG-AKTVEGSGHQEHINIHKL-RENVS
+  SEHS----DLRQKELANM-PKASDGYGGKFGVQQDRMDKSAVG
+  WD-HQEKLQLHESQKVNVFP--ADALTDEYG--ED-LGQTAVA
   
 TAPAS results:
 
 .. code-block:: TAPASresults
 
+  tr_A0A6Q2YKY6_SV=1,structured domain,CATH,114,188,2.30.30.40/FF/19446
+  tr_A0A6Q2YKY6_SV=1,disordered region,IUPred,1,87
+  tr_A0A6Q2YKY6_SV=1,disordered region,IUPred,98,105
+  tr_A0A6Q2YKY6_SV=1,disordered region,BISMMpredictor,15,39
+  tr_A0A6Q2YKY6_SV=1,disordered region,BISMMpredictor,55,73
+  tr_A0A6Q2YKY6_SV=1,functional domain,PFAM,82,114,PF02218.16
+  tr_A0A6Q2YKY6_SV=1,functional domain,PFAM,137,185,PF14604.7
+  tr_A0A6Q2YKY6_SV=1,consensus ordered region,TAPASS,106,188
+  tr_A0A6Q2YKY6_SV=1,consensus disordered region,TAPASS,1,105
 
+
+.. image:: /images/A0A6Q2YKY6tapass.jpg
 
 Alphafold results - spectrum b
 
