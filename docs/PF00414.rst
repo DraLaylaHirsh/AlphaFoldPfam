@@ -153,7 +153,7 @@ TAPAS results:
   sp_P46821_OX=9606_GN=MAP1B_PE=1_SV=2,consensus disordered region,TAPASS,2396,2434,
 
 
-.. image:: /images/P46821tapass.png
+.. image:: /images/P46821tapass.jpg
 
 Alphafold results - spectrum b
 
