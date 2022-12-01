@@ -30,10 +30,10 @@ TAPAS results:
 
 .. code-block:: TAPASresults
 
-tr_A0A3P7F6R4_OX=6265_GN=TCNE_LOCUS3806_PE=4_SV=1,disordered region,IUPred,1,111
-tr_A0A3P7F6R4_OX=6265_GN=TCNE_LOCUS3806_PE=4_SV=1,functional domain,PFAM,20,55,PF03057.15
-tr_A0A3P7F6R4_OX=6265_GN=TCNE_LOCUS3806_PE=4_SV=1,functional domain,PFAM,66,101,PF03057.15
-tr_A0A3P7F6R4_OX=6265_GN=TCNE_LOCUS3806_PE=4_SV=1,consensus disordered region,TAPASS,1,113
+  tr_A0A3P7F6R4_OX=6265_GN=TCNE_LOCUS3806_PE=4_SV=1,disordered region,IUPred,1,111
+  tr_A0A3P7F6R4_OX=6265_GN=TCNE_LOCUS3806_PE=4_SV=1,functional domain,PFAM,20,55,PF03057.15
+  tr_A0A3P7F6R4_OX=6265_GN=TCNE_LOCUS3806_PE=4_SV=1,functional domain,PFAM,66,101,PF03057.15
+  tr_A0A3P7F6R4_OX=6265_GN=TCNE_LOCUS3806_PE=4_SV=1,consensus disordered region,TAPASS,1,113
 
 .. image:: /images/A0A3P7F6R4tapass.png
 
@@ -88,9 +88,6 @@ Alphafold results - spectrum b
 
 .. image:: /imagesA0A7W1P561alphafold.png
 
-Alphafold results - units from MRF 
-
-.. image:: /images/A0A7W1P561alphafoldUnits.png
 
 `Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/AF-A0A7W1P561-F1-model_v4.pdb>`_
 
@@ -145,9 +142,6 @@ Alphafold results - spectrum b
 
 .. image:: /images/A0A498SNS4alphafold.png
 
-Alphafold results - units from MRF 
-
-.. image:: /images/A0A498SNS4alphafoldUnits.png
 
 `Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/AF-A0A498SNS4-F1-model_v4.pdb>`_
 
