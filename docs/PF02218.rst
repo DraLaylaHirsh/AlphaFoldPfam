@@ -149,7 +149,7 @@ TAPAS results:
   tr_D7EJV2_PE=3_SV=1,consensus disordered region,TAPASS,1,108
   tr_D7EJV2_PE=3_SV=1,consensus disordered region,TAPASS,633,794
 
-.. image:: /images/D7EJV2tapass.png
+.. figure:: /images/D7EJV2tapass.png
   :width: 700px
 
 Alphafold results - spectrum b
