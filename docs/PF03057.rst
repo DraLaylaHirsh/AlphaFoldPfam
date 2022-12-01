@@ -86,7 +86,7 @@ TAPAS results:
 
 Alphafold results - spectrum b
 
-.. image:: /imagesA0A7W1P561alphafold.png
+.. image:: /images/A0A7W1P561alphafold.png
 
 
 `Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/AF-A0A7W1P561-F1-model_v4.pdb>`_
