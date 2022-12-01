@@ -1,6 +1,9 @@
 PF10529 - Histidine-rich Calcium-binding repeat region
 ======================================================
 
+`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF10529/>`_
+
+
 A0A6J3HER4
 ----------
 
