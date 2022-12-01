@@ -1,5 +1,8 @@
 PF07391 - NPR nonapeptide repeat (2 copies)
 ===========================================
+
+`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF07391/>`_
+
 A0A024VP82
 ----------
 
