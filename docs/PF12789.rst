@@ -88,8 +88,10 @@ Alphafold results - units from MRF
 
 Alphafold results - trimer  
 
-.. image:: /images/A2GID0alphafoldTrimer.png
+.. image:: /images/A2GID0alphafoldtrimer.png
 
+
+.. image:: /images/A2GID0trimer.png
 
 
 `Alphafold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/96470cf6cae657cc420a8bac7c747513cfc34ead/docs/AF-A2GID0-F1-model_v4.pdb>`_
