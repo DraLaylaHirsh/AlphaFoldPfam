@@ -14,8 +14,6 @@ This material was made to evaluate Alphafold models for a particular group of PF
    This project is under active development.
 
 
-
-/
 ***********************
 What will you find here
 ***********************
