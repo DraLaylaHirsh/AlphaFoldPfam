@@ -70,7 +70,7 @@ Alphafold results - units from MRF
 
 .. image:: /images/P24603alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/AF-P24603-F1-model_v4.pdb>`_
+`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/a773ec29019c2561108b7b37a4b0bd3926a48902/docs/AF-P24603-F1-model_v4.pdb>`_
 
 
 
@@ -144,5 +144,5 @@ Alphafold results - units from MRF
 
 .. image:: /images/A0A7R8AL04alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/AF-A0A7R8AL04-F1-model_v4.pdb>`_
+`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/a773ec29019c2561108b7b37a4b0bd3926a48902/docs/AF-A0A7R8AL04-F1-model_v4.pdb>`_
 
