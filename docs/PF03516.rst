@@ -4,10 +4,10 @@ PF03516 - Filaggrin
 `Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF03516/>`_
 
 
-
+M3Z4K7
 ------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt//>`_
+`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/M3Z4K7/>`_
 
 Sequence:
 
@@ -29,11 +29,78 @@ TAPAS results:
 
 Alphafold results - spectrum b
 
-.. image:: /images/alphafold.png
+.. image:: /images/M3Z4K7alphafold.png
 
 Alphafold results - units from MRF 
 
-.. image:: /images/alphafoldUnits.png
+.. image:: /images/M3Z4K7alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/>`_
+`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/34ee0f5bdee48624c2321d0cfdd3fc38e9d9d93c/docs/AF-M3Z4K7-F1-model_v4.pdb>`_
+
+A0A5F9DSD4
+----------
+
+`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A5F9DSD4/>`_
+
+Sequence:
+
+.. code-block:: Sequence
+
+
+
+MRF results:
+
+.. code-block:: MRFresults
+
+  Region 1: 649-662,2 aa length,7 units,regex_PX2 0.92
+  
+TAPAS results:
+
+.. code-block:: TAPASresults
+
+
+
+Alphafold results - spectrum b
+
+.. image:: /images/A0A5F9DSD4alphafold.png
+
+Alphafold results - units from MRF 
+
+.. image:: /images/A0A5F9DSD4alphafoldUnits.png
+
+`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/34ee0f5bdee48624c2321d0cfdd3fc38e9d9d93c/docs/AF-A0A5F9DSD4-F1-model_v4.pdb>`_
+
+Q03839
+------
+
+`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/Q03839/>`_
+
+Sequence:
+
+.. code-block:: Sequence
+
+
+
+MRF results:
+
+.. code-block:: MRFresults
+
+  Region 1: 649-662,2 aa length,7 units,regex_PX2 0.92
+  
+TAPAS results:
+
+.. code-block:: TAPASresults
+
+
+
+Alphafold results - spectrum b
+
+.. image:: /images/Q03839alphafold.png
+
+Alphafold results - units from MRF 
+
+.. image:: /images/Q03839alphafoldUnits.png
+
+`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/34ee0f5bdee48624c2321d0cfdd3fc38e9d9d93c/docs/AF-Q03839-F1-model_v4.pdb>`_
+
 
