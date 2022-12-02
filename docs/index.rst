@@ -18,17 +18,16 @@ some text
 
 
 /
-*************************
-Process
-*************************
+***********************
+What will you find here
+***********************
 .. toctree::
-  Requirements
   Instructions
-  Usefulllinks
+ 
 
-*************************
+****************
 Protein Families
-*************************
+****************
 
 .. toctree::
   
