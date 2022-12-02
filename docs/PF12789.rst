@@ -94,4 +94,4 @@ Alphafold results - trimer
 
 `Alphafold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/96470cf6cae657cc420a8bac7c747513cfc34ead/docs/AF-A2GID0-F1-model_v4.pdb>`_
 
-`Alphafold results trimer <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/96470cf6cae657cc420a8bac7c747513cfc34ead/docs/trimer_A2GIDO_dic2022.result.zip>`_
+`Alphafold results trimer <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/8d49bc8672b1c81b1f2c1aa6b3403df577f4868c/docs/trimer_A2GIDO_dic2022.result.zip>`_
