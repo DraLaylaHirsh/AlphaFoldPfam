@@ -173,5 +173,5 @@ Alphafold results - units from MRF
 
 .. image:: /images/A0A1Q3ALI5alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/AF-A0A1Q3ALI5-F1-model_v4.pdb>`_
+`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/092bf5e840846cd6c7a98985c62f043bf1c539dc/docs/AF-A0A1Q3ALI5-F1-model_v4.pdb>`_
 
