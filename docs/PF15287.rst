@@ -99,5 +99,5 @@ Alphafold results - units from MRF
 
 .. image:: /images/I3N5J7alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/AF-I3N5J7-F1-model_v4.pdb>`_
+`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/b6bee0b8c5599e9f36b3ae756ccea96dd8e9eb2b/docs/AF-I3N5J7-F1-model_v4.pdb>`_
 
