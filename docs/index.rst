@@ -7,6 +7,8 @@ Welcome to PFAM using Alphafold
 Introduction
 ************
 
+This material was made to evaluate Alphafold models for a particular group of PFAM families.
+
 some text
 
 .. note::
