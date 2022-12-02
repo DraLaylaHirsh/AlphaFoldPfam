@@ -62,14 +62,15 @@ TAPAS results:
   tr_Q9JNX7OX=1314_GN=sic_PE=4_SV=1,consensus ordered region,TAPASS,1,32
   tr_Q9JNX7OX=1314_GN=sic_PE=4_SV=1,consensus disordered region,TAPASS,33,318
 
+.. image:: /images/Q9JNX7tapass.jpg
 
 Alphafold results - spectrum b
 
-.. image:: /images/alphafold.png
+.. image:: /images/Q9JNX7alphafold.png
 
 Alphafold results - units from MRF 
 
-.. image:: /images/alphafoldUnits.png
+.. image:: /images/Q9JNX7alphafoldUnits.png
 
 `Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/AF-Q9JNX7-F1-model_v4.pdb>`_
 
