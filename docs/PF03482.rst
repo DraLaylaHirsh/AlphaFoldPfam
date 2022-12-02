@@ -4,27 +4,63 @@ PF03482 - sic protein repeat
 `Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF03482/>`_
 
 
-
+Q9JNX7
 ------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt//>`_
+`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/Q9JNX7/>`_
 
 Sequence:
 
 .. code-block:: Sequence
 
+  >tr|Q9JNX7|Q9JNX7_STRPY Sic1.55 OS=Streptococcus pyogenes OX=1314 GN=sic PE=4 SV=1
+  MNIRNKIENSKTLLFTSLVAVALLGATQPVSAETYTSRNFDWSGDDWSGDDWPEDDWPED
+  DWSGDGLSKYDRSGVGLSQYGWSKYGWSSDKEEWPEDWPEDDWSSDKKDETEDKTRPPYG
+  EALGTGYEKRDDWGGPGTVATDPYTPPYGGALGTGYEKRDDWGGPGTVAIDPYTPPYGEA
+  LGTGYEKRDDWRGPGHIPKPENEQSPNPSHIPEPPQIEWPQWNGFDGFDGLSFGPSDRGQ
+  SEDTPRFPSEPRVPEKPQHTPQKNPQESDFDRGFSAGLKAKNSGRGIDFEGFQYGGWSDE
+  YKKGYMQAFGTPYTPSAT
 
 
 MRF results:
 
 .. code-block:: MRFresults
 
-  Region 1: 649-662,2 aa length,7 units,regex_PX2 0.92
+ 
+  
+  Region 1: 101-217, 30 aa length,4 units, T-REKS 0.96 
+  DDWSSDKKDETEDKTRPPYGEALGTGYEKR
+  DDWGGPGTVATDPYT-PPYGGALGTGYEKR
+  DDWGGPGTVAIDPYT-PPYGEALGTGYEKR
+  DDWRGPGHIPKPENEQSPNPSHIPEPPQI-
+  
+  Region 2: 41-65, 5 aa length,5 units, T-REKS T-REKS 1.0
+  DWSGD
+  DWSGD
+  DWPED
+  DWPED
+  DWSGD
   
 TAPAS results:
 
 .. code-block:: TAPASresults
 
+  tr_Q9JNX7OX=1314_GN=sic_PE=4_SV=1,peptide signal,SignalP,1,32
+  tr_Q9JNX7OX=1314_GN=sic_PE=4_SV=1,transmembrane region,TMHMM,13,32
+  tr_Q9JNX7OX=1314_GN=sic_PE=4_SV=1,disordered region,IUPred,42,70
+  tr_Q9JNX7OX=1314_GN=sic_PE=4_SV=1,disordered region,IUPred,93,293
+  tr_Q9JNX7OX=1314_GN=sic_PE=4_SV=1,disordered region,IUPred,305,318
+  tr_Q9JNX7OX=1314_GN=sic_PE=4_SV=1,disordered region,BISMMpredictor,41,69
+  tr_Q9JNX7OX=1314_GN=sic_PE=4_SV=1,disordered region,BISMMpredictor,86,121
+  tr_Q9JNX7OX=1314_GN=sic_PE=4_SV=1,disordered region,BISMMpredictor,123,139
+  tr_Q9JNX7OX=1314_GN=sic_PE=4_SV=1,disordered region,BISMMpredictor,152,168
+  tr_Q9JNX7OX=1314_GN=sic_PE=4_SV=1,disordered region,BISMMpredictor,181,218
+  tr_Q9JNX7OX=1314_GN=sic_PE=4_SV=1,disordered region,BISMMpredictor,232,275
+  tr_Q9JNX7OX=1314_GN=sic_PE=4_SV=1,functional domain,PFAM,101,130,PF03482.14
+  tr_Q9JNX7OX=1314_GN=sic_PE=4_SV=1,functional domain,PFAM,131,159,PF03482.14
+  tr_Q9JNX7OX=1314_GN=sic_PE=4_SV=1,functional domain,PFAM,160,188,PF03482.14
+  tr_Q9JNX7OX=1314_GN=sic_PE=4_SV=1,consensus ordered region,TAPASS,1,32
+  tr_Q9JNX7OX=1314_GN=sic_PE=4_SV=1,consensus disordered region,TAPASS,33,318
 
 
 Alphafold results - spectrum b
@@ -35,5 +71,5 @@ Alphafold results - units from MRF
 
 .. image:: /images/alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/>`_
+`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/AF-Q9JNX7-F1-model_v4.pdb>`_
 
