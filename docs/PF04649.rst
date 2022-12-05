@@ -82,19 +82,19 @@ TAPAS results:
 
 .. code-block:: TAPASresults
 
-tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	disordered region	IUPred	1	355	
-tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	disordered region	BISMMpredictor	1	259	
-tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	disordered region	BISMMpredictor	260	355	
-tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	functional domain	PFAM	94	106	PF04649.13
-tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	functional domain	PFAM	146	158	PF04649.13
-tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	functional domain	PFAM	159	171	PF04649.13
-tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	functional domain	PFAM	172	184	PF04649.13
-tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	functional domain	PFAM	224	236	PF04649.13
-tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	functional domain	PFAM	237	249	PF04649.13
-tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	functional domain	PFAM	250	262	PF04649.13
-tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	functional domain	PFAM	302	314	PF04649.13
-tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	functional domain	PFAM	334	346	PF04649.13
-tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	consensus disordered region	TAPASS	1	355	
+  tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	disordered region	IUPred	1	355	
+  tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	disordered region	BISMMpredictor	1	259	
+  tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	disordered region	BISMMpredictor	260	355	
+  tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	functional domain	PFAM	94	106	PF04649.13
+  tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	functional domain	PFAM	146	158	PF04649.13
+  tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	functional domain	PFAM	159	171	PF04649.13
+  tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	functional domain	PFAM	172	184	PF04649.13
+  tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	functional domain	PFAM	224	236	PF04649.13
+  tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	functional domain	PFAM	237	249	PF04649.13
+  tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	functional domain	PFAM	250	262	PF04649.13
+  tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	functional domain	PFAM	302	314	PF04649.13
+  tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	functional domain	PFAM	334	346	PF04649.13
+  tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	consensus disordered region	TAPASS	1	355	
 
 .. image:: /images/alphafoldtapass.jpg
 
