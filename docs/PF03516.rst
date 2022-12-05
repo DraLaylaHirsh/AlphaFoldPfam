@@ -46,24 +46,24 @@ TAPAS results:
 
 .. code-block:: TAPASresults
 
-  tr_M3Z4K7_OS=Mustela_putorius_furo_OX=9669_PE=4_SV=1	disordered region	IUPred	1	499	
-  tr_M3Z4K7_OS=Mustela_putorius_furo_OX=9669_PE=4_SV=1	disordered region	BISMMpredictor	20	97	
-  tr_M3Z4K7_OS=Mustela_putorius_furo_OX=9669_PE=4_SV=1	disordered region	BISMMpredictor	105	139	
-  tr_M3Z4K7_OS=Mustela_putorius_furo_OX=9669_PE=4_SV=1	disordered region	BISMMpredictor	140	169	
-  tr_M3Z4K7_OS=Mustela_putorius_furo_OX=9669_PE=4_SV=1	disordered region	BISMMpredictor	212	230	
-  tr_M3Z4K7_OS=Mustela_putorius_furo_OX=9669_PE=4_SV=1	disordered region	BISMMpredictor	231	253	
-  tr_M3Z4K7_OS=Mustela_putorius_furo_OX=9669_PE=4_SV=1	disordered region	BISMMpredictor	254	295	
-  tr_M3Z4K7_OS=Mustela_putorius_furo_OX=9669_PE=4_SV=1	disordered region	BISMMpredictor	308	337	
-  tr_M3Z4K7_OS=Mustela_putorius_furo_OX=9669_PE=4_SV=1	disordered region	BISMMpredictor	350	379	
-  tr_M3Z4K7_OS=Mustela_putorius_furo_OX=9669_PE=4_SV=1	disordered region	BISMMpredictor	392	433	
-  tr_M3Z4K7_OS=Mustela_putorius_furo_OX=9669_PE=4_SV=1	disordered region	BISMMpredictor	435	490	
-  tr_M3Z4K7_OS=Mustela_putorius_furo_OX=9669_PE=4_SV=1	functional domain	PFAM	106	142	PF03516.14
-  tr_M3Z4K7_OS=Mustela_putorius_furo_OX=9669_PE=4_SV=1	functional domain	PFAM	232	265	PF03516.14
-  tr_M3Z4K7_OS=Mustela_putorius_furo_OX=9669_PE=4_SV=1	functional domain	PFAM	274	307	PF03516.14
-  tr_M3Z4K7_OS=Mustela_putorius_furo_OX=9669_PE=4_SV=1	functional domain	PFAM	358	391	PF03516.14
-  tr_M3Z4K7_OS=Mustela_putorius_furo_OX=9669_PE=4_SV=1	functional domain	PFAM	400	433	PF03516.14
-  tr_M3Z4K7_OS=Mustela_putorius_furo_OX=9669_PE=4_SV=1	functional domain	PFAM	442	497	PF03516.14
-  tr_M3Z4K7_OS=Mustela_putorius_furo_OX=9669_PE=4_SV=1	consensus disordered region	TAPASS	1	499	
+  tr_M3Z4K7_OX=9669_PE=4_SV=1  disordered region       IUPred  1       499
+  tr_M3Z4K7_OX=9669_PE=4_SV=1  disordered region       BISMMpredictor  20      97
+  tr_M3Z4K7_OX=9669_PE=4_SV=1  disordered region       BISMMpredictor  105     139
+  tr_M3Z4K7_OX=9669_PE=4_SV=1  disordered region       BISMMpredictor  140     169
+  tr_M3Z4K7_OX=9669_PE=4_SV=1  disordered region       BISMMpredictor  212     230
+  tr_M3Z4K7_OX=9669_PE=4_SV=1  disordered region       BISMMpredictor  231     253
+  tr_M3Z4K7_OX=9669_PE=4_SV=1  disordered region       BISMMpredictor  254     295
+  tr_M3Z4K7_OX=9669_PE=4_SV=1  disordered region       BISMMpredictor  308     337
+  tr_M3Z4K7_OX=9669_PE=4_SV=1  disordered region       BISMMpredictor  350     379
+  tr_M3Z4K7_OX=9669_PE=4_SV=1  disordered region       BISMMpredictor  392     433
+  tr_M3Z4K7_OX=9669_PE=4_SV=1  disordered region       BISMMpredictor  435     490
+  tr_M3Z4K7_OX=9669_PE=4_SV=1  functional domain       PFAM    106     142     PF03516.14
+  tr_M3Z4K7_OX=9669_PE=4_SV=1  functional domain       PFAM    232     265     PF03516.14
+  tr_M3Z4K7_OX=9669_PE=4_SV=1  functional domain       PFAM    274     307     PF03516.14
+  tr_M3Z4K7_OX=9669_PE=4_SV=1  functional domain       PFAM    358     391     PF03516.14
+  tr_M3Z4K7_OX=9669_PE=4_SV=1  functional domain       PFAM    400     433     PF03516.14
+  tr_M3Z4K7_OX=9669_PE=4_SV=1  functional domain       PFAM    442     497     PF03516.14
+  tr_M3Z4K7_OX=9669_PE=4_SV=1  consensus disordered region     TAPASS  1       499
 
 
 Alphafold results - spectrum b
@@ -109,9 +109,6 @@ Alphafold results - spectrum b
 
 .. image:: /images/A0A5F9DSD4alphafold.png
 
-Alphafold results - units from MRF 
-
-.. image:: /images/A0A5F9DSD4alphafoldUnits.png
 
 `Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/34ee0f5bdee48624c2321d0cfdd3fc38e9d9d93c/docs/AF-A0A5F9DSD4-F1-model_v4.pdb>`_
 
