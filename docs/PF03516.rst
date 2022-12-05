@@ -103,7 +103,14 @@ TAPAS results:
 
 .. code-block:: TAPASresults
 
-
+  tr_A0A5F9DSD4_OX=9986_PE=4_SV=1	transmembrane region	TMHMM	261	283
+  tr_A0A5F9DSD4_OX=9986_PE=4_SV=1	disordered region	IUPred	1	243
+  tr_A0A5F9DSD4_OX=9986_PE=4_SV=1	disordered region	BISMMpredictor	10	90
+  tr_A0A5F9DSD4_OX=9986_PE=4_SV=1	disordered region	BISMMpredictor	92	144
+  tr_A0A5F9DSD4_OX=9986_PE=4_SV=1	disordered region	BISMMpredictor	146	258
+  tr_A0A5F9DSD4_OX=9986_PE=4_SV=1	functional domain	PFAM	77	126
+  tr_A0A5F9DSD4_OX=9986_PE=4_SV=1	consensus ordered region	TAPASS	259	296
+  tr_A0A5F9DSD4_OX=9986_PE=4_SV=1	consensus disordered region	TAPASS	1	258
 
 Alphafold results - spectrum b
 
@@ -121,18 +128,29 @@ Sequence:
 
 .. code-block:: Sequence
 
+  >tr|Q03839|Q03839_HUMAN Profilaggrin (Fragment) OS=Homo sapiens OX=9606 GN=FLG PE=2 SV=1
+  MTQKWIQSGHIATYYTIQDEAYDTTDSLLEENKIYERSRSSDGKSSSQVNRSRHENTSQV
+  PLQEPRTRKRRGSRVSQDRDSEGHSEDSERHSGSASRNHHGSAWEQSRDVSRHPRSHDED
+  RASHGHSADSSRQSGTRHAETSSRGQTASSHEQARSSPGERHGSGHQQSAD
 
 
 MRF results:
 
 .. code-block:: MRFresults
 
-  Region 1: 649-662,2 aa length,7 units,regex_PX2 0.92
+  Region 1: 76-166,49 aa length,2 units,TRUST 0.86
+  SQDRDSEGHSEDSERHSG-----SASRNHHGSAWEQSRDV--SRHPRSH
+  DEDRASHGHSADSSRQSGTRHAETSSRGQTASSHEQARSSPGERHGSGH
   
 TAPAS results:
 
 .. code-block:: TAPASresults
 
+  tr_Q03839_OX=9606_GN=FLG_PE=2_SV=1	disordered region	IUPred	8	171	
+  tr_Q03839_OX=9606_GN=FLG_PE=2_SV=1	disordered region	BISMMpredictor	35	105	
+  tr_Q03839_OX=9606_GN=FLG_PE=2_SV=1	disordered region	BISMMpredictor	106	175	
+  tr_Q03839_OX=9606_GN=FLG_PE=2_SV=1	functional domain	PFAM	35	84	PF03516.14
+  tr_Q03839_OX=9606_GN=FLG_PE=2_SV=1	consensus disordered region	TAPASS	1	175	
 
 
 Alphafold results - spectrum b
