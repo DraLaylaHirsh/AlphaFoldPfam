@@ -1,7 +1,7 @@
- - 
+PF08062 - 
 =============================
 
-`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF06049/>`_
+`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF08062/>`_
 
 
 
