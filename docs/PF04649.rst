@@ -1,5 +1,5 @@
-PF04649 - 
-=============================
+PF04649 - Mycoplasma hyorhinis VlpA repeat
+==========================================
 
 `Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF04649/>`_
 
