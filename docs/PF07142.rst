@@ -1,7 +1,7 @@
-PF06049 - 
+PF07142 - 
 =============================
 
-`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF06049/>`_
+`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF07142/>`_
 
 
 
