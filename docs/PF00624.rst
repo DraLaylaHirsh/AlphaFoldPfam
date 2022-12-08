@@ -1,6 +1,6 @@
 PF00624 - Flocculin repeat
 ==========================
-
+Repeat units annotated: 342-382, 387-427 ,432-472,477-517 ,524-564 ,571-611  
 `Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00624/>`_
 
 
