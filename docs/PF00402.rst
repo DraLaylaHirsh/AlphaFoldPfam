@@ -5,7 +5,7 @@ PF00402 - Calponin family repeat
 
 F6Y516_CIOIN
 ------------
-Repeat region annotated 139-163 ,179-203 
+Repeat Units annotated  139-163 ,179-203 
 
 `Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/F6Y516/>`_
 
@@ -62,7 +62,7 @@ Alphafold results - units from MRF
 
 K1R832
 ------
-Repeat regions annotated: 52-76, 92-116, 132-156 , 181-196, 266-289, 305-328, 344-367, 383-406, 422-445, 461-484, 500-523
+Repeat Units annotated : 52-76, 92-116, 132-156 , 181-196, 266-289, 305-328, 344-367, 383-406, 422-445, 461-484, 500-523
 
 `Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/K1R832/>`_
 
