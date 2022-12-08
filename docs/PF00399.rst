@@ -5,6 +5,7 @@ PF00399 - Yeast PIR protein repeat
 
 G2YIK9_BOTF4
 ------------
+Repeat Units annotated 196-213, 260-277 ...
 
 `Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/G2YIK9/>`_
 
@@ -81,6 +82,7 @@ Alphafold results - units from MRF
 
 K1XX71_MARBU
 ------------
+Repeat Units annotated 182-198 ...
 
 `Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/K1XX71/>`_
 
@@ -141,6 +143,8 @@ Alphafold results - units from MRF
 
 A0A0N0NR21
 ----------
+
+Repeat Units annotated 930-945
 
 `Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A0N0NR21>`_
 
