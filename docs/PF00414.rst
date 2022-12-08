@@ -6,7 +6,7 @@ PF00414 - Neuraxin and MAP1B repeat
 
 P46821
 ------
-
+Repeat units annotated: 1895-1911, 1929-1945, 1963-1979, 2031-2047 ,2048-2063
 `Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/P46821/>`_
 
 Sequence:
