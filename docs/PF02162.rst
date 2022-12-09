@@ -6,6 +6,8 @@ PF02162 - XYPPX repeat (two copies)
 P24603
 ------
 
+PFAM repeat region: 289-402, 404-416, 417-428
+
 `Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/P24603/>`_
 
 Sequence:
@@ -77,6 +79,8 @@ Alphafold results - units from MRF
 
 A0A7R8AL04
 ----------
+
+PFAM repeat region 17-33
 
 `Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A7R8AL04/>`_
 
