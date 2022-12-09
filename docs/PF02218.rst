@@ -7,6 +7,8 @@ PF02218 - Repeat in HS1/Cortactin
 B3RT04
 ------
 
+PFAM repeat regions: 83-118, 120-155, 157-192, 194-229, 231-266, 268-303
+
 `Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/B3RT04/>`_
 
 Sequence:
@@ -89,6 +91,8 @@ Alphafold results - spectrum b of the repeat region
 D7EJV2
 ------
 
+PFAM repeat regions: 85-120, 657-791, 694-729,731-752
+
 `Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/D7EJV2/>`_
 
 Sequence:
@@ -167,6 +171,8 @@ Alphafold results - units from MRF
 
 A0A6G0T661
 ----------
+
+PFAM repe
 
 `Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A6G0T661/>`_
 
