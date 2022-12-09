@@ -7,6 +7,8 @@ PF00904 - Involucrin repeat
 A0A6J3GT35
 ----------
 
+PFAM repeat regions: 156-165,166-174,176-185,186-195, 196-205,215-224,225-234, 245...377
+
 `Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A6J3GT35/>`_
 
 Sequence:
@@ -75,6 +77,8 @@ Alphafold results - units from MRF
 
 P14708
 ------
+
+PFAM Repeat region: 156-165, 166-175 ....., 783-792
 
 `Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/P14708/>`_
 
