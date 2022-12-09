@@ -1,12 +1,12 @@
 PF00624 - Flocculin repeat
 ==========================
-Repeat units annotated: 342-382, 387-427 ,432-472,477-517 ,524-564 ,571-611  
 
 `Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00624/>`_
 
 
 G8C135
 ------
+Repeat units annotated: 342-382, 387-427 ,432-472,477-517 ,524-564 ,571-611  
 
 `Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/G8C135/>`_
 
@@ -112,6 +112,8 @@ Alphafold results - units from MRF
 
 A0A1Q3ALI5
 ----------
+
+Repeat units annotated: 207-307, 314-353
 
 `Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A1Q3ALI5/>`_
 
