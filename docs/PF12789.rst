@@ -3,7 +3,7 @@ PF12789 - Phage tail repeat like
 
 `Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF12789/>`_
  
-A complete search has been done using H[T|S|G]H Motif all the retrieved information is in `here<https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/859df79bee0fca28ed868a972c90793f408140d0/docs/MotifsHXHinformation.xlsx/>`_
+A complete search has been done using H[T|S|G]H Motif all the retrieved information is in `here <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/859df79bee0fca28ed868a972c90793f408140d0/docs/MotifsHXHinformation.xlsx/>`_
 
 A2GID0
 ------
@@ -165,7 +165,7 @@ Alphafold results - trimer
 .. image:: /images/A3XEN5alphafoldtrimer.png
 
 
-.. image:: /images/A3XEN5trimer.png
+.. image:: /images/A3XEN5alphafoldtrimerUnits.png
 
 
 `Alphafold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/96470cf6cae657cc420a8bac7c747513cfc34ead/docs/AF-A3XEN5-F1-model_v4.pdb>`_
