@@ -5,7 +5,6 @@ PF00624 - Flocculin repeat
 
 A7TTI5
 ------
-Repeat units annotated: 342-382, 387-427 ,432-472,477-517 ,524-564 ,571-611  
 
 `Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A7TTI5/>`_
 Sequence:
