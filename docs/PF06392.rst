@@ -4,14 +4,18 @@ PF06392 -
 `Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF06392/>`_
 
 
-
-------
+A0A0A3YPY8
+----------
 
 `Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt//>`_
 
 Sequence:
 
 .. code-block:: Sequence
+  >tr|A0A0A3YPY8|A0A0A3YPY8_9GAMM Acid shock protein OS=Erwinia typographi OX=371042 GN=asr PE=3 SV=1
+  MKKLFALVVAAAMGLSSVAFAADTTAAPATTPAATTAAPAKATTTKHHKKHKKATVQKAQ
+  AAKKVHHKKVAKKPVAQKAQAAKKVHHKKVAKKPVAQKAQAAKKVHHKKVAKKPVAQIAQ
+  AAKKVHHKKVAKKPVAQKAQAAKKVHHKKVTKKAAAPKA
 
 
 
@@ -19,13 +23,22 @@ MRF results:
 
 .. code-block:: MRFresults
 
-  Region 1: 649-662,2 aa length,7 units,regex_PX2 0.92
+  Region 1: 51-150 ,	20 aa length,	5 units
+  HKKATVQKAQAAKKVHHKKV
+  AKKPVAQKAQAAKKVHHKKV
+  AKKPVAQKAQAAKKVHHKKV
+  AKKPVAQIAQAAKKVHHKKV
+  AKKPVAQKAQAAKKVHHKKV
+
+  Region 2: 24-39,	6 	 aa length,	3 units
+
+  TTAAPA
+  TTPAA-
+  TTAAP-
   
 TAPAS results:
 
-.. code-block:: TAPASresults
-
-
+.. image:: /images/tapasA0A0A3YPY8.png
 
 Alphafold results - spectrum b
 
