@@ -1,4 +1,4 @@
-PF06049 - 
+PF06049 - Coagulation Factor V LSPD Repeat
 =============================
 
 `Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF06049/>`_
