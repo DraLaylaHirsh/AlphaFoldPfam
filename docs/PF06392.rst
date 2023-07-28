@@ -17,7 +17,10 @@ Sequence:
   AAKKVHHKKVAKKPVAQKAQAAKKVHHKKVAKKPVAQKAQAAKKVHHKKVAKKPVAQIAQ
   AAKKVHHKKVAKKPVAQKAQAAKKVHHKKVTKKAAAPKA
 
-
+Sequence Fragment:
+.. code-block:: Sequence
+  HHKKHKKATVQKAQAAKKVHHKKVAKKPVAQKAQAAKKVHHKKVAKKPVAQKAQAAKKVH
+  HKKVAKKPVAQIAQAAKKVHHKKVAKKPVAQKAQAAKKVHHKKVTKKAAAPKA
 
 MRF results:
 
@@ -42,11 +45,11 @@ TAPAS results:
 
 Alphafold results - spectrum b
 
-.. image:: /images/alphafold.png
+.. image:: /images/A0A0A3YPY8alphafold.png
 
 Alphafold results - units from MRF 
 
-.. image:: /images/alphafoldUnits.png
+.. image:: /images/A0A0A3YPY8alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/>`_
+`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/A0A0A3YPY8_rep_cutted_f3774.result.zip>`_
 
