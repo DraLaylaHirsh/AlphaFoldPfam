@@ -44,21 +44,17 @@ Sequence used for the model:
   PDLSQETLSPDLGQDALSPDFSQTTVSLDLDQETLSPDFSQTTDSPGLGQETLSPDLGQT
   TLPPAVWQTSAPPDIDQTPDTSEPAQTVPYSDLGQLSSLQPSPPLNDTFLTKEFNLPFVL
 
-
 MRF results:
 
 .. image:: /images/mrfA0A833YAA7.png
 
-  
 TAPAS results:
 
 .. image:: /images/tapasA0A833YAA7.png
 
-
 Alphafold results - spectrum b
 
 .. image:: /images/alphafoldA0A833YAA7.png
-
 
 Alphafold results - units from MRF 
 
