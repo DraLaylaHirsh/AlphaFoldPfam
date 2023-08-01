@@ -1,5 +1,5 @@
-PF07276 - 
-=============================
+PF07276 - Apopolysialoglycoprotein (PSGP)
+=========================================
 
 `Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF07276/>`_
 
