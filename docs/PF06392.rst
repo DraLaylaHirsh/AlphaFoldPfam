@@ -1,5 +1,5 @@
-PF06392 - 
-=============================
+PF06392 - Acid shock protein repeat
+===================================
 
 `Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF06392/>`_
 
