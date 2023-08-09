@@ -8,7 +8,7 @@ PF00399 - Yeast PIR protein repeat
 ----------------------------------
 `Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00399/>`_
 
-A0A0D1Z8C3
+##A0A0D1Z8C3
 
 `Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A0D1Z8C3>`_
 
@@ -64,3 +64,6 @@ Alphafold results Repeat Region - spectrum b
 .. image:: /images/A0A0N0NR21alphafold.png
 
 `AlphaFold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/fb72a7aa6d9df46243c687e713ab5c8447fc4e56/docs/AF-A0A0D1Z8C3-F1-model_v4.pdb>`_
+
+
+###P46999
