@@ -67,3 +67,5 @@ Alphafold results Repeat Region - spectrum b
 
 
 ###P46999
+
+#Q03178
