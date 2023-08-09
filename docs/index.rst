@@ -19,7 +19,12 @@ What will you find here
 ***********************
 .. toctree::
   Instructions
- 
+
+****************
+Cases to review
+****************
+.. toctree::
+   CasesToReviewed
 
 ****************
 Protein Families
