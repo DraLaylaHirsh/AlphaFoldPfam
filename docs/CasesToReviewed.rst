@@ -59,4 +59,4 @@ Alphafold results Repeat Region - spectrum b
 
 .. image:: /images/A0A0N0NR21alphafold.png
 
-`AlphaFold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/cf74a8a51ffb012e1e02264ed0ea4faf61052ee9/docs/AF-A0A0D1Z8C3-F1-model_v4.pdb>`_
+`AlphaFold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/cf74a8a51ffb012e1e02264ed0ea4faf61052ee9/docs/AF-A0A0D1Z8C3-F1-model_v4>`_
