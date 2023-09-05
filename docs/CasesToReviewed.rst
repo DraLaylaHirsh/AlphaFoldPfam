@@ -540,9 +540,48 @@ Alphafold results - spectrum b
 
 `Alpha fold results A0A7W1P561 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/db4ce85a7298a43d11ed8d14d2ba8f9a45e52824/docs/AF-A0A7W1P561-F1-model_v4.pdb>`_
 
+PF03991 - Copper binding octapeptide repeat
+-------------------------------------------
 
-###P46999
+`PF03991 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF03991/>`_
 
-#Q03178
+
+##Q7KYZ4
+
+
+`Q7KYZ4 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/Q7KYZ4/>`_
+
+Sequence:
+
+.. code-block:: 
+
+ >tr|Q7KYZ4|Q7KYZ4_HUMAN Prion protein (Fragment) OS=Homo sapiens OX=9606 GN=prion protein/ PrP PE=4 SV=1
+ PQGGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQPHG
+ GGWGQPHGGGWGQPHGGGWGQPHGGGWGQ
+
+MRF results:
+
+.. code-block:: 
+
+  Region 1: 10-89,8 length,10 units,Trust 1.0
+
+  PHGGGWGQ
+  PHGGGWGQ
+  PHGGGWGQ
+  PHGGGWGQ
+  PHGGGWGQ
+  PHGGGWGQ
+  PHGGGWGQ
+  PHGGGWGQ
+  PHGGGWGQ
+  PHGGGWGQ
+  
+bfactor alpha fold model 33.50000 to 52.16000
+
+.. image:: /images/Q7KYZ4bfactor.png 
+
+.. image:: /images/Q7KYZ4.png 
+
+`Q7KYZ4 AlphaFold <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/dd7d509c8be94f542192e6c63f4f328d822d920d/docs/AF-Q7KYZ4-F1-model_v4.pdb>`_
 
 P32478
