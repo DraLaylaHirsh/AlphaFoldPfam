@@ -5,52 +5,42 @@
 project = u'PFAM using AlphaFold'
 copyright = u'2022, Layla Hirsh'
 author = u'Layla Hirsh'
+"""
+Shared Sphinx configuration using sphinx-multiproject.
 
+To build each project, the ``PROJECT`` environment variable is used.
 
-release = '1'
-version = '1.0'
+.. code:: console
 
-# -- General configuration
-html_theme = 'sphinx_rtd_theme'
-extensions = [
-    'sphinx.ext.duration',
-    'sphinx.ext.doctest',
-    'sphinx.ext.autodoc',
-    'sphinx.ext.autosummary',
-    'sphinx.ext.intersphinx',
-]
+   $ make html  # build default project
+   $ PROJECT=dev make html  # build the dev project
 
-intersphinx_mapping = {
-    'python': ('https://docs.python.org/3/', None),
-    'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
-}
-intersphinx_disabled_domains = ['std']
+for more information read https://sphinx-multiproject.readthedocs.io/.
+"""
 
-templates_path = ['_templates']
+import os
+import sys
+import sphinx_rtd_theme
+master_doc = "index"
 
-# -- Options for HTML output
+version = "10.1.0"
+release = version
+ 
 
-#html_theme = 'sphinx_rtd_theme'
-#html_logo = '4gg4.png'
+# Intersphinx: Do not try to resolve unresolved labels that aren't explicitly prefixed.
+# The default setting for intersphinx_disabled_reftypes can cause some pretty bad
+# breakage because we have rtd and rtd-dev stable versions in our mappings.
+# Hence, if we refactor labels, we won't see broken references, since the
+# currently active stable mapping keeps resolving.
+# Recommending doing this on all projects with Intersphinx.
+# https://www.sphinx-doc.org/en/master/usage/extensions/intersphinx.html#confval-intersphinx_disabled_reftypes
+intersphinx_disabled_reftypes = ["*"]
+ 
+language = "en"
 
-latex_logo =  'REFRACT.png'
-# -- Options for EPUB output
-epub_show_urls = 'footnote'
+ 
+gettext_compact = False
 
-html_theme_options = {
-    'analytics_id': 'G-XXXXXXXXXX',  #  Provided by Google in your dashboard
-    'analytics_anonymize_ip': False,
-    'logo_only': False,
-    'display_version': True,
-    'prev_next_buttons_location': 'bottom',
-    'style_external_links': False,
-    'vcs_pageview_mode': '',
-    'style_nav_header_background': 'white',
-    # Toc options
-    'collapse_navigation': True,
-    'sticky_navigation': True,
-    'navigation_depth': 4,
-    'includehidden': True,
-    'titles_only': False
-}
-
+html_theme = "sphinx_rtd_theme" 
+html_css_files = ["css/custom.css", "css/sphinx_prompt_css.css"]
+html_js_files = ["js/expand_tabs.js"]
