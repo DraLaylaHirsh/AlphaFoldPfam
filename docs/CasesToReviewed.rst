@@ -8,7 +8,7 @@ PF00399 - Yeast PIR protein repeat
 ----------------------------------
 `PF00399 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00399/>`_
 
-##A0A0D1Z8C3
+A0A0D1Z8C3
 ............
 `A0A0D1Z8C3 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A0D1Z8C3>`_
 
@@ -65,7 +65,8 @@ PF00402 - Calponin family repeat
 ----------------------------------
 `PF00402 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00402/>`_
 
-##K1R832
+K1R832
+............
  
 Repeat Units annotated : 52-76, 92-116, 132-156 , 181-196, 266-289, 305-328, 344-367, 383-406, 422-445, 461-484, 500-523
 
@@ -148,7 +149,8 @@ PF00624 - Flocculin repeat
 
 `PF00624 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00624/>`_
 
-##A7TTI5
+A7TTI5
+............
  
 
 `A7TTI5 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A7TTI5/>`_
@@ -225,8 +227,8 @@ PF00880 - Nebulin repeat
 `PF00880 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00880/>`_
 
 
-##A0A0S7IV57
-
+A0A0S7IV57
+............
 
 PFAM repeat units: 68-95, 103-129
 
@@ -282,8 +284,8 @@ Alphafold results - units from MRF
 PF00904 - Involucrin repeat 
 ----------------------------------
 
-##P14708
-
+P14708
+............
 PFAM Repeat region: 156-165, 166-175 ....., 783-792
 
 `P14708 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/P14708/>`_
@@ -410,8 +412,8 @@ PF02218 - Repeat in HS1/Cortactin
 `PF02218 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF02218/>`_
 
 
-##B3RT04
-
+B3RT04
+............
 PFAM repeat regions: 83-118, 120-155, 157-192, 194-229, 231-266, 268-303
 
 `B3RT04 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/B3RT04/>`_
@@ -497,8 +499,8 @@ PF03057 - DUF236 repeat
 -----------------------
 
 
-##A0A7W1P561
-
+A0A7W1P561
+............
 `A0A7W1P561 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A7W1P561/>`_
 
 Sequence:
@@ -546,8 +548,8 @@ PF03991 - Copper binding octapeptide repeat
 `PF03991 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF03991/>`_
 
 
-##Q7KYZ4
-
+Q7KYZ4
+............
 
 `Q7KYZ4 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/Q7KYZ4/>`_
 
@@ -590,8 +592,8 @@ PF14585 - CagY type 1 repeat
 `PF14585 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF14585/>`_
 
 
-##M3LCL2
-
+M3LCL2
+............
 
 `M3LCL2 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/M3LCL2/>`_
 
@@ -680,8 +682,8 @@ PF12789 - Phage tail repeat like
  
 A complete search has been done using H[T|S|G]H Motif all the retrieved information is in `here <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/859df79bee0fca28ed868a972c90793f408140d0/docs/MotifsHXHinformation.xlsx/>`_
 
-##A2GID0
- 
+A2GID0
+............ 
 
 `A2GID0 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A2GID0/>`_
 
@@ -775,8 +777,8 @@ Alphafold results - trimer
 `Alphafold results trimer A2GID0 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/8d49bc8672b1c81b1f2c1aa6b3403df577f4868c/docs/trimer_A2GIDO_dic2022.result.zip>`_
 
 
-##A3XEN5
-
+A3XEN5
+............
 PFAM Repeat region 103-158
 
 `A3XEN5 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A3XEN5/>`_
@@ -853,8 +855,8 @@ PF07918 - CAP160 repeat
 `PF07918 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF07918/>`_
 
 
-##A0A3Q0F5B8
-
+A0A3Q0F5B8
+............
 
 `A0A3Q0F5B8 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt//>`_
 
@@ -937,8 +939,8 @@ PF07276 - Apopolysialoglycoprotein (PSGP)
 `PF07276 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF07276/>`_
 
 
-##P12027
-
+P12027
+............
 
 `Interpro sequence information P12027 <https://www.ebi.ac.uk/interpro/protein/UniProt//>`_
 
