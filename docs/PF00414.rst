@@ -11,7 +11,7 @@ Repeat units annotated: 1895-1911, 1929-1945, 1963-1979, 2031-2047 ,2048-2063
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >sp|P46821|MAP1B_HUMAN Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2
   MATVVVEATEPEPSGSIANPAASTSPSLSHRFLDSKFYLLVVVGEIVTEEHLRRAIGNIE
@@ -59,7 +59,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block:: 
 
   Region 1: 2025-2058, 17 aa length, 2 units
   YETSTKTTRTPDTSTYC
@@ -87,7 +87,7 @@ MRF results:
   
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block:: 
 
   sp_P46821_OX=9606_GN=MAP1B_PE=1_SV=2,structured domain,CATH,263,447,3.60.15.10/FF/29172
   sp_P46821_OX=9606_GN=MAP1B_PE=1_SV=2,structured domain,CATH,461,491,3.60.15.10/FF/29223
