@@ -1,14 +1,14 @@
 PF02162 - XYPPX repeat (two copies)
 ===================================
 
-`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF02162/>`_
+`PF02162 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF02162/>`_
 
 P24603
 ------
 
 PFAM repeat region: 289-402, 404-416, 417-428
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/P24603/>`_
+`P24603 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/P24603/>`_
 
 Sequence:
 
@@ -82,7 +82,7 @@ A0A7R8AL04
 
 PFAM repeat region 17-33
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A7R8AL04/>`_
+`A0A7R8AL04 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A7R8AL04/>`_
 
 Sequence:
 
