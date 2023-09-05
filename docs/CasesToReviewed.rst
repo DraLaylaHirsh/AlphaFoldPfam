@@ -672,3 +672,178 @@ Alphafold results - units from MRF
 
 
 `AlphaFold results M3LCL2 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/22ff0cd79942acf9b8e4754d599a4a41b7b91199/docs/test_M3LCL2_PF14585_02d4f.result.zip>`_
+
+PF12789 - Phage tail repeat like
+--------------------------------
+
+`PF12789 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF12789/>`_
+ 
+A complete search has been done using H[T|S|G]H Motif all the retrieved information is in `here <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/859df79bee0fca28ed868a972c90793f408140d0/docs/MotifsHXHinformation.xlsx/>`_
+
+##A2GID0
+ 
+
+`A2GID0 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A2GID0/>`_
+
+Sequence:
+
+.. code-block::  
+
+  >tr|A2GID0|A2GID0_TRIVA Phage tail fiber repeat family protein OS=Trichomonas vaginalis G3 OX=412133 GN=TVAG_471250 PE=4 SV=1
+  MSNETASMREIQHNRQLIMQALNKNTTNFSNYSKISETLKDGNLKLTLNPITDEFLFQDN
+  KNNTVCINPTKGTLNEKPINELLLKADVDNKADKEYVDDAIAKEEERANNAYATKEHTHP
+  ELADKTYVDNKMSSEVTRAENEYSKKTHIHYINQIPSLKETLETKADKTHTHSISDITNL
+  QETLNRKSDVEHTHSISDITNLQETLNRKSDVEHTHSISDITNLQETLNRKSDVEHTHSI
+  SDITNLQETLNRKSDVEHTHSISDITNLQETLNRKSDVEHTHSISDITNLQETLNRKSDV
+  EHTHSISDITNLQETLNRKSDVEHTHSISDITNLQETLNRKSDVEHTHSISDITNLQETL
+  NRKSDVGHTHTSSEITDLNVSLENKADKTYVNEIYQSLIGTKILKLLLVTFLSMKKINIL
+  DGSWYSP
+
+
+MRF results:
+
+.. code-block::  
+ 
+  Region 1: 53-140, 31 aa length,3 units, TRUST 0.56
+  DEFLFQ---DNK-NNTVCINPTKGTLNEKPI
+  NELLLKADVDNK-ADKEYVDDAIAKEEERAN
+  NAYATKEHTHPELADKTYVDNKMSSEVTRAE
+
+  Region 2: 159-378, 22 aa length, 10 units, TRUST 1.0
+  KETLETKADKTHTHSISDITNL
+  QETLNRKSDVEHTHSISDITNL
+  QETLNRKSDVEHTHSISDITNL
+  QETLNRKSDVEHTHSISDITNL
+  QETLNRKSDVEHTHSISDITNL
+  QETLNRKSDVEHTHSISDITNL
+  QETLNRKSDVEHTHSISDITNL
+  QETLNRKSDVEHTHSISDITNL
+  QETLNRKSDVEHTHSISDITNL
+  QETLNRKSDVGHTHTSSEITDL
+
+TAPAS results:
+
+.. code-block::  
+ 
+  tr_A2GID0_OX=412133_GN=TVAG_471250_PE=4_SV=1,structured domain,CATH,120,408,3.80.10.10/FF/343
+  tr_A2GID0_OX=412133_GN=TVAG_471250_PE=4_SV=1,disordered region,IUPred,1,20
+  tr_A2GID0_OX=412133_GN=TVAG_471250_PE=4_SV=1,disordered region,IUPred,30,34
+  tr_A2GID0_OX=412133_GN=TVAG_471250_PE=4_SV=1,disordered region,IUPred,66,72
+  tr_A2GID0_OX=412133_GN=TVAG_471250_PE=4_SV=1,disordered region,IUPred,78,85
+  tr_A2GID0_OX=412133_GN=TVAG_471250_PE=4_SV=1,disordered region,IUPred,94,378
+  tr_A2GID0_OX=412133_GN=TVAG_471250_PE=4_SV=1,disordered region,BISMMpredictor,66,81
+  tr_A2GID0_OX=412133_GN=TVAG_471250_PE=4_SV=1,disordered region,BISMMpredictor,156,176
+  tr_A2GID0_OX=412133_GN=TVAG_471250_PE=4_SV=1,disordered region,BISMMpredictor,178,198
+  tr_A2GID0_OX=412133_GN=TVAG_471250_PE=4_SV=1,disordered region,BISMMpredictor,200,220
+  tr_A2GID0_OX=412133_GN=TVAG_471250_PE=4_SV=1,disordered region,BISMMpredictor,222,242
+  tr_A2GID0_OX=412133_GN=TVAG_471250_PE=4_SV=1,disordered region,BISMMpredictor,244,264
+  tr_A2GID0_OX=412133_GN=TVAG_471250_PE=4_SV=1,disordered region,BISMMpredictor,266,286
+  tr_A2GID0_OX=412133_GN=TVAG_471250_PE=4_SV=1,disordered region,BISMMpredictor,288,308
+  tr_A2GID0_OX=412133_GN=TVAG_471250_PE=4_SV=1,disordered region,BISMMpredictor,310,330
+  tr_A2GID0_OX=412133_GN=TVAG_471250_PE=4_SV=1,disordered region,BISMMpredictor,332,352
+  tr_A2GID0_OX=412133_GN=TVAG_471250_PE=4_SV=1,disordered region,BISMMpredictor,354,377
+  tr_A2GID0_OX=412133_GN=TVAG_471250_PE=4_SV=1,functional domain,PFAM,142,201,PF12789.8
+  tr_A2GID0_OX=412133_GN=TVAG_471250_PE=4_SV=1,functional domain,PFAM,191,245,PF12789.8
+  tr_A2GID0_OX=412133_GN=TVAG_471250_PE=4_SV=1,functional domain,PFAM,232,289,PF12789.8
+  tr_A2GID0_OX=412133_GN=TVAG_471250_PE=4_SV=1,functional domain,PFAM,279,333,PF12789.8
+  tr_A2GID0_OX=412133_GN=TVAG_471250_PE=4_SV=1,functional domain,PFAM,324,377,PF12789.8
+  tr_A2GID0_OX=412133_GN=TVAG_471250_PE=4_SV=1,consensus ordered region,TAPASS,35,65
+  tr_A2GID0_OX=412133_GN=TVAG_471250_PE=4_SV=1,consensus ordered region,TAPASS,120,426
+  tr_A2GID0_OX=412133_GN=TVAG_471250_PE=4_SV=1,consensus disordered region,TAPASS,1,34
+  tr_A2GID0_OX=412133_GN=TVAG_471250_PE=4_SV=1,consensus disordered region,TAPASS,66,119
+
+
+
+Alphafold results - spectrum b
+
+.. image:: /images/A2GID0alphafold.png
+
+Alphafold results - units from MRF 
+
+.. image:: /images/A2GID0alphafoldUnits.png
+
+Alphafold results - trimer  
+
+.. image:: /images/A2GID0alphafoldtrimer.png
+
+
+.. image:: /images/A2GID0trimer.png
+
+
+`Alphafold results A2GID0 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/96470cf6cae657cc420a8bac7c747513cfc34ead/docs/AF-A2GID0-F1-model_v4.pdb>`_
+
+`Alphafold results trimer A2GID0 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/8d49bc8672b1c81b1f2c1aa6b3403df577f4868c/docs/trimer_A2GIDO_dic2022.result.zip>`_
+
+
+##A3XEN5
+
+PFAM Repeat region 103-158
+
+`A3XEN5 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A3XEN5/>`_
+
+Sequence:
+
+.. code-block::  
+
+  >tr|A3XEN5|A3XEN5_9RHOB Prophage MuMc02, head decoration protein, putative OS=Roseobacter sp. MED193 OX=314262 GN=MED193_12628 PE=4 SV=1
+  MANTIQLKRRVSGNAGAPAALKSGEVAHNEVDDTLYIGKGDDGGGNATSIVAIAGSGGFV
+  AKTGTQTIAGKKTFSLVPTASQDAAAGSDLVRKSQLDTLLGGKANTSHSHAIADVTGLQG
+  ALDGKAAVSHDHTAAEISDSTSAGRTLLKAADVAAQHTALGLGTAALMSSTAFAAAAHGH
+  AISDVSGLQTALNGKAPLASPSFTGTPAAPTAAGGTNTTQIATTAFVQSAIASFGAGDML
+  KATYDSDNDGKVDAAELADAVAWTGVTGKPATFPPSAHNHPISQVTGLQSALDAKAPKVS
+  PTFTGTPTAPTAAGGTSNTQIATTAFVSAAIAALIDAAPGAMDTLNELAAALGDDPDFAT
+  TVTNGLAGKLEKTSNLSDLTNAATARSNLGLGSMATQAANNVAITGGSISGIALDGGTF
+
+
+MRF results:
+
+.. code-block::  
+
+  Region 1: 16-380, 109 aa length,5 units, TRUST 0.99
+  GAPAA-LKS-GEVAHNEVDDTLYIGKGD-----D-----------------GG---GNATSIVA----------IAGS--GGF--VAK-T-GTQT-IAGKK-----TFS
+  LVPTASQDAAAGSDLVRKSQ---LDTLL-----G-----------------GK---AN-------------------TSHSHA--IADVT-GLQGALDGKAA-VSHDHT
+  AAEIS-DSTSAGRTLLKAADVAAQHTAL-----GL----------------GT---AALMSSTA----------FAAAAHGHA--ISDVS-GLQTALNGKAPLASPSFT
+  GTPAA-PTAAGGTNTTQIATTAFVQSAI-----ASFGAGDMLKATYDSDNDGKVDAAELADAVAWTGVTGKPATFPPSAHNHP--ISQVT-GLQSALDAKAPKVSPTFT
+  GTPTA-PTAAGGTSNTQIATTAFVSAAIAALIDA-----------------AP---GAMDTLNE----------LAAALGDDPDFATTVTNGLAGKLE-KTSNLS-DLT
+  
+TAPAS results:
+
+.. code-block::  
+ 
+  tr_A3XEN5_OS=Roseobacter_sp._MED193_OX=314262_GN=MED193_12628_PE=4_SV=1	disordered region	IUPred	16	24	
+  tr_A3XEN5_OS=Roseobacter_sp._MED193_OX=314262_GN=MED193_12628_PE=4_SV=1	disordered region	IUPred	32	35	
+  tr_A3XEN5_OS=Roseobacter_sp._MED193_OX=314262_GN=MED193_12628_PE=4_SV=1	disordered region	IUPred	129	136	
+  tr_A3XEN5_OS=Roseobacter_sp._MED193_OX=314262_GN=MED193_12628_PE=4_SV=1	disordered region	IUPred	199	219	
+  tr_A3XEN5_OS=Roseobacter_sp._MED193_OX=314262_GN=MED193_12628_PE=4_SV=1	disordered region	IUPred	268	291	
+  tr_A3XEN5_OS=Roseobacter_sp._MED193_OX=314262_GN=MED193_12628_PE=4_SV=1	disordered region	IUPred	296	317	
+  tr_A3XEN5_OS=Roseobacter_sp._MED193_OX=314262_GN=MED193_12628_PE=4_SV=1	disordered region	IUPred	362	365	
+  tr_A3XEN5_OS=Roseobacter_sp._MED193_OX=314262_GN=MED193_12628_PE=4_SV=1	functional domain	PFAM	103	158	PF12789.8
+  tr_A3XEN5_OS=Roseobacter_sp._MED193_OX=314262_GN=MED193_12628_PE=4_SV=1	consensus ordered region	TAPASS	36	267	
+  tr_A3XEN5_OS=Roseobacter_sp._MED193_OX=314262_GN=MED193_12628_PE=4_SV=1	consensus ordered region	TAPASS	318	418	
+  tr_A3XEN5_OS=Roseobacter_sp._MED193_OX=314262_GN=MED193_12628_PE=4_SV=1	consensus disordered region	TAPASS	1	35	
+  tr_A3XEN5_OS=Roseobacter_sp._MED193_OX=314262_GN=MED193_12628_PE=4_SV=1	consensus disordered region	TAPASS	268	317	
+  tr_A3XEN5_OS=Roseobacter_sp._MED193_OX=314262_GN=MED193_12628_PE=4_SV=1	eukaryotic SLiMs	ELM	9	15	MOD_PKA_1
+
+.. image:: /images/A3XEN5tapass.jpg
+
+
+Alphafold results - spectrum b
+
+.. image:: /images/A3XEN5alphafold.png
+
+Alphafold results - units from MRF 
+
+.. image:: /images/A3XEN5alphafoldUnits.png
+
+Alphafold results - trimer  
+
+.. image:: /images/A3XEN5alphafoldtrimer.png
+
+
+.. image:: /images/A3XEN5alphafoldtrimerUnits.png
+
+
+`Alphafold results A3XEN5 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/96470cf6cae657cc420a8bac7c747513cfc34ead/docs/AF-A3XEN5-F1-model_v4.pdb>`_
+
+`Alphafold results trimer A3XEN5 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/8d49bc8672b1c81b1f2c1aa6b3403df577f4868c/docs/A3XEN5_trimer_2f02a.result.zip>`_
+
