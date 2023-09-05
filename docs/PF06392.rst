@@ -1,13 +1,13 @@
 PF06392 - Acid shock protein repeat
 ===================================
 
-`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF06392/>`_
+`PF06392 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF06392/>`_
 
 
 A0A0A3YPY8
 ----------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt//>`_
+`A0A0A3YPY8 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt//>`_
 
 Sequence:
 
@@ -51,5 +51,5 @@ Alphafold results - units from MRF
 
 .. image:: /images/A0A0A3YPY8alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/A0A0A3YPY8_rep_cutted_f3774.result.zip>`_
+`Alpha fold results A0A0A3YPY8 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/A0A0A3YPY8_rep_cutted_f3774.result.zip>`_
 
