@@ -1,13 +1,13 @@
 PF04680 - 
 =============================
 
-`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF04680/>`_
+`PF04680 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF04680/>`_
 
 
 A4HM16
 ------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A4HM16/>`_
+`A4HM16 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A4HM16/>`_
 
 Sequence:
 
@@ -70,5 +70,5 @@ Alphafold results - units from MRF
 
 .. image:: /images/alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/>`_
+`Alpha fold results A4HM16 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/>`_
 
