@@ -13,7 +13,7 @@ PFAM repeat units: 68-95, 103-129
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >tr|A0A0S7IV57|A0A0S7IV57_9TELE NEBU (Fragment) OS=Poeciliopsis prolifica OX=188132 GN=NEBU PE=4 SV=1
   SNDVVQARLAYDLQSDAVYKADLKWLQGLGWVPIGSLDVEKAKKAAEVLSDRKYRQHPST
@@ -23,7 +23,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block:: 
 
   Region 1: 3-141, 43 aa length, 4 units
   DVVQARLAYDLQSDA--VYK---A---DLKWLQGLGWVPIGSL
@@ -34,7 +34,7 @@ MRF results:
 
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block:: 
 
   tr_A0A0S7IV57_OX=188132_GN=NEBU_PE=4_SV=1,structured domain,CATH,13,86,3.30.70.330/FF/43532
   tr_A0A0S7IV57_OX=188132_GN=NEBU_PE=4_SV=1,structured domain,CATH,104,160,3.30.1370.30/FF/2311
