@@ -6,15 +6,15 @@ Cases To Reviewed
 
 PF00399 - Yeast PIR protein repeat
 ----------------------------------
-`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00399/>`_
+`PF00399 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00399/>`_
 
 ##A0A0D1Z8C3
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A0D1Z8C3>`_
+`A0A0D1Z8C3 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A0D1Z8C3>`_
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block::  
 
   >tr|A0A0D1Z8C3|A0A0D1Z8C3_EXOME Covalently-linked cell wall protein OS=Exophiala mesophila OX=212818 GN=PV10_07613 PE=4 SV=1
   MQSFALLALVLGVCATPFPQGVTEAIPPDSPPPEGCKTTVSETLELYVTNVTTSTKRSLS
@@ -29,7 +29,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block::  
 
   Region 1: 160-397, 17 aa length,	15 units
 
@@ -63,7 +63,7 @@ Alphafold results Repeat Region - spectrum b
 
 .. image:: /images/A0A0N0NR21alphafold.png
 
-`AlphaFold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/fb72a7aa6d9df46243c687e713ab5c8447fc4e56/docs/AF-A0A0D1Z8C3-F1-model_v4.pdb>`_
+`AlphaFold results A0A0D1Z8C3 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/fb72a7aa6d9df46243c687e713ab5c8447fc4e56/docs/AF-A0A0D1Z8C3-F1-model_v4.pdb>`_
 
 
 ###P46999
