@@ -174,7 +174,7 @@ Alphafold results - units from MRF
 
 .. image:: /images/G8C135alphafoldUnits.png
 
-`Alphafold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/602e22e16732c4293d9dad1abf9e4e752a186522/docs/result_G8C135_TETPH.zip>`_
+`Alphafold results G8C135 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/602e22e16732c4293d9dad1abf9e4e752a186522/docs/result_G8C135_TETPH.zip>`_
 
 
 
@@ -183,7 +183,7 @@ A0A1Q3ALI5
 
 Repeat units annotated: 207-307, 314-353
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A1Q3ALI5/>`_
+`A0A1Q3ALI5 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A1Q3ALI5/>`_
 
 Sequence:
 
@@ -244,5 +244,5 @@ Alphafold results - units from MRF
 
 .. image:: /images/A0A1Q3ALI5alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/092bf5e840846cd6c7a98985c62f043bf1c539dc/docs/AF-A0A1Q3ALI5-F1-model_v4.pdb>`_
+`Alpha fold results A0A1Q3ALI5 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/092bf5e840846cd6c7a98985c62f043bf1c539dc/docs/AF-A0A1Q3ALI5-F1-model_v4.pdb>`_
 
