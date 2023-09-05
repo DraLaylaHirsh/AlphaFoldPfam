@@ -12,7 +12,7 @@ PFAM repeat region: 289-402, 404-416, 417-428
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >sp|P24603|OPSD_LOLFO Rhodopsin OS=Loligo forbesii OX=6618 GN=RHO PE=2 SV=1
   MGRDIPDNETWWYNPYMDIHPHWKQFDQVPAAVYYSLGIFIAICGIIGCVGNGVVIYLFT
@@ -27,7 +27,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block:: 
 
  
   
@@ -45,7 +45,7 @@ MRF results:
   
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block:: 
 
   sp_P24603GN=RHO_PE=2_SV=1,structured domain,CATH,15,116,1.20.1070.10/FF/41886
   sp_P24603GN=RHO_PE=2_SV=1,structured domain,CATH,141,355,1.20.1070.10/FF/44907
@@ -86,7 +86,7 @@ PFAM repeat region 17-33
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >tr|A0A7R8AL04|A0A7R8AL04_9EURO Vesicular-fusion protein SEC18 OS=Aspergillus puulaauensis OX=1220207 GN=SEC18 PE=3 SV=1
   MFGGRSPFGSNNPQREGYSRPPQGYPPQGYPPQQGAPGYGSPSPRQPAPGGRPLPQAPMG
@@ -107,7 +107,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block:: 
   
   Region 1: 316-801, 305 aa length, 2 units, TRUST 0.52 
   IQHVKG------------------------------------------------------------------------------ILLFGPPGTGKTLLARQIGKMLNAKEP--KIINGPEVLNKFVGQSE-     ENIRKLFADAEREYKEKGDESELHIIIFDELDAVCKQRGSGAGGGTGVGDSVVNQLLSKMDGVDQLNNILLIGMTNRKDMIDDALLRPGRLEVHV----EISLPDEAGRAQ---IL---GIHT-----QNMSQSDLL--DPSVDVAELASLTKNYSGAEIAGLVKAATSFA--F
@@ -121,7 +121,7 @@ MRF results:
   
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block:: 
 
   sp_P24603_GN=RHO_PE=2_SV=1,structured domain,CATH,15,116,1.20.1070.10/FF/41886
   sp_P24603_GN=RHO_PE=2_SV=1,structured domain,CATH,141,355,1.20.1070.10/FF/44907
