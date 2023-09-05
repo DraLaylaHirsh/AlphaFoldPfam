@@ -1,17 +1,17 @@
 PF15287 - KRBA1 family repeat
 =============================
 
-`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF15287/>`_
+`PF15287 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF15287/>`_
 
 
 I3N5J7
 ------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/I3N5J7/>`_
+`I3N5J7 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/I3N5J7/>`_
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block::  
 
   >tr|I3N5J7|I3N5J7_ICTTR KRAB-A domain containing 1 OS=Ictidomys tridecemlineatus OX=43179 GN=KRBA1 PE=4 SV=2
   MDLAVRFSEEEWRLLEEQQREFYRDVMRENYETLVSVGTDELLPLSAFLSPTEPGAAMGG
@@ -36,7 +36,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block::  
 
   Region 1: 649-662,2 aa length,7 units,regex_PX2 0.92
   PG
@@ -50,7 +50,7 @@ MRF results:
   
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block::  
 
   tr_I3N5J7_OX=43179_GN=KRBA1_PE=4_SV=2,disordered region,IUPred,43,88
   tr_I3N5J7_OX=43179_GN=KRBA1_PE=4_SV=2,disordered region,IUPred,101,360
@@ -99,5 +99,5 @@ Alphafold results - units from MRF
 
 .. image:: /images/I3N5J7alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/b6bee0b8c5599e9f36b3ae756ccea96dd8e9eb2b/docs/AF-I3N5J7-F1-model_v4.pdb>`_
+`Alpha fold results I3N5J7 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/b6bee0b8c5599e9f36b3ae756ccea96dd8e9eb2b/docs/AF-I3N5J7-F1-model_v4.pdb>`_
 
