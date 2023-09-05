@@ -1,17 +1,17 @@
 PF10529 - Histidine-rich Calcium-binding repeat region
 ======================================================
 
-`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF10529/>`_
+`PF10529 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF10529/>`_
 
 
 A0A6J3HER4
 ----------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A6J3HER4/>`_
+`A0A6J3HER4 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A6J3HER4/>`_
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block::  
 
   >tr|A0A6J3HER4|A0A6J3HER4_SAPAP sarcoplasmic reticulum histidine-rich calcium-binding protein-like OS=Sapajus apella OX=9515 GN=LOC116545921 PE=4 SV=1
   HRGHEEDENDDDDDDNDISTEHGHQAHRPRGHRKEEDEAVSGKHHHHVPDHEHLGHRDEE
@@ -25,7 +25,7 @@ Sequence:
   
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block::  
 
   Region 1: 239-252, 1 aa length, 14 units, selectseq 0.89
   E
@@ -73,17 +73,17 @@ Alphafold results - units from MRF
 .. image:: /images/A0A6J3HER4alphafoldUnits.png
 
 
-`Alphafold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/73e0f3ec9fe96ec073b4ed5df51a24ed214a02f8/docs/AF-A0A6J3HER4-F1-model_v4.pdb>`_
+`Alphafold results A0A6J3HER4 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/73e0f3ec9fe96ec073b4ed5df51a24ed214a02f8/docs/AF-A0A6J3HER4-F1-model_v4.pdb>`_
 
 
 G5E8J6
 ------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/G5E8J6/>`_
+`G5E8J6 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/G5E8J6/>`_
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block::  
 
   >tr|G5E8J6|G5E8J6_MOUSE Histidine-rich calcium-binding protein OS=Mus musculus OX=10090 GN=Hrc PE=1 SV=1
   MGFQGPWLHTCLLWATVAILLVPPVVTQELRGAGLGLGNWNNNAGIPGSSEDLSTEFGHH
@@ -104,7 +104,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block::  
 
   Region 1: 51-498, 58 aa length,  10 units, TRUST 	0.93
   EDLSTEF-GHHIHRGYQGEKDRGHR--EEGEDFSREYGHRVQDHRYPGREV--GEEN-
@@ -195,7 +195,7 @@ MRF results:
 
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block::  
 
   tr_G5E8J6OX=10090_GN=Hrc_PE=1_SV=1,peptide signal,SignalP,1,27
   tr_G5E8J6OX=10090_GN=Hrc_PE=1_SV=1,transmembrane region,TMHMM,5,27
@@ -227,4 +227,4 @@ Alphafold results - units from MRF
 .. image:: /images/G5E8J6alphafoldUnits.png
 
 
-`Alphafold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/73e0f3ec9fe96ec073b4ed5df51a24ed214a02f8/docs/AF-G5E8J6-F1-model_v4.pdb>`_
+`Alphafold results G5E8J6 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/73e0f3ec9fe96ec073b4ed5df51a24ed214a02f8/docs/AF-G5E8J6-F1-model_v4.pdb>`_
