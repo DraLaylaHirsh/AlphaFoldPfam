@@ -45,7 +45,7 @@ MRF results:
 
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block:: 
 
   tr_A0A6J3HER4OX=9515_GN=LOC116545921_PE=4_SV=1,disordered region,IUPred,1,320
   tr_A0A6J3HER4OX=9515_GN=LOC116545921_PE=4_SV=1,disordered region,IUPred,395,401
