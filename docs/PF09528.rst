@@ -1,17 +1,17 @@
 PF09528 - Ehrlichia tandem repeat (Ehrlichia_rpt)
 =================================================
 
-`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF09528/>`_
+`PF09528 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF09528/>`_
 
 
 T1L1A4
 ------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/T1L1A4/>`_
+`T1L1A4 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/T1L1A4/>`_
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block::  
 
   >tr|T1L1A4|T1L1A4_TETUR Secreted protein OS=Tetranychus urticae OX=32264 GN=107369337 PE=4 SV=1
   MRFTIVLALCFIGAASASSLNKRSFLDDIQNNTQNAFHAFEQFGQTFNEKVQEALKNLLS
@@ -24,7 +24,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block::  
 
   Region 1:  2-265, 98 aa length, 3 units, TRUST 1.0 	
   RFTIVLALCFIGAASASSLNKRSFLDDIQNNTQNAFHAFEQFGQTFNEKVQEALKNLLS---AFGNKNS-SAEASVVVEKRATNPLQLINDL--DDPA
@@ -35,7 +35,7 @@ MRF results:
 
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block::  
 
   tr_T1L1A4_OX=32264_GN=107369337_PE=4_SV=1,structured domain,CATH,35,139,1.20.1270.60/FF/4648
   tr_T1L1A4_OX=32264_GN=107369337_PE=4_SV=1,structured domain,CATH,192,277,1.10.940.10/FF/1210
@@ -63,4 +63,4 @@ Alphafold results - units from MRF
 
 .. image:: /images/T1L1A4alphafoldUnits.png
 
-`Alphafold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/e7a600f68d1a435b3611d5be959862eb0be345ee/docs/AF-T1L1A4-F1-model_v4.pdb>`_
+`Alphafold results T1L1A4 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/e7a600f68d1a435b3611d5be959862eb0be345ee/docs/AF-T1L1A4-F1-model_v4.pdb>`_
