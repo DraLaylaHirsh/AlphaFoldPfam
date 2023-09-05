@@ -1,17 +1,17 @@
 PF12778 - PXPV repeat (3 copies)
 ================================
 
-`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF12778/>`_
+`PF12778 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF12778/>`_
 
 
 A0A4Q5PGS7
 ----------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A4Q5PGS7/>`_
+`A0A4Q5PGS7 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A4Q5PGS7/>`_
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block::  
 
   >tr|A0A4Q5PGS7|A0A4Q5PGS7_9BURK Signal peptide protein OS=Comamonadaceae bacterium OX=1871071 GN=EOO28_18705 PE=4 SV=1
   MKTLTSLIARNTLRAATLAAIAVAAFAGASSAQARDNVQLSINVGNPGYVQPAPVYVQPR
@@ -22,7 +22,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block::  
 
   Region 1: 49-90, 7 aa length, 6 units, T-REKS 1.0
   YVQPAPV
@@ -34,7 +34,7 @@ MRF results:
 
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block::  
 
   tr_A0A4Q5PGS7OX=1871071_GN=EOO28_18705_PE=4_SV=1,structured domain,CATH,1,79,3.40.50.880/FF/18841
   tr_A0A4Q5PGS7OX=1871071_GN=EOO28_18705_PE=4_SV=1,structured domain,CATH,110,144,4.10.1080.10/FF/2874
@@ -56,16 +56,16 @@ Alphafold results - units from MRF
 
 .. image:: /images/A0A4Q5PGS7alphafoldUnits.png
 
-`AlphaFold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/b73994bcd35ae9c4f190f2e21cabcfe7b9f220e4/docs/AF-A0A4Q5PGS7-F1-model_v4.pdb />`_
+`AlphaFold results A0A4Q5PGS7 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/b73994bcd35ae9c4f190f2e21cabcfe7b9f220e4/docs/AF-A0A4Q5PGS7-F1-model_v4.pdb />`_
 
 A0A7S7PTV7
 ----------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A7S7PTV7/>`_
+`A0A7S7PTV7 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A7S7PTV7/>`_
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block::  
 
   >tr|A0A7S7PTV7|A0A7S7PTV7_9BRAD PXPV repeat-containing protein OS=Bradyrhizobium sp. CCBAU 51765 OX=1325102 GN=XH96_16775 PE=4 SV=1
   MKYLFAAVMLASAAVGFSEAASAAGGCGPGWYRGPYGGCRPMRGPVVVRPAPVVVAPAPV
@@ -75,7 +75,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block::  
 
   Region 1: 45-67, 9 aa length, 3 units, T-REKS 0.74
   PVVVRPA--
@@ -85,7 +85,7 @@ MRF results:
 
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block::  
 
   tr_A0A7S7PTV7_OX=1325102_GN=XH96_16775_PE=4_SV=1,peptide signal,SignalP,1,20
   tr_A0A7S7PTV7_OX=1325102_GN=XH96_16775_PE=4_SV=1,functional domain,PFAM,44,62,PF12778.8
@@ -100,4 +100,4 @@ Alphafold results - units from MRF
 
 .. image:: /images/A0A7S7PTV7alphafoldUnits.png
 
-`AlphaFold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/b73994bcd35ae9c4f190f2e21cabcfe7b9f220e4/docs/AF-A0A7S7PTV7-F1-model_v4.pdb/>`_
+`AlphaFold results A0A7S7PTV7 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/b73994bcd35ae9c4f190f2e21cabcfe7b9f220e4/docs/AF-A0A7S7PTV7-F1-model_v4.pdb/>`_
