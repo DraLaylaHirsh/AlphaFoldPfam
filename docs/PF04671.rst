@@ -1,13 +1,13 @@
 PF04671 - Erythrocyte membrane-associated giant protein antigen 332
 ===================================================================
 
-`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF04671/>`_
+`PF04671 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF04671/>`_
 
 
 A0A024WZ97
 ----------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A024WZ97/>`_
+`A0A024WZ97 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A024WZ97/>`_
 
 Sequence:
 
@@ -77,13 +77,13 @@ Alphafold results - units from MRF
 
 .. image:: /images/alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/>`_
+`Alpha fold results A0A024WZ97 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/>`_
 
 
 A0A0L7KJ08
 ----------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A0L7KJ08/>`_
+`A0A0L7KJ08 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A0L7KJ08/>`_
 
 Sequence:
 
@@ -246,6 +246,6 @@ Alphafold results - units from MRF
 
 .. image:: /images/alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/>`_
+`Alpha fold results A0A0L7KJ08 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/>`_
 
 
