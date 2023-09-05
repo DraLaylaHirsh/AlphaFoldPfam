@@ -2,7 +2,7 @@
 PF02095 - Extensin-like protein repeat
 ======================================
 
-`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF02095/>`_
+`PF02095 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF02095/>`_
 
 
 G2ZF64
@@ -10,7 +10,7 @@ G2ZF64
 
 PFAM Repeat regions: 555-562, 715-722, 872-879, 1029-1036
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/G2ZF64/>`_
+`G2ZF64 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/G2ZF64/>`_
 
 Sequence:
 
@@ -155,7 +155,7 @@ A0A6L8E336
 
 PFAM repeat region: 36-44, 46-54, 56-64, 66-74
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A6L8E336/>`_
+`A0A6L8E336 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A6L8E336/>`_
 
 Sequence:
 
@@ -221,7 +221,7 @@ P16329
 
 PFAM repeat regions: 1-9, 28-37,33-42,55-64,60-68, 71-80
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/P16329/>`_
+`P16329 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/P16329/>`_
 
 Sequence:
 
