@@ -62,7 +62,7 @@ Alphafold results complete sequence - spectrum b
 `AlphaFold results A0A0D1Z8C3 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/fb72a7aa6d9df46243c687e713ab5c8447fc4e56/docs/AF-A0A0D1Z8C3-F1-model_v4.pdb>`_
 
 PF00402 - Calponin family repeat
-================================
+----------------------------------
 `PF00402 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00402/>`_
 
 ##K1R832
@@ -144,7 +144,7 @@ Alphafold results - units from MRF
 
 
 PF00624 - Flocculin repeat
-==========================
+----------------------------------
 
 `PF00624 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00624/>`_
 
@@ -220,7 +220,7 @@ Alphafold results - units from MRF
 `Alphafold results A7TTI5 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/146cab3b211d00392cf71d576661beccbc7d985f/docs/AF-A7TTI5-F1-model_v4.pdb/>`_
 
 PF00880 - Nebulin repeat
-========================
+----------------------------------
 
 `PF00880 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00880/>`_
 
@@ -280,7 +280,7 @@ Alphafold results - units from MRF
 
 
 PF00904 - Involucrin repeat 
-===========================
+----------------------------------
 
 ##P14708
 
@@ -404,6 +404,94 @@ Alphafold results - units from MRF
 
 `AlphaFold results P14708 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/5c6744a8af8d6d96d7b6fdfc1acf9099609ed7a2/docs/AF-P14708-F1-model_v3.pdb>`_
 
+PF02218 - Repeat in HS1/Cortactin
+----------------------------------
+
+`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF02218/>`_
+
+
+
+##B3RT04
+
+PFAM repeat regions: 83-118, 120-155, 157-192, 194-229, 231-266, 268-303
+
+`B3RT04 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/B3RT04/>`_
+
+Sequence:
+
+.. code-block:: 
+
+  >tr|B3RT04|B3RT04_TRIAD Src substrate cortactin OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_21918 PE=4 SV=1
+  MWRAGVDTKFSTTESPEDDDWETDPDFVNDVTEEEQRFGSKTVEGSGSQRVLDMNKLRDD
+  VKDSDKKSKEGKLFHVTPKYSYGYGGQFGVQKDRMDKSAVSNSYQYVPEKHSSQTDFKQG
+  FGGKFGIQKDRQDKSAVGYDYSEKTALHSSQKDYSKGFGGKFGVQNDRQDKSAVGFDYTE
+  KTALHSSQKDYSKGFGGKFGVEKDKQDKSAVGFDYAEKNALHSSQKDYSKGFGGAFGVEK
+  DKQDKSAESWSYVGKSELHQSQKDYSKGFGGKFGVETEKQDKSAENWSYVGKNELHESQK
+  DYSRGFGGKFGVESDRQDKVW
+
+
+
+MRF results:
+
+.. code-block:: 
+
+  Region 1: 80-301, 37 aa length, 6 units, TRUST 1.0
+  YSYGYGGQFGVQKDRMDKSAVSNSYQYVPEKHSSQTD
+  FKQGFGGKFGIQKDRQDKSAVGYDYSEKTALHSSQKD
+  YSKGFGGKFGVQNDRQDKSAVGFDYTEKTALHSSQKD
+  YSKGFGGKFGVEKDKQDKSAVGFDYAEKNALHSSQKD
+  YSKGFGGAFGVEKDKQDKSAESWSYVGKSELHQSQKD
+  YSKGFGGKFGVETEKQDKSAENWSYVGKNELHESQKD
+
+TAPAS results:
+
+.. code-block:: 
+
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,structured domain,CATH,90,161,1.20.1710.10/FF/31
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,IUPred,5,70
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,IUPred,99,109
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,IUPred,121,124
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,IUPred,138,142
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,IUPred,158,161
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,IUPred,249,253
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,IUPred,284,290
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,BISMMpredictor,5,27
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,BISMMpredictor,29,51
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,BISMMpredictor,55,73
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,BISMMpredictor,107,126
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,BISMMpredictor,147,163
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,BISMMpredictor,184,200
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,BISMMpredictor,253,274
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,disordered region,BISMMpredictor,290,311
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,functional domain,PFAM,83,117,PF02218.16
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,functional domain,PFAM,120,155,PF02218.16
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,functional domain,PFAM,157,192,PF02218.16
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,functional domain,PFAM,194,229,PF02218.16
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,functional domain,PFAM,231,266,PF02218.16
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,functional domain,PFAM,268,303,PF02218.16
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,functional domain,PFAM,305,319,PF02218.16
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,consensus ordered region,TAPASS,91,161
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,consensus ordered region,TAPASS,201,248
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,consensus disordered region,TAPASS,1,90
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,consensus disordered region,TAPASS,162,200
+  tr_B3RT04_OX=10228_GN=TRIADDRAFT_21918_PE=4_SV=1,consensus disordered region,TAPASS,249,321
+
+
+
+Alphafold results - spectrum b
+
+.. image:: /images/B3RT04alphafold_.png
+
+Alphafold results - units from MRF 
+
+.. image:: /images/B3RT04alphafoldUnits_.png
+
+Alphafold results - spectrum b of the repeat region
+
+.. image:: /images/B3RT04alphafold.png
+
+
+`AlphaFold results B3RT04 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/4cfe4d4d33133e27fe636b74e69d468e36d5825f/docs/PF02218_B3RT04_60de8.result.zip>`_
 
 ###P46999
 
