@@ -14,7 +14,7 @@ PFAM Repeat regions: 555-562, 715-722, 872-879, 1029-1036
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >tr|G2ZF64|G2ZF64_LISIP Putative internalin B (Ivanovii) OS=Listeria ivanovii (strain ATCC BAA-678 / PAM 55) OX=881621 GN=i-inlB PE=3 SV=1
   MREKNWLQGVLIITLLTMIVACISMDFKTKVRAASISQPMPINKLFPDPGLSETIAETLS
@@ -41,7 +41,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block:: 
 
   Region 1: 417-1054, 164 aa length,4 units, TRUST 1.0
   ELIVPDTISDNGTYKKPNISWNIPTLKKEVSYDFELYVIIGQAGSYFSGKVIQPLNKLDTIEYNKAINAYGRVKSGVKSAIWSHPYRTKDAKQIGTLSVYAGKNLR
@@ -86,7 +86,7 @@ MRF results:
   
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block:: 
 
   protein_ID,prediction_type,prediction_tool,first_residue_involved,last_residue_involved,accession
   tr_G2ZF64OX=881621_GN=i_inlB_PE=3_SV=1,structured domain,CATH,30,246,3.80.10.10/FF/343
@@ -159,7 +159,7 @@ PFAM repeat region: 36-44, 46-54, 56-64, 66-74
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >tr|A0A6L8E336|A0A6L8E336_9BACT OMP_b-brl domain-containing protein OS=Acidobacteria bacterium OX=1978231 GN=F4137_23060 PE=4 SV=1
   MPAQRTRTRPAAQVLAAAFLLAAVGAAAQEPPEQQPTEKPSAEQQPAEKPSAEQQPAEKP
@@ -174,7 +174,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block:: 
 
   Region 1: 28-92,10 aa length,7 units,TRUST 0.91
   AQEPP-EQQP
@@ -187,7 +187,7 @@ MRF results:
   
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block:: 
 
   tr_A0A6L8E336OX=1978231_GN=F4137_23060_PE=4_SV=1,peptide signal,SignalP,1,2
   tr_A0A6L8E336OX=1978231_GN=F4137_23060_PE=4_SV=1,disordered region,IUPred,29,101
@@ -225,7 +225,7 @@ PFAM repeat regions: 1-9, 28-37,33-42,55-64,60-68, 71-80
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >sp|P16329|NO75_PEA Early nodulin-75 (Fragment) OS=Pisum sativum OX=3888 GN=ENOD2 PE=2 SV=1
   PPHEKPPHENTPPEYQPPHEKPPHEHPPPEYQPPHEKPPHEKPSPKYQPPHEHSPPEYQP
@@ -235,7 +235,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block:: 
 
   Region 1: 1-69,6 aa length,13 units, T-REKS 0.9
   
@@ -255,7 +255,7 @@ MRF results:
    
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block:: 
 
   sp_P16329_NO75_PEA_Early_nodulin_75_Fragment_OS=Pisum_sativum_OX=3888_GN=ENOD2_PE=2_SV=1,disordered region,IUPred,1,112,
   sp_P16329_NO75_PEA_Early_nodulin_75_Fragment_OS=Pisum_sativum_OX=3888_GN=ENOD2_PE=2_SV=1,disordered region,BISMMpredictor,1,80,
