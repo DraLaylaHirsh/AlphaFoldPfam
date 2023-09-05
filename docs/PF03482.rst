@@ -11,7 +11,7 @@ Q9JNX7
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >tr|Q9JNX7|Q9JNX7_STRPY Sic1.55 OS=Streptococcus pyogenes OX=1314 GN=sic PE=4 SV=1
   MNIRNKIENSKTLLFTSLVAVALLGATQPVSAETYTSRNFDWSGDDWSGDDWPEDDWPED
@@ -24,7 +24,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block:: 
 
  
   
@@ -43,7 +43,7 @@ MRF results:
   
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block:: 
 
   tr_Q9JNX7OX=1314_GN=sic_PE=4_SV=1,peptide signal,SignalP,1,32
   tr_Q9JNX7OX=1314_GN=sic_PE=4_SV=1,transmembrane region,TMHMM,13,32
