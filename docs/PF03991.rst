@@ -1,13 +1,13 @@
 PF03991 - Copper binding octapeptide repeat
 ===========================================
 
-`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF03991/>`_
+`PF03991 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF03991/>`_
 
 
 Q7KYZ4
 ------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/Q7KYZ4/>`_
+`Q7KYZ4 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/Q7KYZ4/>`_
 
 Sequence:
 
@@ -46,13 +46,13 @@ Alphafold results - units from MRF
 
 .. image:: /images/alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/>`_
+`Alpha fold results Q7KYZ4<https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/>`_
 
 
 Q7KYY8
 ------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/Q7KYZ4/>`_
+`Q7KYY8 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/Q7KYZ4/>`_
 
 Sequence:
 
@@ -89,5 +89,5 @@ Alphafold results - units from MRF
 
 .. image:: /images/alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/>`_
+`Alpha fold results Q7KYY8 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/>`_
 
