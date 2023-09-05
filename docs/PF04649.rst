@@ -1,13 +1,13 @@
 PF04649 - Mycoplasma hyorhinis VlpA repeat
 ==========================================
 
-`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF04649/>`_
+`PF04649 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF04649/>`_
 
 
 Q9L8W2
 ------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/Q9L8W2/>`_
+`Q9L8W2 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/Q9L8W2/>`_
 
 Sequence:
 
@@ -103,5 +103,5 @@ Alphafold results - spectrum b
 .. image:: /images/alphafold.png
 
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/e1025f5ac31c8bbad1b563de4c775be719dd5f28/docs/AF-Q9L8W2-F1-model_v4.pdb>`_
+`Alpha fold results Q9L8W2 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/e1025f5ac31c8bbad1b563de4c775be719dd5f28/docs/AF-Q9L8W2-F1-model_v4.pdb>`_
 
