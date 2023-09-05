@@ -11,7 +11,7 @@ Q7KYZ4
 
 Sequence:
 
-.. code-block:: 
+ 
 
 
 
@@ -34,8 +34,7 @@ MRF results:
   
 TAPAS results:
 
-.. code-block:: 
-
+ 
  
 
 
@@ -46,7 +45,7 @@ Q7KYY8
 
 Sequence:
 
-.. code-block:: 
+ 
 
 
 
@@ -55,19 +54,17 @@ MRF results:
 .. code-block:: 
 
   Region 1: 649-662,2 aa length,7 units,regex_PX2 0.92
-PHGGGWGQ
-PHGGGWGQ
-PHGGGWGQ
-PHGGGWGQ
-PHGGGWGQ
-PHGGGWGQ
-PHGGGWGQ
-PHGGGWGQ
-PHGGGWGQ
-  
+  PHGGGWGQ
+  PHGGGWGQ
+  PHGGGWGQ
+  PHGGGWGQ
+  PHGGGWGQ
+  PHGGGWGQ
+  PHGGGWGQ
+  PHGGGWGQ
+  PHGGGWGQ
+    
 TAPAS results:
-
-.. code-block:: 
-
+ 
  
 
