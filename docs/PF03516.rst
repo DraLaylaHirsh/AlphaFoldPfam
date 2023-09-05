@@ -1,13 +1,13 @@
 PF03516 - Filaggrin
 ===================
 
-`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF03516/>`_
+`PF03516 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF03516/>`_
 
 
 M3Z4K7
 ------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/M3Z4K7/>`_
+`M3Z4K7 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/M3Z4K7/>`_
 
 Sequence:
 
@@ -74,12 +74,12 @@ Alphafold results - units from MRF
 
 .. image:: /images/M3Z4K7alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/34ee0f5bdee48624c2321d0cfdd3fc38e9d9d93c/docs/AF-M3Z4K7-F1-model_v4.pdb>`_
+`Alpha fold results M3Z4K7 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/34ee0f5bdee48624c2321d0cfdd3fc38e9d9d93c/docs/AF-M3Z4K7-F1-model_v4.pdb>`_
 
 A0A5F9DSD4
 ----------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A5F9DSD4/>`_
+`A0A5F9DSD4 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A5F9DSD4/>`_
 
 Sequence:
 
@@ -117,12 +117,12 @@ Alphafold results - spectrum b
 .. image:: /images/A0A5F9DSD4alphafold.png
 
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/34ee0f5bdee48624c2321d0cfdd3fc38e9d9d93c/docs/AF-A0A5F9DSD4-F1-model_v4.pdb>`_
+`Alpha fold results A0A5F9DSD4 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/34ee0f5bdee48624c2321d0cfdd3fc38e9d9d93c/docs/AF-A0A5F9DSD4-F1-model_v4.pdb>`_
 
 Q03839
 ------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/Q03839/>`_
+`Q03839 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/Q03839/>`_
 
 Sequence:
 
@@ -161,6 +161,6 @@ Alphafold results - units from MRF
 
 .. image:: /images/Q03839alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/34ee0f5bdee48624c2321d0cfdd3fc38e9d9d93c/docs/AF-Q03839-F1-model_v4.pdb>`_
+`Alpha fold results Q03839<https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/34ee0f5bdee48624c2321d0cfdd3fc38e9d9d93c/docs/AF-Q03839-F1-model_v4.pdb>`_
 
 
