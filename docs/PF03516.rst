@@ -11,7 +11,7 @@ M3Z4K7
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >tr|M3Z4K7|M3Z4K7_MUSPF Filaggrin-like OS=Mustela putorius furo OX=9669 PE=4 SV=1
   MSLASSSEGHSEDSGTEFAMTHENSESSSRNQRGSTHAKSANRSRQSDSYQGQTGTHRQS
@@ -27,7 +27,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block:: 
 
   Region 1: 21-481,42 aa length,11 units,TRUST 0.99
   THENSESSSRNQRGSTHAKSANRSRQSDSYQGQTGTHRQSDS
@@ -44,7 +44,7 @@ MRF results:
   
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block:: 
 
   tr_M3Z4K7_OX=9669_PE=4_SV=1  disordered region       IUPred  1       499
   tr_M3Z4K7_OX=9669_PE=4_SV=1  disordered region       BISMMpredictor  20      97
@@ -83,7 +83,7 @@ A0A5F9DSD4
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >tr|A0A5F9DSD4|A0A5F9DSD4_RABIT Filaggrin OS=Oryctolagus cuniculus OX=9986 PE=4 SV=1
   MVFKLAQAYYQSTTRQNFQTSERKHKRHSHQHKQKEHDTEEEEEPKRTFRDSRRHDGSKN
@@ -95,13 +95,13 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block:: 
 
   This protein does not have validated tandem repeats
 
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block:: 
 
   tr_A0A5F9DSD4_OX=9986_PE=4_SV=1	transmembrane region	TMHMM	261	283
   tr_A0A5F9DSD4_OX=9986_PE=4_SV=1	disordered region	IUPred	1	243
@@ -126,7 +126,7 @@ Q03839
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >tr|Q03839|Q03839_HUMAN Profilaggrin (Fragment) OS=Homo sapiens OX=9606 GN=FLG PE=2 SV=1
   MTQKWIQSGHIATYYTIQDEAYDTTDSLLEENKIYERSRSSDGKSSSQVNRSRHENTSQV
@@ -136,7 +136,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block:: 
 
   Region 1: 76-166,49 aa length,2 units,TRUST 0.86
   SQDRDSEGHSEDSERHSG-----SASRNHHGSAWEQSRDV--SRHPRSH
@@ -144,7 +144,7 @@ MRF results:
   
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block:: 
 
   tr_Q03839_OX=9606_GN=FLG_PE=2_SV=1	disordered region	IUPred	8	171	
   tr_Q03839_OX=9606_GN=FLG_PE=2_SV=1	disordered region	BISMMpredictor	35	105	
