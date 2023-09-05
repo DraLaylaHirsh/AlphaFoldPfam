@@ -1,13 +1,13 @@
 PF06049 - Coagulation Factor V LSPD Repeat
 =============================
 
-`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF06049/>`_
+`PF06049 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF06049/>`_
 
 
 A0A833YAA7
 ----------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A833YAA7/>`_
+`A0A833YAA7 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A833YAA7/>`_
 
 Sequence:
   
@@ -60,5 +60,5 @@ Alphafold results - units from MRF
 
 .. image:: /images/alphafoldUnitsA0A833YAA7.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/A0A833YAA7_cut_e5b44.result>`_
+`Alpha fold results A0A833YAA7 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/A0A833YAA7_cut_e5b44.result>`_
 
