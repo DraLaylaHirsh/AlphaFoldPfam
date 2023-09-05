@@ -1,17 +1,17 @@
 PF07276 - Apopolysialoglycoprotein (PSGP)
 =========================================
 
-`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF07276/>`_
+`PF07276 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF07276/>`_
 
 
 P12027
 ------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt//>`_
+`Interpro sequence information P12027 <https://www.ebi.ac.uk/interpro/protein/UniProt//>`_
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block::  
   >sp|P12027|PSGP_ONCMY Polysialoglycoprotein OS=Oncorhynchus mykiss OX=8022 PE=1 SV=2
   MIMGGVRELLLVVMTVGVVKVSCYPVGKSQKQDQVSLQRRLGELSSNDVSIVHALALLRS
   IGSDAKQAREEYLETNEVESQASPNHGSSPANDALSSEEKLRRVSSDDAATSEAATGPSG
@@ -28,7 +28,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block::  
 
   Region 1: 107-536, 	14 aa length,	33  units 
   DDAATSEAATGPSG
@@ -80,5 +80,5 @@ Alphafold results - units from MRF
 
 .. image:: /images/P12027alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/>`_
+ 
 
