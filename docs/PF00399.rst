@@ -77,7 +77,7 @@ Alphafold results - units from MRF
 
 .. image:: /images/G2YIK9_alphaFoldUnits.png
 
-`AlphaFold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/f88500b23b74c786e88c8247221a5a2a916c3004/docs/result_G2YIK9_BOTF4.zip>`_
+`AlphaFold results G2YIK9_BOTF4 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/f88500b23b74c786e88c8247221a5a2a916c3004/docs/result_G2YIK9_BOTF4.zip>`_
 
 
 K1XX71_MARBU
@@ -137,7 +137,7 @@ Alphafold results - units from MRF
 
 .. image:: /images/K1XX71alphafoldUnits.png
 
-`AlphaFold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/619111362925f1047e05122f10bff0d0b673970d/docs/AF-K1XX71-F1-model_v4.pdb>`_
+`AlphaFold results K1XX71_MARBU <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/619111362925f1047e05122f10bff0d0b673970d/docs/AF-K1XX71-F1-model_v4.pdb>`_
 
 
 
@@ -232,6 +232,6 @@ Alphafold results - region evaluated in MRF
 
 `Superimposed unit fragments <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/cf74a8a51ffb012e1e02264ed0ea4faf61052ee9/docs/resultA0A0N0NR21.pdb>`_
 
-`AlphaFold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/cf74a8a51ffb012e1e02264ed0ea4faf61052ee9/docs/A0A0N0NR21PF00399_804d5.result.zip>`_
+`AlphaFold results A0A0N0NR21 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/cf74a8a51ffb012e1e02264ed0ea4faf61052ee9/docs/A0A0N0NR21PF00399_804d5.result.zip>`_
 
 
