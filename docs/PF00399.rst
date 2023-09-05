@@ -11,7 +11,7 @@ Repeat Units annotated 196-213, 260-277 ...
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >tr|G2YIK9|G2YIK9_BOTF4 Covalently-linked cell wall protein OS=Botryotinia fuckeliana (strain T4) OX=999810 GN=BofuT4_P018520.1 PE=4 SV=1
   MKTTLVVVAGLVSVASAQVTALITPTASAPDGCATSYSGAFQISTVNVSSVAKRQQKRAD
@@ -25,7 +25,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block:: 
 
   Region 1: 211-400, 23 aa length, 9 units
   TSAA----GAPITQISDGQVQGA
@@ -47,7 +47,7 @@ MRF results:
 
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block:: 
 
   tr_G2YIK9GN=BofuT4_P018520.1_PE=4_SV=1,disordered region,IUPred,85,88
   tr_G2YIK9GN=BofuT4_P018520.1_PE=4_SV=1,disordered region,IUPred,193,202
@@ -88,7 +88,7 @@ Repeat Units annotated 182-198 ...
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >tr|K1XX71|K1XX71_MARBU Covalently-linked cell wall protein OS=Marssonina brunnea f. sp. multigermtubi (strain MB_m1) OX=1072389 GN=MBM_04240 PE=4 SV=1
   MQTVLALTALAAVAFAGVAPHVARTVPAGCSTNYDGKFQVTILNGSSVVTKRELAKRASS
@@ -101,7 +101,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block:: 
 
   Region 1: 160-274, 30 aa length, 6 units
   TSS-----PGAT----VSQQKDGQPT--AT
@@ -114,7 +114,7 @@ MRF results:
 
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block:: 
 
   tr_K1XX71_K1XX71_MARBU=1072389_GN=MBM_04240_PE=4_SV=1,disordered region,IUPred,89,93
   tr_K1XX71_K1XX71_MARBU=1072389_GN=MBM_04240_PE=4_SV=1,disordered region,IUPred,162,237
@@ -150,7 +150,7 @@ Repeat Units annotated 930-945
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >tr|A0A0N0NR21|A0A0N0NR21_9EURO Beta-glucosidase OS=Phialophora attinorum OX=1664694 GN=AB675_8716 PE=3 SV=1
   MGKNLCATIGLLGLALTSTVSALPSDFELSKALDKRQQQQPFNSDYDGPILESPPSYPSP
@@ -174,7 +174,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block:: 
 
   Region 1: 10-882, 368 aa length, 3 units
 
@@ -191,7 +191,7 @@ MRF results:
 
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block:: 
 
   tr_A0A0N0NR21_OX=1664694_GN=AB675_8716_PE=3_SV=1,disordered region,IUPred,38,57
   tr_A0A0N0NR21_OX=1664694_GN=AB675_8716_PE=3_SV=1,disordered region,IUPred,705,712
