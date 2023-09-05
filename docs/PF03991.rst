@@ -11,13 +11,13 @@ Q7KYZ4
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
 
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block:: 
 
   Region 1: 10-89,8 length,10 units,Trust 1.0
 
@@ -34,7 +34,7 @@ MRF results:
   
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block:: 
 
  
 
@@ -46,13 +46,13 @@ Q7KYY8
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
 
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block:: 
 
   Region 1: 649-662,2 aa length,7 units,regex_PX2 0.92
 PHGGGWGQ
@@ -67,7 +67,7 @@ PHGGGWGQ
   
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block:: 
 
  
 
