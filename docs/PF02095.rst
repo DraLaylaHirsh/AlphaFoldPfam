@@ -147,7 +147,7 @@ Alphafold results - units from MRF
 
 .. image:: /images/G2ZF64alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/0818b7f706f7aab6dc8c161593f6312298363d96/docs/AF-G2ZF64-F1-model_v4.pdb>`_
+`Alpha fold results G2ZF64 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/0818b7f706f7aab6dc8c161593f6312298363d96/docs/AF-G2ZF64-F1-model_v4.pdb>`_
 
 
 A0A6L8E336
@@ -210,7 +210,7 @@ Alphafold results - units from MRF
 
 .. image:: /images/A0A6L8E336alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/0818b7f706f7aab6dc8c161593f6312298363d96/docs/AF-A0A6L8E336-F1-model_v4.pdb>`_
+`Alpha fold results A0A6L8E336<https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/0818b7f706f7aab6dc8c161593f6312298363d96/docs/AF-A0A6L8E336-F1-model_v4.pdb>`_
 
 
 
@@ -271,5 +271,5 @@ Alphafold results - units from MRF
 
 .. image:: /images/P16329alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/0818b7f706f7aab6dc8c161593f6312298363d96/docs/AF-P16329-F1-model_v4.pdb>`_
+`Alpha fold results P16329<https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/0818b7f706f7aab6dc8c161593f6312298363d96/docs/AF-P16329-F1-model_v4.pdb>`_
 
