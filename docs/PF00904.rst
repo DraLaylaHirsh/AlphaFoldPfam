@@ -13,7 +13,7 @@ PFAM repeat regions: 156-165,166-174,176-185,186-195, 196-205,215-224,225-234, 2
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >tr|A0A6J3GT35|A0A6J3GT35_SAPAP Involucrin OS=Sapajus apella OX=9515 GN=IVL PE=3 SV=1
   MSQQHTLPVTLPPALSQELLNTVPPPINTQQEQREQPAPLPPPCQKVPVELPVEGSSKHE
@@ -27,7 +27,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block:: 
 
   Region 1: 177-207, 11 aa length, 3 units, T-REKS 	0.83
   EQQEGQLKHLE
@@ -53,7 +53,7 @@ MRF results:
 
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block:: 
 
   tr_A0A6J3GT35=Sapajus_apella_OX=9515_GN=IVL_PE=3_SV=1,disordered region,IUPred,1,406
   tr_A0A6J3GT35=Sapajus_apella_OX=9515_GN=IVL_PE=3_SV=1,disordered region,BISMMpredictor,21,39
@@ -84,7 +84,7 @@ PFAM Repeat region: 156-165, 166-175 ....., 783-792
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >sp|P14708|INVO_PONPY Involucrin OS=Pongo pygmaeus OX=9600 GN=IVL PE=2 SV=1
   MSQQHTLPVTLSPALSQELLKTVPPPVNTQQEQMKQPTPLPPPCQKVPVELPVEVPSKQE
@@ -105,7 +105,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block:: 
 
   Region 1: 703-780, 20 aa length, 4 units, 1.0 tally,Treks
   PEQQVGQPKHLEQEEKQLEL
@@ -169,7 +169,7 @@ MRF results:
 
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block:: 
 
   sp_P14708_OX=9600_GN=IVL_PE=2_SV=1,structured domain,CATH,82,308,3.80.10.10/FF/106867
   sp_P14708_OX=9600_GN=IVL_PE=2_SV=1,structured domain,CATH,398,551,3.80.10.10/FF/106867
