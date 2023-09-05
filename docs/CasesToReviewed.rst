@@ -407,8 +407,7 @@ Alphafold results - units from MRF
 PF02218 - Repeat in HS1/Cortactin
 ----------------------------------
 
-`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF02218/>`_
-
+`PF02218 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF02218/>`_
 
 
 ##B3RT04
@@ -492,6 +491,55 @@ Alphafold results - spectrum b of the repeat region
 
 
 `AlphaFold results B3RT04 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/4cfe4d4d33133e27fe636b74e69d468e36d5825f/docs/PF02218_B3RT04_60de8.result.zip>`_
+
+
+PF03057 - DUF236 repeat
+-----------------------
+
+
+##A0A7W1P561
+
+`A0A7W1P561 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A7W1P561/>`_
+
+Sequence:
+
+.. code-block:: 
+
+  >tr|A0A7W1P561|A0A7W1P561_9BACT DUF547 domain-containing protein OS=Acidobacteria bacterium OX=1978231 GN=H0X67_00305 PE=4 SV=1
+  MKTTVLCASAAIGAILLVPAAPAVTAVMADGFDHEYQTLAGVLSKQVKYPRVDYAALKAD
+  RVALDRAVAEFDAPAARDESGWPRERRLAFWLNAYNAFTLRAIVDHYPIRGGWFTIHPRN
+  SIRQIDGVWTDLTWRAAGRTVTLDGIEHGIIRPTFKDARIHYAVNCASISCPPLAAVPYR
+  ASTLDAQLDEAGRRFLASPVGLRVDGETLRVSSIFKWYGEDFLDDYAPLVPGSGDRQERA
+  ILGAIVKHGPAEAATLARTGRPAIRFLSYDWSLNDIE
+
+
+MRF results:
+
+.. code-block:: 
+
+  This protein does not have validated tandem repeats
+  
+TAPAS results:
+
+.. code-block:: 
+
+  tr_A0A7W1P561_A0A7W1P561_9BACT_DUF547_domain_containing_protein_OS=Acidobacteria_bacterium_OX=1978231_GN=H0X67_00305_PE=4_SV=1,peptide signal,SignalP,1,26,
+  tr_A0A7W1P561_A0A7W1P561_9BACT_DUF547_domain_containing_protein_OS=Acidobacteria_bacterium_OX=1978231_GN=H0X67_00305_PE=4_SV=1,transmembrane region,TMHMM,5,27,
+  tr_A0A7W1P561_A0A7W1P561_9BACT_DUF547_domain_containing_protein_OS=Acidobacteria_bacterium_OX=1978231_GN=H0X67_00305_PE=4_SV=1,functional domain,PFAM,19,42,PF03057.15
+  tr_A0A7W1P561_A0A7W1P561_9BACT_DUF547_domain_containing_protein_OS=Acidobacteria_bacterium_OX=1978231_GN=H0X67_00305_PE=4_SV=1,functional domain,PFAM,81,196,PF04784.15
+  tr_A0A7W1P561_A0A7W1P561_9BACT_DUF547_domain_containing_protein_OS=Acidobacteria_bacterium_OX=1978231_GN=H0X67_00305_PE=4_SV=1,consensus ordered region,TAPASS,1,277,
+  tr_A0A7W1P561_A0A7W1P561_9BACT_DUF547_domain_containing_protein_OS=Acidobacteria_bacterium_OX=1978231_GN=H0X67_00305_PE=4_SV=1,amyloidogenic region,Pasta,88,104,
+  tr_A0A7W1P561_A0A7W1P561_9BACT_DUF547_domain_containing_protein_OS=Acidobacteria_bacterium_OX=1978231_GN=H0X67_00305_PE=4_SV=1,amyloidogenic region,Tango,88,100,
+  tr_A0A7W1P561_A0A7W1P561_9BACT_DUF547_domain_containing_protein_OS=Acidobacteria_bacterium_OX=1978231_GN=H0X67_00305_PE=4_SV=1,amyloidogenic region,Tango,240,246,
+
+
+Alphafold results - spectrum b
+
+.. image:: /images/A0A7W1P561alphafold.png
+
+
+`Alpha fold results A0A7W1P561 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/db4ce85a7298a43d11ed8d14d2ba8f9a45e52824/docs/AF-A0A7W1P561-F1-model_v4.pdb>`_
+
 
 ###P46999
 
