@@ -56,7 +56,7 @@ Alphafold results - units from MRF
 
 .. image:: /images/F6Y516alphafoldUnits.png
 
-`Alphafold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/fa546e24b38bd652c6c4d7feb06913be9b3d5de4/docs/result_F6Y516_CIOIN.zip>`_
+`Alphafold results F6Y516_CIOIN <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/fa546e24b38bd652c6c4d7feb06913be9b3d5de4/docs/result_F6Y516_CIOIN.zip>`_
 
 
 
@@ -133,6 +133,6 @@ Alphafold results - units from MRF
 
 .. image:: /images/K1R832alphafoldUnits.png
 
-`Alphafold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/52bf163835b35d444de06480c11f34fcab5cd9e5/docs/result_K1R832_CRAGI.zip>`_
+`Alphafold results K1R832 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/52bf163835b35d444de06480c11f34fcab5cd9e5/docs/result_K1R832_CRAGI.zip>`_
 
 
