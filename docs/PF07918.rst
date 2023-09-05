@@ -1,17 +1,17 @@
 PF07918 - CAP160 repeat
 =======================
 
-`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF07918/>`_
+`PF07918 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF07918/>`_
 
 
 A0A3Q0F5B8
 ----------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt//>`_
+`A0A3Q0F5B8 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt//>`_
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block::  
   
   >tr|A0A3Q0F5B8|A0A3Q0F5B8_VIGRR Uncharacterized protein LOC106762671 isoform X3 OS=Vigna radiata var. radiata OX=3916 GN=LOC106762671 PE=4 SV=1
   MDSRAVQTQGHKYDQHHRNPHNVGSQGVAHGDEHNQHDHEKKTVMKKVKQKAKKIKDSIT
@@ -40,7 +40,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block::  
 
   Region 1: 317-611 	,43 aa length,	7 units
   LPQQSSATKTQYPSSGRSHDQFTPVSSTGHNIHHPSTKFHGQH
@@ -67,7 +67,7 @@ MRF results:
   
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block::  
 
 
 
@@ -79,5 +79,5 @@ Alphafold results - units from MRF
 
 .. image:: /images/A0A3Q0F5B8_cutted_alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/A0A3Q0F5B8_cutted_791fc.result.zip>`_
+`Alpha fold results A0A3Q0F5B8 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/A0A3Q0F5B8_cutted_791fc.result.zip>`_
 
