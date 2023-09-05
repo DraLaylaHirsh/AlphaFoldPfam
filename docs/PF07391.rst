@@ -1,16 +1,16 @@
 PF07391 - NPR nonapeptide repeat (2 copies)
 ===========================================
 
-`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF07391/>`_
+`PF07391 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF07391/>`_
 
 A0A024VP82
 ----------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A024VP82/>`_
+`Interpro sequence information A0A024VP82 <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A024VP82/>`_
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block::  
 
   >tr|A0A024VP82|A0A024VP82_PLAFA ATPase OS=Plasmodium falciparum FCH/4 OX=1036724 GN=PFFCH_02040 PE=4 SV=1
   MIPEEFVEEVAPEVEIEEIIPEELIEEVIPEVLVEEAVPEELIEKVIPEVLVEEIIYKEG
@@ -33,8 +33,8 @@ Sequence:
 
 
 MRF results:
-
-.. code-block:: MRFresults
+ 
+.. code-block::  
 
   Region 1: 19-54,18 aa length,2 units,TRUST 1.0
   IIPEELIEEVIPEVLVEE
@@ -134,7 +134,7 @@ MRF results:
 
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block::  
 
   tr_A0A024VP82OX=1036724_GN=PFFCH_02040_PE=4_SV=1,disordered region,IUPred,1002,1005
   tr_A0A024VP82OX=1036724_GN=PFFCH_02040_PE=4_SV=1,disordered region,BISMMpredictor,971,998
@@ -157,17 +157,17 @@ Alphafold results - units from MRF
 
 .. image:: /images/A0A024VP82alphafoldUnits.png
 
-`Alphafold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/88ad53bd98b85069218ecb55afd2dfbbb9bacaee/docs/AF-A0A024VP82-F1-model_v3.pdb>`_
+`Alphafold results A0A024VP82 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/88ad53bd98b85069218ecb55afd2dfbbb9bacaee/docs/AF-A0A024VP82-F1-model_v3.pdb>`_
 
 
 W4J231
 ------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/W4J231/>`_
+`W4J231 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/W4J231/>`_
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block::  
 
   >tr|W4J231|W4J231_PLAFP ATPase OS=Plasmodium falciparum (isolate Palo Alto / Uganda) OX=57270 GN=PFUGPA_01655 PE=4 SV=1
   MIPEELVEEVILEEVVEEVIPEEVVEEVLPEELVEEVVPEELVEEVAPVELLEEVIPEEL
@@ -190,7 +190,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block::  
 
   Region 1: 548-687,18 aa length, 8 units,TRUST 0.91 
   VIPEEVVEEVLPEKLVEE
@@ -255,7 +255,7 @@ MRF results:
 
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block::  
 
   tr_W4J231_OX=57270_GN=PFUGPA_01655_PE=4_SV=1,disordered region,IUPred,764,787
   tr_W4J231_OX=57270_GN=PFUGPA_01655_PE=4_SV=1,disordered region,IUPred,803,857
@@ -272,15 +272,6 @@ TAPAS results:
   tr_W4J231_OX=57270_GN=PFUGPA_01655_PE=4_SV=1,consensus ordered region,TAPASS,1,742
   tr_W4J231_OX=57270_GN=PFUGPA_01655_PE=4_SV=1,consensus disordered region,TAPASS,743,885
 
-
-
-Alphafold results - spectrum b
-
-.. image:: /images/W4J231alphafold.png
-
-Alphafold results - units from MRF 
-
-.. image:: /images/W4J231alphafoldUnits.png
 
 
 `Alphafold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/88ad53bd98b85069218ecb55afd2dfbbb9bacaee/docs/AF-W4J231-F1-model_v3.pdb>`_
