@@ -9,7 +9,7 @@ PF00399 - Yeast PIR protein repeat
 `PF00399 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00399/>`_
 
 ##A0A0D1Z8C3
-
+............
 `A0A0D1Z8C3 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A0D1Z8C3>`_
 
 Sequence:
