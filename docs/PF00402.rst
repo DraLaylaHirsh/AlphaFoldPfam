@@ -11,7 +11,7 @@ Repeat Units annotated  139-163 ,179-203
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >tr|F6Y516|F6Y516_CIOIN Calponin-homology (CH) domain-containing protein OS=Ciona intestinalis OX=7719 PE=3 SV=2
   STSTMANRPKAYGNSAEVASKIDAKYSQEDEMEIVAWISSLVQSSPEGKGKEAMKQNKEM
@@ -21,7 +21,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block:: 
 
   Region 1: 1-207, 56 aa length, 5 units
   S-TSTMANRPKAYGNSA--E--VASKIDA--KYSQE------D-EM-EIVAWIS--
@@ -34,7 +34,7 @@ MRF results:
 
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block:: 
 
   tr_F6Y516_OX=7719_PE=3_SV=2,structured domain,CATH,45,139,1.10.418.10/FF/4730
   tr_F6Y516_OX=7719_PE=3_SV=2,disordered region,IUPred,1,10
@@ -68,7 +68,7 @@ Repeat Units annotated : 52-76, 92-116, 132-156 , 181-196, 266-289, 305-328, 344
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >tr|K1R832|K1R832_CRAGI Protein unc-87 OS=Crassostrea gigas OX=29159 GN=CGI_10025379 PE=3 SV=1
   MLTLSERSRIDGTIIRKAQRNGFQGETAGNKPVEKNVRDFSYAQLKSGHGTVGLQAGTNK
@@ -84,7 +84,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block:: 
 
   Region 1: 54-172, 40 aa length, 3 units
   LQAGTNKLDSQKGMTAMGAVRHISDIRADKFDKTSEGVIT
@@ -102,7 +102,7 @@ MRF results:
 
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block:: 
 
   tr_K1R832_OX=29159_GN=CGI_10025379_PE=3_SV=1,structured domain,CATH,12,52,1.10.418.10/FF/4730
   tr_K1R832_OX=29159_GN=CGI_10025379_PE=3_SV=1,structured domain,CATH,225,266,1.10.418.10/FF/4730
