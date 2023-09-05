@@ -1,7 +1,7 @@
 PF00904 - Involucrin repeat 
 ===========================
 
-`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00904/>`_
+`PF00904 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00904/>`_
 
 
 A0A6J3GT35
@@ -9,7 +9,7 @@ A0A6J3GT35
 
 PFAM repeat regions: 156-165,166-174,176-185,186-195, 196-205,215-224,225-234, 245...377
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A6J3GT35/>`_
+`A0A6J3GT35 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A6J3GT35/>`_
 
 Sequence:
 
@@ -80,7 +80,7 @@ P14708
 
 PFAM Repeat region: 156-165, 166-175 ....., 783-792
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/P14708/>`_
+`P14708 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/P14708/>`_
 
 Sequence:
 
