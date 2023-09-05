@@ -1,13 +1,13 @@
 PF03482 - sic protein repeat
 ============================
 
-`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF03482/>`_
+`PF03482 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF03482/>`_
 
 
 Q9JNX7
 ------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/Q9JNX7/>`_
+`Q9JNX7 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/Q9JNX7/>`_
 
 Sequence:
 
@@ -72,5 +72,5 @@ Alphafold results - units from MRF
 
 .. image:: /images/Q9JNX7alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/76593f1b207052cd8529e3f6b35466678d6c95a2/docs/AF-Q9JNX7-F1-model_v4.pdb>`_
+`Alpha fold results Q9JNX7 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/76593f1b207052cd8529e3f6b35466678d6c95a2/docs/AF-Q9JNX7-F1-model_v4.pdb>`_
 
