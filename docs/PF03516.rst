@@ -161,6 +161,6 @@ Alphafold results - units from MRF
 
 .. image:: /images/Q03839alphafoldUnits.png
 
-`Alpha fold results Q03839<https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/34ee0f5bdee48624c2321d0cfdd3fc38e9d9d93c/docs/AF-Q03839-F1-model_v4.pdb>`_
+`Alpha fold results Q03839 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/34ee0f5bdee48624c2321d0cfdd3fc38e9d9d93c/docs/AF-Q03839-F1-model_v4.pdb>`_
 
 
