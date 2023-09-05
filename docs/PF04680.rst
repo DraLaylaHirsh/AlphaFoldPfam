@@ -11,13 +11,13 @@ A4HM16
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
 
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block:: 
 
   Region 1: 2001-3892 ,160 aa length,	12 units
 
@@ -58,7 +58,7 @@ MRF results:
 
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block:: 
 
 
  
