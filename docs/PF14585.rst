@@ -1,17 +1,17 @@
 PF14585 - CagY type 1 repeat
 ============================
 
-`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF14585/>`_
+`PF14585 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF14585/>`_
 
 
 M3LCL2
 ------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/M3LCL2/>`_
+`M3LCL2 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/M3LCL2/>`_
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block::  
 
   >tr|M3LCL2|M3LCL2_HELPX DC-EC repeat protein (Fragment) OS=Helicobacter pylori GAM105Ai OX=1159022 GN=HMPREF1394_01765 PE=4 SV=1
   SSDNHLDNPTETKTQETKTHFDEDKLEEITDDSNDQEIIKGSKKKYIIGGIVVAVLIVII
@@ -28,7 +28,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block::  
 
    Region 1: 468-605,69 aa length,2 units,T-REKS 1  
    
@@ -44,7 +44,7 @@ MRF results:
 
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block::  
 
   tr_M3LCL2GN=HMPREF1394_01765_PE=4_SV=1,structured domain,CATH,267,296,1.10.880.10/FF/719
   tr_M3LCL2GN=HMPREF1394_01765_PE=4_SV=1,structured domain,CATH,410,452,1.20.5.620/FF/543
@@ -85,4 +85,4 @@ Alphafold results - units from MRF
 .. image:: /images/M3LCL2alphafoldUnits.png
 
 
-`AlphaFold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/22ff0cd79942acf9b8e4754d599a4a41b7b91199/docs/test_M3LCL2_PF14585_02d4f.result.zip>`_
+`AlphaFold results M3LCL2 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/22ff0cd79942acf9b8e4754d599a4a41b7b91199/docs/test_M3LCL2_PF14585_02d4f.result.zip>`_
