@@ -1,12 +1,12 @@
 PF00624 - Flocculin repeat
 ==========================
 
-`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00624/>`_
+`PF00624 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00624/>`_
 
 A7TTI5
 ------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A7TTI5/>`_
+`A7TTI5 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A7TTI5/>`_
 Sequence:
 
 .. code-block:: Sequence
@@ -76,7 +76,7 @@ G8C135
 ------
 Repeat units annotated: 342-382, 387-427 ,432-472,477-517 ,524-564 ,571-611  
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/G8C135/>`_
+`G8C135 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/G8C135/>`_
 
 Sequence:
 
