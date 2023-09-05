@@ -217,7 +217,7 @@ Alphafold results - units from MRF
 .. image:: /images/A7TTI5alphafoldUnits.png
 
 
-
+`Alphafold results A7TTI5 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/146cab3b211d00392cf71d576661beccbc7d985f/docs/AF-A7TTI5-F1-model_v4.pdb/>`_
 
 
 
