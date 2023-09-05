@@ -9,7 +9,7 @@ A7TTI5
 `A7TTI5 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A7TTI5/>`_
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >tr|A7TTI5|A7TTI5_VANPO Uncharacterized protein (Fragment) OS=Vanderwaltozyma polyspora (strain ATCC 22028 / DSM 70294 / BCRC 21397 / CBS 2163 / NBRC 10782 / NRRL Y-8283 / UCD 57-17) OX=436907 GN=Kpol_249p1 PE=4 SV=1
   MKHFTRLLTFLNFVLFACSLSNHENNQALSLSELIDHEAILEGNTALVGDNPKSKLHSEK
@@ -36,7 +36,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block:: 
 
   Region 1: 207-1197, 60 aa length, 47 units
 
@@ -80,7 +80,7 @@ Repeat units annotated: 342-382, 387-427 ,432-472,477-517 ,524-564 ,571-611
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >tr|G8C135|G8C135_TETPH Candida_ALS_N domain-containing protein OS=Tetrapisispora phaffii (strain ATCC 24235 / CBS 4417 / NBRC 1672 / NRRL Y-8282 / UCD 70-5) OX=1071381 GN=TPHA0N00820 PE=4 SV=1
   MTAKYFKFLLSLFLLSVAFAAELTNVTYSGLEFTPETSDHTPNNGWVASFNFDLDSATIV
@@ -102,7 +102,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block:: 
 
   Region 1: 103-287, 60 aa length, 4 units
   QGASQYLESIVRCTSKVALSDQETLSGSISF-SVSFNAGG-------------SASEVDI
@@ -135,7 +135,7 @@ MRF results:
   
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block:: 
 
   protein_ID,prediction_type,prediction_tool,first_residue_involved,last_residue_involved,accession
   tr_G8C135_OX=1071381_GN=TPHA0N00820_PE=4_SV=1,structured domain,CATH,171,213,2.30.22.10/FF/2204
@@ -187,7 +187,7 @@ Repeat units annotated: 207-307, 314-353
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >tr|A0A1Q3ALI5|A0A1Q3ALI5_ZYGRO PA14 domain-containing protein (Fragment) OS=Zygosaccharomyces rouxii OX=4956 GN=ZYGR_0BQ00100 PE=4 SV=1
   MVSHKSIFQWLLWFSVLGITKALAATACLPANGAQSGFKANFFQYNYGDMTTLRQPSFIA
@@ -201,7 +201,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block:: 
 
   Region 1: 326-334,3 aa length,3 units, regex_SX3 0.86
   STY
@@ -216,7 +216,7 @@ MRF results:
   
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block:: 
 
   tr_A0A1Q3ALI5OX=4956_GN=ZYGR_0BQ00100_PE=4_SV=1,structured domain,CATH,106,191,2.60.120.40/FF/1304
   tr_A0A1Q3ALI5OX=4956_GN=ZYGR_0BQ00100_PE=4_SV=1,peptide signal,SignalP,1,22
