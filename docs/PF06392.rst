@@ -11,7 +11,7 @@ A0A0A3YPY8
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >tr|A0A0A3YPY8|A0A0A3YPY8_9GAMM Acid shock protein OS=Erwinia typographi OX=371042 GN=asr PE=3 SV=1
   MKKLFALVVAAAMGLSSVAFAADTTAAPATTPAATTAAPAKATTTKHHKKHKKATVQKAQ
@@ -20,14 +20,14 @@ Sequence:
 
 Sequence Fragment:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   HHKKHKKATVQKAQAAKKVHHKKVAKKPVAQKAQAAKKVHHKKVAKKPVAQKAQAAKKVH
   HKKVAKKPVAQIAQAAKKVHHKKVAKKPVAQKAQAAKKVHHKKVTKKAAAPKA
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block:: 
 
   Region 1: 51-150 ,	20 aa length,	5 units
   HKKATVQKAQAAKKVHHKKV
