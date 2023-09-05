@@ -219,6 +219,64 @@ Alphafold results - units from MRF
 
 `Alphafold results A7TTI5 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/146cab3b211d00392cf71d576661beccbc7d985f/docs/AF-A7TTI5-F1-model_v4.pdb/>`_
 
+PF00880 - Nebulin repeat
+========================
+
+`PF00880 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00880/>`_
+
+
+##A0A0S7IV57
+
+
+PFAM repeat units: 68-95, 103-129
+
+`A0A0S7IV57 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A0S7IV57/>`_
+
+Sequence:
+
+.. code-block:: 
+
+  >tr|A0A0S7IV57|A0A0S7IV57_9TELE NEBU (Fragment) OS=Poeciliopsis prolifica OX=188132 GN=NEBU PE=4 SV=1
+  SNDVVQARLAYDLQSDAVYKADLKWLQGLGWVPIGSLDVEKAKKAAEVLSDRKYRQHPST
+  VKFTSPIDAMNIVLAKSNAMTMNKRLYTEAWENEKTKLHIKPDTPEIVLSQQNAINMSKK
+  LYKQGFEETISKGYFLPPDAVSVKAAKTSRDIISDYKYKTG
+
+
+MRF results:
+
+.. code-block:: 
+
+  Region 1: 3-141, 43 aa length, 4 units
+  DVVQARLAYDLQSDA--VYK---A---DLKWLQGLGWVPIGSL
+  DVEKAKKAAEVL--SDRKYR---Q---HPSTVKFTS--PIDAM
+  NIVLAKSNAMTMN--KRLYTEAWE---NEKTKLHIK--P-DTP
+  EIVLSQQNAINM--SKKLYK---QGFEETISKGYFL--PPDAV
+
+
+TAPAS results:
+
+.. code-block:: 
+
+  tr_A0A0S7IV57_OX=188132_GN=NEBU_PE=4_SV=1,structured domain,CATH,13,86,3.30.70.330/FF/43532
+  tr_A0A0S7IV57_OX=188132_GN=NEBU_PE=4_SV=1,structured domain,CATH,104,160,3.30.1370.30/FF/2311
+  tr_A0A0S7IV57_OX=188132_GN=NEBU_PE=4_SV=1,disordered region,BISMMpredictor,49,64
+  tr_A0A0S7IV57_OX=188132_GN=NEBU_PE=4_SV=1,functional domain,PFAM,68,95,PF00880.19
+  tr_A0A0S7IV57_OX=188132_GN=NEBU_PE=4_SV=1,functional domain,PFAM,103,129,PF00880.19
+  tr_A0A0S7IV57_OX=188132_GN=NEBU_PE=4_SV=1,consensus ordered region,TAPASS,1,165
+
+
+
+Alphafold results - spectrum b
+
+.. image:: /images/A0A0S7IV57alphafold.png
+
+Alphafold results - units from MRF 
+
+.. image:: /images/A0A0S7IV57alphafoldUnits.png
+
+`AlphaFold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/95d456447b5dd2e91e2d8d923c4e62c623bbb0df/docs/AF-A0A0S7IV57-F1-model_v3.pdb>`_ 
+
+
 
 
 ###P46999
