@@ -7,7 +7,7 @@ G2YIK9_BOTF4
 ------------
 Repeat Units annotated 196-213, 260-277 ...
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/G2YIK9/>`_
+`G2YIK9_BOTF4 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/G2YIK9/>`_
 
 Sequence:
 
@@ -84,7 +84,7 @@ K1XX71_MARBU
 ------------
 Repeat Units annotated 182-198 ...
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/K1XX71/>`_
+`K1XX71_MARBU Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/K1XX71/>`_
 
 Sequence:
 
@@ -146,7 +146,7 @@ A0A0N0NR21
 
 Repeat Units annotated 930-945
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A0N0NR21>`_
+`A0A0N0NR21 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A0N0NR21>`_
 
 Sequence:
 
