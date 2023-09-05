@@ -1,7 +1,7 @@
 PF00880 - Nebulin repeat
 ========================
 
-`Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00880/>`_
+`PF00880 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00880/>`_
 
 
 A0A0S7IV57
@@ -9,7 +9,7 @@ A0A0S7IV57
 
 PFAM repeat units: 68-95, 103-129
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A0S7IV57/>`_
+`A0A0S7IV57 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A0S7IV57/>`_
 
 Sequence:
 
