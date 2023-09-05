@@ -6,7 +6,7 @@ PF03057 - DUF236 repeat
 A0A3P7F6R4
 ----------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A3P7F6R4/>`_
+`A0A3P7F6R4 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A3P7F6R4/>`_
 
 Sequence:
 
@@ -45,12 +45,12 @@ Alphafold results - units from MRF
 
 .. image:: /images/A0A3P7F6R4alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/db4ce85a7298a43d11ed8d14d2ba8f9a45e52824/docs/AF-A0A3P7F6R4-F1-model_v4.pdb>`_
+`Alpha fold results A0A3P7F6R4 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/db4ce85a7298a43d11ed8d14d2ba8f9a45e52824/docs/AF-A0A3P7F6R4-F1-model_v4.pdb>`_
 
 A0A7W1P561
 ----------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A7W1P561/>`_
+`A0A7W1P561 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A7W1P561/>`_
 
 Sequence:
 
@@ -89,12 +89,12 @@ Alphafold results - spectrum b
 .. image:: /images/A0A7W1P561alphafold.png
 
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/db4ce85a7298a43d11ed8d14d2ba8f9a45e52824/docs/AF-A0A7W1P561-F1-model_v4.pdb>`_
+`Alpha fold results A0A7W1P561 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/db4ce85a7298a43d11ed8d14d2ba8f9a45e52824/docs/AF-A0A7W1P561-F1-model_v4.pdb>`_
 
 A0A498SNS4
 ----------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A498SNS4/>`_
+`A0A498SNS4 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A498SNS4/>`_
 
 Sequence:
 
@@ -143,5 +143,5 @@ Alphafold results - spectrum b
 .. image:: /images/A0A498SNS4alphafold.png
 
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/db4ce85a7298a43d11ed8d14d2ba8f9a45e52824/docs/AF-A0A498SNS4-F1-model_v4.pdb>`_
+`Alpha fold results A0A498SNS4 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/db4ce85a7298a43d11ed8d14d2ba8f9a45e52824/docs/AF-A0A498SNS4-F1-model_v4.pdb>`_
 
