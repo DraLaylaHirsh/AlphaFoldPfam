@@ -9,7 +9,7 @@ B3RT04
 
 PFAM repeat regions: 83-118, 120-155, 157-192, 194-229, 231-266, 268-303
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/B3RT04/>`_
+`B3RT04 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/B3RT04/>`_
 
 Sequence:
 
@@ -85,7 +85,7 @@ Alphafold results - spectrum b of the repeat region
 .. image:: /images/B3RT04alphafold.png
 
 
-`AlphaFold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/4cfe4d4d33133e27fe636b74e69d468e36d5825f/docs/PF02218_B3RT04_60de8.result.zip>`_
+`AlphaFold results B3RT04 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/4cfe4d4d33133e27fe636b74e69d468e36d5825f/docs/PF02218_B3RT04_60de8.result.zip>`_
 
 
 D7EJV2
@@ -93,7 +93,7 @@ D7EJV2
 
 PFAM repeat regions: 85-120, 657-791, 694-729,731-752
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/D7EJV2/>`_
+`D7EJV2 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/D7EJV2/>`_
 
 Sequence:
 
@@ -165,7 +165,7 @@ Alphafold results - units from MRF
 
 .. image:: /images/D7EJV2alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/c2cdaf8148c029c008dfa063264374e33dd5010e/docs/AF-D7EJV2-F1-model_v4.pdb>`_
+`Alpha fold results  D7EJV2<https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/c2cdaf8148c029c008dfa063264374e33dd5010e/docs/AF-D7EJV2-F1-model_v4.pdb>`_
 
 
 
@@ -174,7 +174,7 @@ A0A6G0T661
 
 PFAM repe
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A6G0T661/>`_
+`A0A6G0T661 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A6G0T661/>`_
 
 Sequence:
 
@@ -253,14 +253,14 @@ Alphafold results - units from MRF
 
 .. image:: /images/A0A6G0T661alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/c2cdaf8148c029c008dfa063264374e33dd5010e/docs/AF-A0A6G0T661-F1-model_v4.pdb>`_
+`Alpha fold results A0A6G0T661<https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/c2cdaf8148c029c008dfa063264374e33dd5010e/docs/AF-A0A6G0T661-F1-model_v4.pdb>`_
 
 
 
 A0A6Q2YKY6
 ----------
 
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A6Q2YKY6/>`_
+`A0A6Q2YKY6 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A6Q2YKY6/>`_
 
 Sequence:
 
@@ -309,6 +309,6 @@ Alphafold results - units from MRF
 
 .. image:: /images/A0A6Q2YKY6alphafoldUnits.png
 
-`Alpha fold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/c2cdaf8148c029c008dfa063264374e33dd5010e/docs/AF-A0A6Q2YKY6-F1-model_v4.pdb>`_
+`Alpha fold results A0A6Q2YKY6 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/c2cdaf8148c029c008dfa063264374e33dd5010e/docs/AF-A0A6Q2YKY6-F1-model_v4.pdb>`_
 
 
