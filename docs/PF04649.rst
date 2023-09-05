@@ -96,11 +96,7 @@ TAPAS results:
   tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	functional domain	PFAM	334	346	PF04649.13
   tr_Q9L8W2_OX=2100_GN=vlpA87_PE=4_SV=1	consensus disordered region	TAPASS	1	355	
 
-.. image:: /images/alphafoldtapass.jpg
-
-Alphafold results - spectrum b
-
-.. image:: /images/alphafold.png
+ 
 
 
 `Alpha fold results Q9L8W2 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/e1025f5ac31c8bbad1b563de4c775be719dd5f28/docs/AF-Q9L8W2-F1-model_v4.pdb>`_
