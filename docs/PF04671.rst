@@ -11,7 +11,7 @@ A0A024WZ97
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >tr|A0A024WZ97|A0A024WZ97_PLAFC Microtubule-associated protein futsch (Fragment) OS=Plasmodium falciparum (isolate Camp / Malaysia) OX=5835 GN=PFMC_05900 PE=4 SV=1
   VLEEEGSTTEEVVEEQGSVTENLLEEESASQGIVEKEEFVDEEDSVKDQNVFEKEGSVTE
@@ -27,7 +27,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block:: 
 
   Region 1: 118-158,21 aa length,2 units,TRUST 0.591
   EEKSLTDKLLEEE-SVTKEVG 
@@ -44,7 +44,7 @@ MRF results:
 
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block:: 
 
   tr_A0A024WZ97OX=5835_GN=PFMC_05900_PE=4_SV=1	structured domain	CATH	83	111	1.10.8.10/FF/15369
   tr_A0A024WZ97OX=5835_GN=PFMC_05900_PE=4_SV=1	structured domain	CATH	130	267	2.160.20.20/FF/2485
@@ -69,13 +69,7 @@ TAPAS results:
   tr_A0A024WZ97OX=5835_GN=PFMC_05900_PE=4_SV=1	consensus disordered region	TAPASS	414	464	
 
 
-Alphafold results - spectrum b
 
-.. image:: /images/alphafold.png
-
-Alphafold results - units from MRF 
-
-.. image:: /images/alphafoldUnits.png
 
 `Alpha fold results A0A024WZ97 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/>`_
 
@@ -87,7 +81,7 @@ A0A0L7KJ08
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >tr|A0A0L7KJ08|A0A0L7KJ08_PLAFX Liver stage antigen 3 OS=Plasmodium falciparum (isolate HB3) OX=137071 GN=PFHG_05029 PE=4 SV=1
   MKDRLLNLRKQNQETSINEVQKIESITEDIKEQLVPEEIKEEQLDSEEIKEEQLDSEEIK
@@ -114,7 +108,7 @@ Sequence:
 
 MRF results:
 
-.. code-block:: MRFresults
+.. code-block:: 
  
 
 
@@ -198,7 +192,7 @@ MRF results:
   
 TAPAS results:
 
-.. code-block:: TAPASresults
+.. code-block:: 
 
   tr_A0A0L7KJ08 OX=137071_GN=PFHG_05029_PE=4_SV=1	structured domain	CATH	31	192	2.160.20.80/FF/2234
   tr_A0A0L7KJ08 OX=137071_GN=PFHG_05029_PE=4_SV=1	structured domain	CATH	320	464	3.30.460.10/FF/17852
@@ -237,14 +231,6 @@ TAPAS results:
   tr_A0A0L7KJ08 OX=137071_GN=PFHG_05029_PE=4_SV=1	consensus disordered region	TAPASS	1	31	
   tr_A0A0L7KJ08 OX=137071_GN=PFHG_05029_PE=4_SV=1	consensus disordered region	TAPASS	193	320	
   tr_A0A0L7KJ08 OX=137071_GN=PFHG_05029_PE=4_SV=1	consensus disordered region	TAPASS	465	1200	
-
-Alphafold results - spectrum b
-
-.. image:: /images/alphafold.png
-
-Alphafold results - units from MRF 
-
-.. image:: /images/alphafoldUnits.png
 
 `Alpha fold results A0A0L7KJ08 <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/97c197c3279ce9aaecacc06f07c7393122b67b6b/docs/>`_
 
