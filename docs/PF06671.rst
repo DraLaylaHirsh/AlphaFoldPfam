@@ -1,9 +1,5 @@
 PF06671 - 
-=============================
+=========
 
 `PF06671 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF06671/>`_
-
-
-
-------
-
+ 
