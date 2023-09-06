@@ -276,7 +276,9 @@ Alphafold results - units from MRF
 
 .. image:: /images/A0A0S7IV57alphafoldUnits.png
 
-`AlphaFold results <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/95d456447b5dd2e91e2d8d923c4e62c623bbb0df/docs/AF-A0A0S7IV57-F1-model_v3.pdb>`_ 
+`AlphaFold results monomer <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/95d456447b5dd2e91e2d8d923c4e62c623bbb0df/docs/AF-A0A0S7IV57-F1-model_v3.pdb>`_ 
+`AlphaFold results dimer <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/95d456447b5dd2e91e2d8d923c4e62c623bbb0df/docs/A0A0S7IV57dimer.pdb>`_ 
+`AlphaFold results trimer <https://github.com/DraLaylaHirsh/AlphaFoldPfam/blob/95d456447b5dd2e91e2d8d923c4e62c623bbb0df/docs/A0A0S7IV57trimer.pdb>`_ 
 
 
 
