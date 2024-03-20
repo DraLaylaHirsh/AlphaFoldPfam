@@ -1,7 +1,7 @@
-PF06049 - 
-=============================
+PF07806 -  Nod_GRP
+==================
 
-`PF06049 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF06049/>`_
+`PF07806 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF07806/>`_
 
 
  
