@@ -21,6 +21,12 @@ What will you find here
   Instructions
 
 ****************
+Summary
+*******
+.. toctree::
+   Summary
+
+****************
 Cases to review
 ****************
 .. toctree::
