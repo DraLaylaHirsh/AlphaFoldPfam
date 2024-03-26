@@ -20,7 +20,7 @@ What will you find here
 .. toctree::
   Instructions
 
-****************
+*******
 Summary
 *******
 .. toctree::
