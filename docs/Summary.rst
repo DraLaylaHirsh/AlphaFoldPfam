@@ -9,7 +9,9 @@ PF00399 - Yeast PIR protein repeat
 `PF00399 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00399/>`_
 
 There are different architecture domains, in which not annotated but well predicted regions were found, new annotations have been created on N-term and C-term.
+
 https://www.ebi.ac.uk/interpro/protein/UniProt/A0A0L8VNF4/alphafold/  (C-term)
+
 https://www.ebi.ac.uk/interpro/protein/UniProt/A0A0B4HCL9/alphafold/  (N-term)
 
 We found a group of proteins in which the repeat region protein is in most of the protein length 
