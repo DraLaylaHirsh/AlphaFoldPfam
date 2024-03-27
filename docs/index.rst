@@ -20,11 +20,17 @@ What will you find here
 .. toctree::
   Instructions
 
-*******
-Summary
-*******
+*********
+Summary 1 
+*********
 .. toctree::
-   Summary
+   Summary1
+
+*********
+Summary 2
+*********
+.. toctree::
+   Summary2
 
 ****************
 Cases to review
