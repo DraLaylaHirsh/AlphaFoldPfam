@@ -93,8 +93,8 @@ https://www.ebi.ac.uk/interpro/structure/PDB/6odi/#table
 .. image:: /images/6odi.png
 
 
-PF14912 - THEG
---------------
+PF14912 - Testicular haploid expressed repeat
+---------------------------------------------
 `PF14912 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF14912/>`_
 
 There is already a structure, Xmer to be stable
@@ -106,6 +106,11 @@ https://www.ebi.ac.uk/interpro/entry/pfam/PF14912/structure/PDB/#table
 PF15287 - KRBA1
 ---------------
 `PF15287 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF15287/>`_
+
+A0A520YT06
+..........
+
+`A0A520YT06 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A520YT06/alphafold/>`_
 
 
 
