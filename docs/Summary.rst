@@ -17,7 +17,7 @@ https://www.ebi.ac.uk/interpro/protein/UniProt/A0A0B4HCL9/alphafold/  (N-term)
 We found a group of proteins in which the repeat region protein is in most of the protein length 
 
 A0A072PHP4
-............
+..........
 `A0A072PHP4 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A072PHP4/alphafold/>`_
 
 Sequence:
@@ -200,7 +200,7 @@ The protein has usually more than 2000 aa, we tried to predict the structure in 
 We found a group of proteins in which the protein is smaller than the rest, and a structure prediction was made
 
 A0A1V4L0S5
-............
+..........
 `A0A1V4L0S5 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A1V4L0S5/alphafold/>`_
 
 `A0A1V4L0S5 AlphafoldDB sequence information <https://alphafold.ebi.ac.uk/entry/A0A1V4L0S5>`_
@@ -261,7 +261,7 @@ TAPAS results:
 
 
 A0A250Y8D3
-............
+..........
 `A0A250Y8D3 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A250Y8D3/alphafold/>`_
 
 `A0A250Y8D3 AlphafoldDB sequence information <https://alphafold.ebi.ac.uk/entry/A0A250Y8D3>`_
@@ -311,6 +311,7 @@ TAPAS results:
 
 .. image:: /images/PF00414_A0A250Y8D3.png
 
+
 PF00624 - Flocculin repeat
 --------------------------
 
@@ -319,7 +320,7 @@ PF00624 - Flocculin repeat
 There are some cases in which the predictor identifies a beta flat solenoids with low model confidence (A7TTI5), but also cases where the prediction of the unit is confident to very high (A0A1Q3ALI5)  
 
 A7TTI5
-------
+......
 
 `A7TTI5 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A7TTI5/>`_
 
@@ -387,7 +388,7 @@ TAPASS results:
 
 
 A0A1Q3ALI5
-----------
+..........
 
 Repeat units annotated: 207-307, 314-353
 
@@ -431,7 +432,7 @@ PF00880 - Nebulin repeat
 In the literature we can observe a very high model confidence (https://www.mpg.de/18283745/nebulin-no-longer-nebulous)
 
 A0A0S7IV57
-----------
+..........
 
 `A0A0S7IV57 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A0S7IV57/>`_
 
@@ -472,7 +473,7 @@ PF00904 - Involucrin repeat
 `PF00904 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00904/>`_
 
 P14591
-------
+......
 
 `P14591 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/P14591/>`_
 
@@ -509,7 +510,7 @@ TAPAS results:
 
 
 B4DWR5
-------
+......
 
 `B4DWR5 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/B4DWR5/>`_
 
@@ -566,6 +567,90 @@ MRF results:
 TAPAS results:
 
 .. image:: /images/PF00904_B4DWR5.png
+
+
+
+
+
+PF09528 - Ehrlichia_rpt 
+-----------------------
+
+`PF09528 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF09528/>`_
+
+T1L1A4
+......
+
+`T1L1A4 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/T1L1A4/>`_
+
+
+`T1L1A4 AlphafoldDB sequence information <https://alphafold.ebi.ac.uk/entry/T1L1A4>`_
+
+
+Sequence:
+
+.. code-block:: 
+  
+  >sp|P14591|INVO_PANPA Involucrin OS=Pan paniscus OX=9597 GN=IVL PE=2 SV=1
+  MSQQHTLPVTLSPALSQELLKTVPPPVNTQQEQMKQPTPLPPPCQKMPVELPVEVPSKQE
+  EKHMTAVKGLPEQECEQQQQEPQEQELQQQHWEQHEEYQKAENPEQQLKQEKAQRDPQLN
+  KQLEEEKKLLDQQLDQELVKRDEQLGMKKEQLLELPEQQEGHLKHLEQREGQLELPEQQE
+  GQLKHLEQQKGQLELPEQQEGQLELPEQQEGQLKHLEQQEGQLKHLEHQEGQLEVPEEQV
+  GQLKYLEQQEGQLKHLDQQEKQPELPEQQVGQLKHLEQQEGQPKHLEQQKGQLEHLEEQE
+  GQLKHLEQQEGQLEHLEHQEGQLGLPEQQVQQLKQLEKEEGQPKHLEEEEGQLKHLVQQE
+  GQLEHLVQQEGQLEHLVQQEGQLEQQEGQVEHLEQQVEHLEQLGQLKHLEEQEGQLKHLE
+  QQQGQLGVPEQVGQPKNLEQEEKQLELPEQQEGQLKHLEKQEAQLELPEQQVGQPKHLEQ
+  QEKQLEPPEQQDGQLKHLEQQEGQLKDLEQQKGQLEQPVFAPAPGQVQDIQSALPTKGEV
+  LLPLEHQQQKQEVQWPPKHK
+
+
+
+MRF results:
+
+.. image:: /images/PF00904_P14591_MRF.png
+
+
+TAPAS results:
+
+.. image:: /images/PF00904_P14591.png
+
+
+Q6W7F7
+......
+
+`Q6W7F7 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/Q6W7F7/>`_
+
+
+`Q6W7F7 AlphafoldDB sequence information <https://alphafold.ebi.ac.uk/entry/Q6W7F7>`_
+
+
+Sequence:
+
+.. code-block:: 
+  
+  >tr|Q6W7F7|Q6W7F7_EHRCH 120 kDa immunodominant surface protein (Fragment) OS=Ehrlichia chaffeensis OX=945 PE=4 SV=1
+  VSQPSLEPFVAESEVSKVEQEETNPEVLIKDLQDVASHESGVSDQPAQVVTERENEIESH
+  QGETEKESGITESHQKEDEIVSQSSSEPFVAESEVSKVEQEKTNPEVLIKDLQDVASHES
+  GVSDQPAQVVTERENEIESHQGETEKESGITESHQKEDEIVSQSSSEPFVAESEVSKVEQ
+  EETNPEVLIKDLQDVASHESGVSDQPAQVVTERENEIESHQGETEKESGITESHQKEDEI
+  VSQSSSEPFVAESEVSKVEQEETNPEVLIKDLQDVASHESGVSDQPAQVVTERESEIESH
+  QGETEKESGITESNQKEDEIVSQPSSEPFVAESEVSKVEQEETNPEVLIKDLQDVASHES
+  GVSDQPAQVVTERESEIESHQGETEKESGITESHQKEDEIVSQPSSEPFVAESEVSKVEQ
+  EETNPEILVEDLPLGQV
+
+
+
+MRF results:
+.. code-block:: 
+
+  Region 1:35 -	283 ,	99  aa length, 3 units
+ 
+NAFHAFEQFGQTFNEKVQEALKNLLSAFGNKNS-SAEASVVVEKRATNPLQLINDL--DDPAQFAQTFLKVLLDLATGQGRRKRDIAEDLKKFSEEAKH
+NA------------EEALKKLFSFLEQFKSQSSESTEASVVVEKRATNPLQLINDL--DDPAQFAQTLLKVLADIATGQGRRKRDIAEDLKKFSDEAKH
+NA------------EEALKKLFSFLEQFKPQSSESTEAPVVVEKRATNPLVLFNDLSQQDLGKFAQDFLKVLADIATAQG-------------------
+
+TAPAS results:
+
+.. image:: /images/PF09528_Q6W7F7.png
 
 
 
