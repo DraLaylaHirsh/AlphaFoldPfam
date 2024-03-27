@@ -1,6 +1,6 @@
 
-Summary
-=======
+Summary 1
+=========
 
 
 
@@ -623,7 +623,7 @@ CrossBeta results:
 Q6W7F7
 ......
 
-A dimmer model has been tried, no representative model conservation 
+A dimmer model has been tried, no representative model conservation was obtained
 
 `Q6W7F7 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/Q6W7F7/>`_
 
