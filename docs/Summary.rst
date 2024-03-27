@@ -98,7 +98,7 @@ A0A077YXR0
 
 `A0A077YXR0 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A077YXR0/alphafold/>`_
 
-`A0A077YXR0 AlphafoldBDB sequence information <https://alphafold.ebi.ac.uk/entry/A0A077YXR0>`_
+`A0A077YXR0 AlphafoldDB sequence information <https://alphafold.ebi.ac.uk/entry/A0A077YXR0>`_
 
 Sequence:
 
@@ -188,8 +188,11 @@ PF00414 - Neuraxin and MAP1B repeat
 There are different architecture domains, in which not annotated but well predicted regions were found, new annotations have been created on N-tern and C-term .*
 
 https://alphafold.ebi.ac.uk/entry/A0A7J8F152 (C-term)
+
 https://www.ebi.ac.uk/interpro/protein/UniProt/A0A7J8IZT6/alphafold/ (C-term)
+
 https://www.ebi.ac.uk/interpro/protein/unreviewed/A0A1V4L0S5/alphafold/ (C-term)
+
 https://www.ebi.ac.uk/interpro/protein/UniProt/A0A834QI41/alphafold/ (N-term)
 
 The protein has usually more than 2000 aa, we tried to predict the structure in the cluster 
@@ -199,6 +202,8 @@ We found a group of proteins in which the protein is smaller than the rest, and 
 A0A1V4L0S5
 ............
 `A0A1V4L0S5 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A1V4L0S5/alphafold/>`_
+
+`A0A1V4L0S5 AlphafoldDB sequence information <https://alphafold.ebi.ac.uk/entry/A0A1V4L0S5>`_
 
 Sequence:
 
@@ -259,6 +264,8 @@ A0A250Y8D3
 ............
 `A0A250Y8D3 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A250Y8D3/alphafold/>`_
 
+`A0A250Y8D3 AlphafoldDB sequence information <https://alphafold.ebi.ac.uk/entry/A0A250Y8D3>`_
+
 Sequence:
 
 .. code-block::  
@@ -315,6 +322,9 @@ A7TTI5
 ------
 
 `A7TTI5 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A7TTI5/>`_
+
+`A7TTI5 AlphafoldDB sequence information <https://alphafold.ebi.ac.uk/entry/A7TTI5>`_
+
 Sequence:
 
 .. code-block:: 
@@ -376,18 +386,14 @@ TAPASS results:
 .. code-block:: 
 
 
-
-
-Alphafold from database 
-  
-  https://www.ebi.ac.uk/interpro/protein/UniProt/A7TTI5/alphafold/
-
 A0A1Q3ALI5
 ----------
 
 Repeat units annotated: 207-307, 314-353
 
 `A0A1Q3ALI5 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A1Q3ALI5/>`_
+
+`A0A1Q3ALI5 AlphafoldDB sequence information <https://alphafold.ebi.ac.uk/entry/A0A1Q3ALI5>`_
 
 Sequence:
 
@@ -416,9 +422,6 @@ TAPAS results:
 
 .. image:: /images/PF00624_A0A1Q3ALI5.png
 
-
-Alphafold from the database
-
-https://www.ebi.ac.uk/interpro/protein/UniProt/A0A1Q3ALI5/alphafold/
+ 
 
 
