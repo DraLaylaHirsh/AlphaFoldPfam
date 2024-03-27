@@ -71,7 +71,7 @@ MRF results:
   PAPVFVQPR
 
 
- 	Region 2:129-140, 	6 aa length,	2 units
+  Region 2:129-140, 	6 aa length,	2 units
 
   GYRGGY
   GYRQGY
