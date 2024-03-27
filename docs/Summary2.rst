@@ -86,13 +86,22 @@ PF14585 -  CagY_I
 -----------------
 `PF14585 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF14585/>`_
 
+There is already a structure, Xmer to be stable
+
+https://www.ebi.ac.uk/interpro/structure/PDB/6odi/#table
+
+.. image:: /images/6odi.png
 
 
 PF14912 - THEG
 --------------
 `PF14912 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF14912/>`_
 
+There is already a structure, Xmer to be stable
 
+https://www.ebi.ac.uk/interpro/entry/pfam/PF14912/structure/PDB/#table
+
+.. image:: /images/8snb.png
 
 PF15287 - KRBA1
 ---------------
