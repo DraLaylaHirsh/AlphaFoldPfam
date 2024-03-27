@@ -187,13 +187,13 @@ PF00414 - Neuraxin and MAP1B repeat
 
 There are different architecture domains, in which not annotated but well predicted regions were found, new annotations have been created on N-tern and C-term .*
 
-https://alphafold.ebi.ac.uk/entry/A0A7J8F152 (C-term)
+`A0A7J8F152 c-term <https://alphafold.ebi.ac.uk/entry/A0A7J8F152>`_
 
-https://www.ebi.ac.uk/interpro/protein/UniProt/A0A7J8IZT6/alphafold/ (C-term)
+`A0A7J8IZT6 c-term <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A7J8IZT6/alphafold/>`_  
 
-https://www.ebi.ac.uk/interpro/protein/unreviewed/A0A1V4L0S5/alphafold/ (C-term)
+`A0A1V4L0S5 c-term <https://www.ebi.ac.uk/interpro/protein/unreviewed/A0A1V4L0S5/alphafold/>`_  
 
-https://www.ebi.ac.uk/interpro/protein/UniProt/A0A834QI41/alphafold/ (N-term)
+`A0A834QI41 N-term <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A834QI41/alphafold/>`_ 
 
 The protein has usually more than 2000 aa, we tried to predict the structure in the cluster 
 
@@ -423,5 +423,149 @@ TAPAS results:
 .. image:: /images/PF00624_A0A1Q3ALI5.png
 
  
+PF00880 - Nebulin repeat
+--------------------------
+
+`PF00880 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00880/>`_
+
+In the literature we can observe a very high model confidence (https://www.mpg.de/18283745/nebulin-no-longer-nebulous)
+
+A0A0S7IV57
+----------
+
+`A0A0S7IV57 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A0S7IV57/>`_
+
+
+`A0A0S7IV57 AlphafoldDB sequence information <https://alphafold.ebi.ac.uk/entry/A0A0S7IV57>`_
+
+
+
+Sequence:
+
+.. code-block:: 
+
+  >tr|A0A0S7IV57|A0A0S7IV57_9TELE NEBU (Fragment) OS=Poeciliopsis prolifica OX=188132 GN=NEBU PE=4 SV=1
+  SNDVVQARLAYDLQSDAVYKADLKWLQGLGWVPIGSLDVEKAKKAAEVLSDRKYRQHPST
+  VKFTSPIDAMNIVLAKSNAMTMNKRLYTEAWENEKTKLHIKPDTPEIVLSQQNAINMSKK
+  LYKQGFEETISKGYFLPPDAVSVKAAKTSRDIISDYKYKTG
+
+
+MRF results:
+
+.. code-block:: 
+
+  Region 1: 3-141, 43 aa length, 4 units
+  DVVQARLAYDLQSDA--VYK---A---DLKWLQGLGWVPIGSL
+  DVEKAKKAAEVL--SDRKYR---Q---HPSTVKFTS--PIDAM
+  NIVLAKSNAMTMN--KRLYTEAWE---NEKTKLHIK--P-DTP
+  EIVLSQQNAINM--SKKLYK---QGFEETISKGYFL--PPDAV
+
+
+TAPAS results:
+
+.. image:: /images/PF00880_A0A0S7IV57.png
+
+
+PF00904 - Involucrin repeat
+---------------------------
+
+`PF00904 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF00904/>`_
+
+P14591
+------
+
+`P14591 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/P14591/>`_
+
+
+`P14591 AlphafoldDB sequence information <https://alphafold.ebi.ac.uk/entry/P14591>`_
+
+
+Sequence:
+
+.. code-block:: 
+  
+  >sp|P14591|INVO_PANPA Involucrin OS=Pan paniscus OX=9597 GN=IVL PE=2 SV=1
+  MSQQHTLPVTLSPALSQELLKTVPPPVNTQQEQMKQPTPLPPPCQKMPVELPVEVPSKQE
+  EKHMTAVKGLPEQECEQQQQEPQEQELQQQHWEQHEEYQKAENPEQQLKQEKAQRDPQLN
+  KQLEEEKKLLDQQLDQELVKRDEQLGMKKEQLLELPEQQEGHLKHLEQREGQLELPEQQE
+  GQLKHLEQQKGQLELPEQQEGQLELPEQQEGQLKHLEQQEGQLKHLEHQEGQLEVPEEQV
+  GQLKYLEQQEGQLKHLDQQEKQPELPEQQVGQLKHLEQQEGQPKHLEQQKGQLEHLEEQE
+  GQLKHLEQQEGQLEHLEHQEGQLGLPEQQVQQLKQLEKEEGQPKHLEEEEGQLKHLVQQE
+  GQLEHLVQQEGQLEHLVQQEGQLEQQEGQVEHLEQQVEHLEQLGQLKHLEEQEGQLKHLE
+  QQQGQLGVPEQVGQPKNLEQEEKQLELPEQQEGQLKHLEKQEAQLELPEQQVGQPKHLEQ
+  QEKQLEPPEQQDGQLKHLEQQEGQLKDLEQQKGQLEQPVFAPAPGQVQDIQSALPTKGEV
+  LLPLEHQQQKQEVQWPPKHK
+
+
+
+MRF results:
+
+.. image:: /images/PF00904_P14591_MRF.png
+
+
+TAPAS results:
+
+.. image:: /images/PF00904_P14591.png
+
+
+B4DWR5
+------
+
+`B4DWR5 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/B4DWR5/>`_
+
+
+`B4DWR5 AlphafoldDB sequence information <https://alphafold.ebi.ac.uk/entry/B4DWR5>`_
+
+
+Sequence:
+
+.. code-block:: 
+  
+  >B4DWR5 1-449
+  MKKEQLLELPEQQEGHLKHLEQQEGQLKHPEQQEGQLELPEQQEGQLELPEQQEGQLELPEQQEGQLELPEQQEGQLELP
+  EQQEGQLELPEQQEGQLELSEQQEGQLELSEQQEGQLELSEQQEGQLKHLEHQEGQLEVPEEQMGQLKYLEQQEGQLKHL
+  DQQEKQPELPEQQMGQLKHLEQQEGQPKHLEQQEGQLEQLEEQEGQLKHLEQQEGQLEHLEHQEGQLGLPEQQVLQLKQL
+  EKQQGQPKHLEEEEGQLKHLVQQEGQLKHLVQQEGQLEQQERQVEHLEQQVGQLKHLEEQEGQLKHLEQQQGQLEVPEQQ
+  VGQPKNLEQEEKQLELPEQQEGQLKHLEKQEAQLELPEQQVGQPKHLEQQEKHLEHPEQQDGQLKHLEQQEGQLKDLEQQ
+  KGQLEQPVFAPAPGQVQDIQPALPTKGEVLLPVEHQQQKQEVQWPPKHK
+
+
+MRF results:
+.. code-block:: 
+
+  Region 1:46 -217, 	20 aa length, 16 units
+  -------QLELPEQQEG---
+  -------QLELPEQQEG---
+  -------QLELPEQQEG---
+  -------QLELPEQQEG---
+  -------QLELPEQQEG---
+  -------QLELSEQQEG---
+  -------QLELSEQQEG---
+  -------QLELSEQQEG---
+  -------QLKHLEHQEG---
+  -------QLEVPEEQMG---
+  -------QLKYLEQQEG---
+  -------QLKHLDQQEKQPE
+  LPEQQMGQLKHLE-------
+  ---QQEGQPKHLE-------
+  ---QQEGQLEQLEEQE----
+  ------GQLKHLEQQEGQL-
+
+  Region 2: 222 - 398,	20 aa length, 9 units
+  HQEGQLGLPEQQVLQLKQLE
+  KQQGQPKHLEEEEGQLKHLV
+  QQEGQLKHLVQQEGQ---LE
+  QQERQVEHLEQQVGQLKHLE
+  EQEGQLKHLEQQQGQLEVPE
+  QQVGQPKNLEQEEKQLELPE
+  QQEGQLKHLEKQEAQLELPE
+  QQVGQPKHLEQQEKHLEHPE
+  QQDGQLKHLEQQEGQLKDLE
+
+
+TAPAS results:
+
+.. image:: /images/PF00904_B4DWR5.png
+
 
 
