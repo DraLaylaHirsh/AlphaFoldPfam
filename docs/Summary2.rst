@@ -124,6 +124,9 @@ PF14585 -  CagY_I
 
 There is already a structure, Xmer to be stable
 
+6odi
+.....
+
 https://www.ebi.ac.uk/interpro/structure/PDB/6odi/#table
 
 .. image:: /images/6odi.png
@@ -134,6 +137,9 @@ PF14912 - Testicular haploid expressed repeat
 `PF14912 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF14912/>`_
 
 There is already a structure, Xmer to be stable
+
+8snb
+.....
 
 https://www.ebi.ac.uk/interpro/entry/pfam/PF14912/structure/PDB/#table
 
