@@ -7,9 +7,10 @@ PF02218 - Repeat in HS1/Cortactin
 B3RT04
 ------
 
-PFAM repeat regions: 83-118, 120-155, 157-192, 194-229, 231-266, 268-303
 
 `B3RT04 Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/B3RT04/>`_
+
+Triedas a dimer and trimer, did not work, unstructure
 
 Sequence:
 
