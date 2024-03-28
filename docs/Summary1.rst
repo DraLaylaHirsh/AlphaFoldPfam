@@ -569,6 +569,9 @@ TAPAS results:
 .. image:: /images/PF00904_B4DWR5.png
 
 
+AlphaFold results trimer:
+
+.. image:: /images/PF00904_B4DWR5_trimer.png
 
 
 
@@ -619,6 +622,11 @@ Alpha Fold results of cutted region:
 CrossBeta results:
 
 .. image:: /images/T1L1A4_predictor.png
+
+AlphaFold results trimer:
+
+.. image:: /images/PF09528_T1L1A4_trimmer.png
+
 
 Q6W7F7
 ......
