@@ -12,7 +12,7 @@ The sequences are long, more than 3500 amino acids there is no alphafold model
 A0A8I3P0L2
 ..........
 
-`A0A8I3P0L2 Interpro sequence information do not exist `_
+A0A8I3P0L2 Interpro sequence information do not exist 
 
 
 Sequence:
