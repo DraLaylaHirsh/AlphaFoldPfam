@@ -39,7 +39,7 @@ MRF results:
 TAPAS results:
   
   
-  .. image:: /images/PF03482_A0A340XG16.png
+  .. image:: /images/PF03516_A0A340XG16.png
 
 PF03991 - Filaggrin
 -------------------
@@ -65,7 +65,7 @@ Sequence:
 MRF results:
 
 
-  .. image:: /images/PF03516_A0A340XG16_MRF.png
+  .. image:: /images/PF03991_Q7KYY8_MRF.png
     
     
 TAPAS results:
