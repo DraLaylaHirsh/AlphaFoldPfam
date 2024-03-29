@@ -71,5 +71,38 @@ MRF results:
 TAPAS results:
   
   
+  .. image:: /images/PF03991_Q7KYY8.png
+
+
+PF04649 - Filaggrin
+-------------------
+`PF04649 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF04649/>`_
+ 
+
+Q7KYY8
+..........
+
+ 
+`Q7KYY8 Interpro sequence information  <https://www.ebi.ac.uk/interpro/protein/UniProt/Q7KYY8/alphafold/>`_
+
+
+Sequence:
+
+.. code-block::  
+
+ >Q7KYY8 1-81
+ PQGGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQPHGGGWG
+ Q
+
+   
+MRF results:
+
+
+  .. image:: /images/PF03991_Q7KYY8_MRF.png
+    
+    
+TAPAS results:
+  
+  
   .. image:: /images/PF03482_A0A340XG16.png
 
