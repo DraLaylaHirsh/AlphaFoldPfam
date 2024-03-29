@@ -79,11 +79,11 @@ PF04649 - Mycoplasma hyorhinis VlpA repeat
 `PF04649 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF04649/>`_
  
 
-Q7KYY8
+Q9L8V9
 ..........
 
  
-`Q7KYY8 Interpro sequence information  <https://www.ebi.ac.uk/interpro/protein/UniProt/Q7KYY8/alphafold/>`_
+`Q9L8V9 Interpro sequence information  <https://www.ebi.ac.uk/interpro/protein/UniProt/Q9L8V9/alphafold/>`_
 
 
 Sequence:
@@ -98,11 +98,11 @@ Sequence:
 MRF results:
 
 
-  .. image:: /images/PF04649_Q7KYY8_MRF.png
+  .. image:: /images/PF04649_Q9L8V9_MRF.png
     
     
 TAPAS results:
   
   
-  .. image:: /images/PF04649_Q7KYY8.png
+  .. image:: /images/PF04649_Q9L8V9.png
 
