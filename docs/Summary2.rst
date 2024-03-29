@@ -42,3 +42,75 @@ TAPAS results:
   .. image:: /images/PF04680_Q05BV5.png
 
 
+
+PF04886 - PT repeat
+-------------------
+`PF04886 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF04886/>`_
+ 
+
+A0A0F6P044
+..........
+
+ 
+`A0A0F6P044 Interpro sequence information  <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A0F6P044/alphafold/>`_
+
+
+Sequence:
+
+.. code-block::  
+
+ >A0A0F6P044 1-358
+ VALLDNAIKCDEEVPIPDPPQSPDENPGGKDDPPGDSDPLPGEGAGAVEPAGGETDSGVEEGPAEQAVDQPLTQSTDQPA
+ DQPAEQPADQALTQPTDQPANQPVDQPTDQPIDQPTDQPVDQTTDQTTEQPAGEPLTQSTDEPVDQPLTQSTDQPAGEPL
+ THSTDQPADQPGDQSADQPQTTDQVTEQPTDQPTEQPTDQTTDQPTEQPTDEPLTQPTDEPLPQPIVEASDRAAAAAVKN
+ PNEIEAKCAQLKDQDGVKITGPCGAKFQVFLIPHVTINVETETNAIHLGKKLDDVVITKKMHKGVGGKSPPLLQFEEDAD
+ SLLNQCTEGKTFKFVVVVKGEELILKWKVYEKVPSPSD
+
+
+MRF results:
+
+
+  .. image:: /images/PF04886_A0A0F6P044_MRF.png
+    
+    
+TAPAS results:
+  
+  
+  .. image:: /images/PF04886_A0A0F6P044.png
+
+
+
+PF05671 - GETHR pentapeptide repeat (5 copies)
+--------------------------------------------------
+`PF05671 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF05671/>`_
+ 
+
+P91183
+..........
+
+ 
+`P91183 Interpro sequence information  <https://www.ebi.ac.uk/interpro/protein/UniProt/P91183/alphafold/>`_
+
+
+Sequence:
+
+.. code-block::  
+
+>P91183 1-101
+MFQNLLENSKKFWIVLEPSGKFLKMLLRDLRGETHRGETHHGETHRGEAHRGETHRGETHRGETRRGETHRGETRRGETQ
+NFGGKFKFSVKNILAGNLNFL
+
+
+MRF results:
+
+
+  .. image:: /images/PF05671_P91183_MRF.png
+    
+    
+TAPAS results:
+  
+  
+  .. image:: /images/PF05671_P91183.png
+
+
+
