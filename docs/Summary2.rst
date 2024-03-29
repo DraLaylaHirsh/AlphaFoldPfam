@@ -74,8 +74,8 @@ TAPAS results:
   .. image:: /images/PF03991_Q7KYY8.png
 
 
-PF04649 - Filaggrin
--------------------
+PF04649 - Mycoplasma hyorhinis VlpA repeat 
+------------------------------------------
 `PF04649 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF04649/>`_
  
 
@@ -98,11 +98,11 @@ Sequence:
 MRF results:
 
 
-  .. image:: /images/PF03991_Q7KYY8_MRF.png
+  .. image:: /images/PF04649_Q7KYY8_MRF.png
     
     
 TAPAS results:
   
   
-  .. image:: /images/PF03482_A0A340XG16.png
+  .. image:: /images/PF04649_Q7KYY8.png
 
