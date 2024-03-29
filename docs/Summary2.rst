@@ -79,14 +79,14 @@ Sequence:
   
   
   
-  MRF results:
+MRF results:
   
   .. image:: /images/PF18727_A0A8I3P0L2_MRF.png
   
-    
-  TAPAS results:
+TAPAS results:
   
-  The output of TAPASS was not shown because of the length of the protein, so some amino acids in the C-term were eliminated
+  The output of TAPASS was not shown because of the length of the protein, so some 
+  amino acids in the C-term were eliminated
   
   .. image:: /images/PF18727_A0A8I3P0L2.png
 
@@ -114,7 +114,7 @@ Sequence:
 
   
   
-  MRF results:
+MRF results:
   
    	
 .. code-block::  
@@ -140,7 +140,7 @@ Sequence:
   YGKPPYPKYP
     
     
-  TAPAS results:
+TAPAS results:
   
   
   .. image:: /images/PF02095_P13993.png
@@ -164,7 +164,7 @@ Sequence:
 
   
   
-  MRF results:
+MRF results:
 
 .. code-block::  
 
@@ -192,7 +192,7 @@ Sequence:
   HYPGYPPYEK--
 
     
-  TAPAS results:
+TAPAS results:
    
   .. image:: /images/PF02095_Q43414.png
 
@@ -223,7 +223,7 @@ Sequence:
   PEEAIYANSDNLADYLEDTGIHAIALYDYQAADDDEISFDPDDVITHIEKIDDGWWRGLCKNRYGLFPANYVQVVGQNS
   
   
-  MRF results:
+MRF results:
   
    	
 .. code-block::  
@@ -236,7 +236,7 @@ Sequence:
   DHKEAPQKHASQVDHKV----KPVIEGAKPSNLRAKF
     
     
-  TAPAS results:
+TAPAS results:
   
   
   .. image:: /images/PF02218_Q9VDF4.png
