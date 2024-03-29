@@ -145,6 +145,7 @@ P37397
 `P37397 AlphafoldBDB sequence information <https://alphafold.ebi.ac.uk/entry/P37397>`_
 
 Sequence:
+
 .. code-block::  
 
   >sp|P37397|CNN3_RAT Calponin-3 OS=Rattus norvegicus OX=10116 GN=Cnn3 PE=1 SV=1
@@ -384,7 +385,7 @@ MRF results:
 
 TAPASS results:
 
-.. code-block:: 
+.. image:: /images/PF00624_A7TTI5.png
 
 
 A0A1Q3ALI5
@@ -532,6 +533,7 @@ Sequence:
 
 
 MRF results:
+
 .. code-block:: 
 
   Region 1:46 -217, 	20 aa length, 16 units
@@ -602,6 +604,7 @@ Sequence:
 
 
 MRF results:
+
 .. code-block:: 
 
   Region 1:35 -	283 ,	99  aa length, 3 units
@@ -656,6 +659,7 @@ Sequence:
 
 
 MRF results:
+
 .. code-block:: 
 
   Region 1:2-401,80  aa length, 5 units
