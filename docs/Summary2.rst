@@ -12,8 +12,9 @@ The sequences are long, more than 3500 amino acids there is no alphafold model
 A0A8I3P0L2
 ..........
 
-A0A8I3P0L2 Interpro sequence information do not exist 
-
+A0A8I3P0L2 alphaFold model do not exist 
+ 
+`A0A8I3P0L2 Interpro sequence information  <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A8I3P0L2/>`_
 
 Sequence:
 
@@ -98,7 +99,8 @@ PF02095 - Extensin-like protein repeat
 P13993
 .......
 
-`P13993 Interpro sequence information  <https://www.ebi.ac.uk/interpro/entry/pfam/P13993/>`_
+ 
+`P13993 Interpro sequence information  <https://www.ebi.ac.uk/interpro/protein/UniProt/P13993/alphafold/>`_
 
 
 Sequence:
@@ -149,8 +151,7 @@ Sequence:
 Q43414
 .......
 
-`Q43414 Interpro sequence information  <https://www.ebi.ac.uk/interpro/entry/pfam/Q43414/>`_
-
+`Q43414 Interpro sequence information  <https://www.ebi.ac.uk/interpro/protein/UniProt/Q43414/alphafold/>`_
 
 Sequence:
 
@@ -194,6 +195,54 @@ Sequence:
   TAPAS results:
    
   .. image:: /images/PF02095_Q43414.png
+
+
+PF02218 - Repeat in HS1/Cortactin
+---------------------------------
+`PF02218 Protein family information <https://www.ebi.ac.uk/interpro/entry/pfam/PF02218/>`_
+ 
+
+Q9VDF4
+.......
+
+ 
+`Q9VDF4 Interpro sequence information  <https://www.ebi.ac.uk/interpro/protein/UniProt/Q9VDF4/alphafold/>`_
+
+
+Sequence:
+
+.. code-block::  
+
+  >Q9VDF4 1-559
+  MWKASAGHQIQATSAASAEDDDWETDPDFVNDVSEQEQRWGSKTIDGSGRTAGTIDMDKLREETEQADLDKKKQLLKDQN
+  AGYGYGGKFGVEKDRMDKSAVGHDYQGKVGKHASQKDYSDGFGGKFGVQEDRKDKSAVGWDHVEKVEKHASQKDYATGFG
+  GKFGVQSDRVDKSAVGWDHIEKVEKHESQKDYSKGFGGKFGVQEDRKDKSAVGWDHKEAPQKHASQVDHKVKPVIEGAKP
+  SNLRAKFENLAKNSEEESRKRAEEQKRLREAKDKRDREEAAKKTVAENTPRTSTEAPPPKGSRAAIQTGRTGGIGNAISA
+  FNQMQSPVSETPPARKEPIIIPKAQPVKIELEAKEEPTASTTSAAVAPTPTVVPAREPETAPVAKAAAPPPDVVPQIEVE
+  TVDTPPRSEPQSPVYVPTPQPEVHAQVQVQPEPQPQADPEPVVEEEPLYQNQAEIKAASPLPPTNGTVSEAVAPSGTATV
+  PEEAIYANSDNLADYLEDTGIHAIALYDYQAADDDEISFDPDDVITHIEKIDDGWWRGLCKNRYGLFPANYVQVVGQNS
+  
+  
+  MRF results:
+  
+   	
+.. code-block::  
+
+  Region 1: 44 -	223,10 aa length, 5 units
+  DKKKQLL---KDQNAGYGYGGKFGVEKDRMDKSAVGH
+  DYQGKVGKHASQKDYSDGFGGKFGVQEDRKDKSAVGW
+  DHVEKVEKHASQKDYATGFGGKFGVQSDRVDKSAVGW
+  DHIEKVEKHESQKDYSKGFGGKFGVQEDRKDKSAVGW
+  DHKEAPQKHASQVDHKV----KPVIEGAKPSNLRAKF
+    
+    
+  TAPAS results:
+  
+  
+  .. image:: /images/PF02218_Q9VDF4.png
+
+
+
 
 
 
