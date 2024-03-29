@@ -10,7 +10,7 @@ PF03516 - Filaggrin
  
 
 A0A340XG16
-.......
+..........
 
  
 `A0A340XG16 Interpro sequence information  <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A340XG16/alphafold/>`_
